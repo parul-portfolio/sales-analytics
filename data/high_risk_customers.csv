@@ -1,0 +1,2964 @@
+Customer_ID,Region,Lifetime_Value,Churn_Probability,Retention_Strategy
+CUST_9HOS83,South America,952.81,0.98,Loyalty Program
+CUST_IGH8G3,North America,4880.01,0.78,Discount
+CUST_P9K9F2,Europe,7031.07,0.94,Email Campaign
+CUST_FX276G,Asia,9395.6,0.73,Email Campaign
+CUST_H605W3,Europe,6589.81,0.86,Email Campaign
+CUST_WQB3QG,Europe,7317.6,0.89,Loyalty Program
+CUST_EF8557,Asia,6578.3,0.78,Email Campaign
+CUST_NWGN1Z,North America,3845.95,0.78,Email Campaign
+CUST_EA95KF,Asia,5125.94,0.88,Email Campaign
+CUST_T95LCL,Europe,1794.11,0.83,Discount
+CUST_MD1TF0,North America,9709.29,0.82,Email Campaign
+CUST_5C973R,Asia,2028.94,0.76,Discount
+CUST_OL6Z6A,North America,3860.4,0.95,Discount
+CUST_4XM4T8,South America,6527.21,0.97,Discount
+CUST_G3CBW1,North America,3585.45,0.98,Email Campaign
+CUST_BP1CZW,South America,4860.19,0.93,Discount
+CUST_V6TG3I,Europe,4384.96,0.94,Email Campaign
+CUST_FQDNFA,North America,2071.72,0.78,Loyalty Program
+CUST_5LNW0H,Europe,4032.5,0.97,Email Campaign
+CUST_TWR7Q9,South America,3278.04,0.92,Loyalty Program
+CUST_44WU3H,North America,9777.23,0.99,Email Campaign
+CUST_5CMJNC,North America,9884.14,1,Loyalty Program
+CUST_RIOS1B,North America,9939.87,0.75,Discount
+CUST_BY0GMM,Asia,6700.23,0.92,Email Campaign
+CUST_8G18L2,North America,2131.19,0.94,Discount
+CUST_G141RX,Asia,5732.6,0.82,Email Campaign
+CUST_JPDA4D,South America,3714.99,0.76,Loyalty Program
+CUST_REKKSM,Asia,5970.92,0.8,Discount
+CUST_1F6ITR,North America,182.6,0.94,Loyalty Program
+CUST_A9PHFE,Asia,3128.79,0.76,Email Campaign
+CUST_HOB0YK,Europe,8802.47,0.74,Loyalty Program
+CUST_5T9TN8,Europe,4170.5,0.86,Discount
+CUST_ZYJ13O,South America,7231.13,0.86,Discount
+CUST_ZJT22H,North America,3050.4,0.93,Loyalty Program
+CUST_4RESKZ,Europe,128.02,0.71,Loyalty Program
+CUST_EGCZS5,Europe,6756.35,0.98,Loyalty Program
+CUST_2MCHA9,Asia,7577.54,0.77,Email Campaign
+CUST_TBJH1N,South America,2525.29,0.82,Loyalty Program
+CUST_0CB73G,North America,1716.41,0.82,Loyalty Program
+CUST_DCB05J,Asia,9071.72,0.75,Email Campaign
+CUST_7WS7QT,Europe,1280.44,0.97,Discount
+CUST_EYA1WF,Europe,5618.73,0.76,Loyalty Program
+CUST_7DL54F,Europe,3034.81,0.9,Loyalty Program
+CUST_UUECOU,North America,4237.48,0.89,Loyalty Program
+CUST_D3OZEV,South America,4483.33,0.83,Discount
+CUST_W2GG22,South America,3777.19,0.77,Loyalty Program
+CUST_P50GJC,North America,1442.09,0.73,Email Campaign
+CUST_G2QS02,South America,6686.41,0.92,Email Campaign
+CUST_4AARW5,Europe,9676.79,0.93,Email Campaign
+CUST_3AUFK5,Asia,708.91,0.79,Email Campaign
+CUST_YS4VJ7,South America,5698.74,0.83,Loyalty Program
+CUST_NEROOC,North America,3665.48,0.85,Discount
+CUST_I32763,Europe,4469.42,0.96,Email Campaign
+CUST_R73TA0,Asia,6516.17,0.92,Email Campaign
+CUST_CHXLKZ,North America,3262.85,0.74,Email Campaign
+CUST_SUZMBI,North America,959.57,0.87,Discount
+CUST_A8D38V,South America,5681.12,0.84,Discount
+CUST_GG7RC6,South America,6400.72,0.75,Email Campaign
+CUST_W3D7AU,Europe,4726.93,0.93,Discount
+CUST_LQSSAP,Asia,2094.74,0.82,Discount
+CUST_B9TQ73,South America,8345.59,0.97,Discount
+CUST_HMS7NA,North America,1332.89,0.89,Email Campaign
+CUST_DEPZGJ,North America,3960.54,0.75,Loyalty Program
+CUST_S9BHPD,North America,2832.81,0.75,Email Campaign
+CUST_2HCWYF,North America,4530.07,0.95,Loyalty Program
+CUST_N6E2GD,South America,6985.54,0.91,Loyalty Program
+CUST_Y95FNF,South America,8780.48,0.82,Email Campaign
+CUST_2L0EV4,Europe,3241.05,0.8,Discount
+CUST_HGC6UD,South America,2407.1,0.85,Discount
+CUST_TW4F0U,North America,7285.95,0.95,Discount
+CUST_QJ4418,Asia,5429.9,0.96,Loyalty Program
+CUST_RY3QPC,South America,2613.84,0.96,Email Campaign
+CUST_RS16ZL,South America,4714.8,0.84,Loyalty Program
+CUST_CP9S2B,Asia,8726.84,0.98,Discount
+CUST_IQQ5A0,Europe,8234.75,0.9,Loyalty Program
+CUST_MOSOGJ,North America,6259.35,0.87,Email Campaign
+CUST_JF8LX6,North America,5025.04,0.81,Email Campaign
+CUST_LOXMXC,South America,3197.12,0.82,Loyalty Program
+CUST_KSNIL6,Asia,9673.73,0.88,Loyalty Program
+CUST_M702RV,Asia,5477.39,0.82,Email Campaign
+CUST_NLEP83,North America,4940.81,0.88,Loyalty Program
+CUST_BGPHO9,North America,4701.33,0.79,Email Campaign
+CUST_59NU2J,North America,8436.7,0.74,Discount
+CUST_DI8MAW,Asia,7318.59,0.84,Loyalty Program
+CUST_I94VDI,Europe,5814.36,0.77,Loyalty Program
+CUST_87ECSH,South America,5404.73,0.81,Email Campaign
+CUST_3HUDDU,North America,7140.09,0.8,Email Campaign
+CUST_CRNS6Q,Asia,6063.69,0.76,Email Campaign
+CUST_4FRN3I,Asia,7780.65,0.87,Email Campaign
+CUST_4XXYLZ,South America,5987.93,0.82,Discount
+CUST_X00RSD,Asia,4591.27,0.85,Discount
+CUST_I1P12Y,Europe,2192.65,0.75,Loyalty Program
+CUST_2KLMD7,North America,5633.69,0.98,Loyalty Program
+CUST_5N5HSG,North America,4485.89,0.86,Discount
+CUST_BWP6EV,Asia,7237.4,0.81,Loyalty Program
+CUST_F7T57R,North America,2379.32,0.9,Email Campaign
+CUST_GR0GUR,South America,5604.93,0.99,Email Campaign
+CUST_DLUH1W,Asia,940.47,0.72,Discount
+CUST_E3LWZI,South America,7124.75,0.86,Discount
+CUST_RMQZO4,North America,6812.99,0.95,Discount
+CUST_GIM0YU,North America,2893.15,1,Email Campaign
+CUST_KH0YA2,Europe,1692.23,0.86,Email Campaign
+CUST_SPBM6W,North America,5851.7,0.95,Loyalty Program
+CUST_04IZH6,Asia,3170.87,0.98,Discount
+CUST_FI8N1E,North America,2513.29,0.73,Loyalty Program
+CUST_ETLE29,Europe,267.14,0.74,Loyalty Program
+CUST_L0V34A,Europe,9255.8,0.73,Loyalty Program
+CUST_VVEFPN,Asia,2173.35,0.71,Discount
+CUST_HQ8BJ6,North America,6549,0.9,Discount
+CUST_X2M2OU,Asia,6913.93,0.89,Email Campaign
+CUST_PJ39E8,North America,6232.09,0.77,Loyalty Program
+CUST_FIWD0L,Europe,1441.46,0.76,Email Campaign
+CUST_E8LUMX,North America,1777.81,0.97,Email Campaign
+CUST_EVURL6,Europe,6896.55,0.75,Discount
+CUST_B2NHJD,South America,5062.21,0.78,Discount
+CUST_3KBWEM,Europe,3958.15,0.9,Loyalty Program
+CUST_B2BXVP,North America,5299.71,0.87,Discount
+CUST_W9WN0S,North America,4362.86,0.95,Discount
+CUST_TSP6PQ,North America,2059.76,0.97,Loyalty Program
+CUST_SNSMSZ,North America,9871.97,0.85,Discount
+CUST_BRVREI,Asia,7071.55,1,Loyalty Program
+CUST_TTT502,Asia,9189.04,0.93,Email Campaign
+CUST_BM02DB,South America,9110.58,0.86,Discount
+CUST_WIC77E,North America,8474.4,0.91,Discount
+CUST_W5A0HJ,Asia,2392.33,0.88,Discount
+CUST_HXNMZA,North America,7632.98,0.96,Discount
+CUST_35V453,North America,4425.35,0.93,Discount
+CUST_D86JU9,North America,7586.43,0.96,Loyalty Program
+CUST_TK22YT,South America,3851.58,0.85,Email Campaign
+CUST_7BLH5G,South America,1430.78,0.73,Loyalty Program
+CUST_9IV4EZ,South America,2125.09,0.79,Discount
+CUST_IKLFBS,South America,6799.83,0.79,Loyalty Program
+CUST_XNM16I,South America,2435.72,0.9,Email Campaign
+CUST_75MUKG,Europe,6932.26,0.87,Discount
+CUST_4KBV4A,North America,4892.23,0.93,Email Campaign
+CUST_S8UWS3,Europe,9787.02,0.78,Email Campaign
+CUST_XAVLCN,Europe,3102.2,0.93,Loyalty Program
+CUST_EC89AI,Asia,6177.69,0.93,Email Campaign
+CUST_9ATW7P,South America,4680.9,0.72,Email Campaign
+CUST_JMJ2L4,Asia,9203.9,0.81,Discount
+CUST_8S3F9Q,South America,216.49,0.86,Email Campaign
+CUST_S59ZVC,Europe,2068.61,0.75,Email Campaign
+CUST_BBUJXY,South America,4571.41,0.82,Email Campaign
+CUST_MG0Z33,South America,7342.06,0.74,Discount
+CUST_JOKIBK,North America,9136.92,0.82,Discount
+CUST_A7N5R1,Asia,645.52,0.72,Discount
+CUST_TREEWW,North America,6013.66,0.93,Loyalty Program
+CUST_QK15C0,Europe,9731.5,0.92,Loyalty Program
+CUST_TLHE6T,South America,2098.94,0.82,Email Campaign
+CUST_X74SYX,Europe,2213.8,0.8,Discount
+CUST_BCCFX7,North America,5403.76,0.86,Discount
+CUST_EMO4IB,Asia,7283.06,0.91,Email Campaign
+CUST_9BQOLL,Europe,6151.82,0.93,Loyalty Program
+CUST_QYTH56,South America,9151.55,0.76,Loyalty Program
+CUST_HCBMJC,North America,2599,0.79,Loyalty Program
+CUST_DKC54Q,South America,2703.94,0.78,Email Campaign
+CUST_WAH34Z,South America,137.84,0.89,Email Campaign
+CUST_1X8X4P,Asia,9600.5,0.84,Discount
+CUST_CE915H,Europe,6175.21,0.79,Email Campaign
+CUST_EPHB2H,South America,7729.33,0.89,Discount
+CUST_G188LB,Europe,495.36,0.95,Email Campaign
+CUST_XDE496,North America,8287.52,0.81,Email Campaign
+CUST_SVR4PR,South America,419.64,0.91,Discount
+CUST_IMR891,Europe,7072.91,0.83,Discount
+CUST_IEIRZB,South America,8279.93,0.77,Loyalty Program
+CUST_HQHCLK,North America,4397.15,0.92,Loyalty Program
+CUST_U98LW5,South America,1025.64,0.85,Discount
+CUST_BDT148,South America,9569.97,0.88,Loyalty Program
+CUST_648VCA,Europe,3728.15,0.88,Email Campaign
+CUST_7CHHGN,Asia,7639.92,0.78,Email Campaign
+CUST_GHWGY3,South America,6610.44,0.87,Email Campaign
+CUST_LM5QXD,Europe,6761.66,0.77,Email Campaign
+CUST_JH0UVW,Europe,4901.82,0.77,Email Campaign
+CUST_UGUKAF,Europe,118.38,0.94,Discount
+CUST_166IQF,Asia,8499.93,0.87,Email Campaign
+CUST_WHRUBX,North America,7652.38,0.84,Discount
+CUST_S6S0T6,Asia,8101.1,0.9,Email Campaign
+CUST_M50DPH,Europe,1253.83,0.94,Email Campaign
+CUST_5LEXU1,South America,209.27,0.94,Email Campaign
+CUST_31ZKUS,Asia,8399.95,0.99,Discount
+CUST_KRO2H6,Europe,8498.76,0.82,Email Campaign
+CUST_AVNI66,Asia,9159.53,0.76,Email Campaign
+CUST_V4UV84,Europe,6330.54,0.91,Email Campaign
+CUST_BX7TKR,North America,3942.33,0.89,Discount
+CUST_YT2NR9,Asia,8333.59,0.71,Email Campaign
+CUST_FI6QT3,North America,1856.52,0.8,Loyalty Program
+CUST_PQRHXV,Asia,5958.67,0.93,Email Campaign
+CUST_2WK67O,Europe,6357.66,0.94,Email Campaign
+CUST_T3XOS6,South America,9197.43,0.88,Email Campaign
+CUST_KKFMTV,Asia,7423.46,0.95,Loyalty Program
+CUST_LXI35K,South America,6252.22,0.89,Discount
+CUST_BVZN6A,South America,6449.93,0.99,Discount
+CUST_3R5QT8,North America,5106.86,0.94,Discount
+CUST_7UOY43,North America,3096.53,0.78,Discount
+CUST_QI2L78,North America,8227.74,0.75,Email Campaign
+CUST_USEEH3,North America,1933.54,0.82,Email Campaign
+CUST_LFHUX1,Asia,5539.05,0.99,Discount
+CUST_XJHUAS,Asia,3813.95,0.73,Loyalty Program
+CUST_41NLAY,South America,9680.16,0.76,Discount
+CUST_HQMSVH,North America,2290.61,0.75,Loyalty Program
+CUST_WI9L1X,Asia,5235.86,0.97,Email Campaign
+CUST_RGHV5C,Europe,1704.01,0.97,Discount
+CUST_MPAATI,Asia,280.85,0.93,Loyalty Program
+CUST_6V2XCO,South America,2838.25,0.77,Loyalty Program
+CUST_8LF3IW,South America,3555.87,0.98,Loyalty Program
+CUST_HHHYOZ,South America,6690.03,0.73,Loyalty Program
+CUST_76D8W8,South America,1220.11,0.92,Email Campaign
+CUST_TBUVKK,South America,7322,0.98,Discount
+CUST_BQDDIB,Asia,1390.42,0.91,Email Campaign
+CUST_6GVC6S,Asia,5328.87,0.94,Email Campaign
+CUST_NM59UY,Asia,5783.02,0.92,Loyalty Program
+CUST_HWHMEV,Europe,7605.44,0.9,Discount
+CUST_LLFKTU,Europe,3101.41,0.81,Loyalty Program
+CUST_F5Z0S1,North America,4391.45,0.93,Loyalty Program
+CUST_FHB8KF,Asia,5007.11,0.95,Loyalty Program
+CUST_HQWPVH,Europe,9309.17,0.79,Discount
+CUST_5QXG7L,South America,237.35,0.82,Email Campaign
+CUST_HDGZ4K,Asia,2779.34,0.75,Loyalty Program
+CUST_A7DIJM,Asia,4761.42,0.93,Loyalty Program
+CUST_ULUW38,Europe,4843.32,0.92,Email Campaign
+CUST_8WU9I1,South America,7248.23,0.81,Email Campaign
+CUST_Q3ZEHF,Asia,9638.42,0.91,Loyalty Program
+CUST_1OAHCU,Europe,7983.71,0.95,Discount
+CUST_IB59A1,Europe,7305.86,0.87,Email Campaign
+CUST_PQ9I3U,South America,8456.28,0.82,Email Campaign
+CUST_C68Z9C,North America,8401.38,0.76,Email Campaign
+CUST_D2L8KC,Europe,2689.94,0.86,Discount
+CUST_JMS847,North America,6990.09,0.9,Discount
+CUST_ILRE8B,South America,7238.86,0.89,Loyalty Program
+CUST_Z597UY,North America,8302.36,0.79,Discount
+CUST_84DXLG,North America,1119.23,0.73,Email Campaign
+CUST_T847VQ,Europe,5712.81,0.9,Discount
+CUST_PX01GX,Asia,2452.06,0.87,Loyalty Program
+CUST_OOBXBS,Asia,6013.57,0.96,Email Campaign
+CUST_T1W03N,Europe,6907.45,0.97,Discount
+CUST_U0W2MQ,Europe,197.97,0.87,Email Campaign
+CUST_LJ28NA,Europe,458.14,0.96,Loyalty Program
+CUST_6C7IQ0,Europe,9084.91,0.79,Discount
+CUST_S52445,North America,513.06,0.93,Email Campaign
+CUST_R90UJV,South America,3525.03,0.76,Email Campaign
+CUST_DVKPRH,South America,2140.53,0.81,Discount
+CUST_WQO1BT,North America,6694.79,0.78,Loyalty Program
+CUST_ZUYLLI,Asia,7048.35,0.9,Email Campaign
+CUST_MVC62T,Asia,8205.47,0.77,Discount
+CUST_YZV6UU,South America,1692.86,0.85,Loyalty Program
+CUST_EP8RQT,Europe,7314.24,0.89,Loyalty Program
+CUST_SPYINW,South America,8013.85,0.91,Email Campaign
+CUST_L19JN6,North America,8440.29,0.81,Loyalty Program
+CUST_L4J67L,South America,2502.78,0.96,Email Campaign
+CUST_6LE5WO,Europe,864.29,0.97,Email Campaign
+CUST_M8NSE5,South America,9792.49,0.98,Discount
+CUST_TRIYN5,South America,3843.94,0.78,Email Campaign
+CUST_0GA2LU,North America,329.17,0.95,Email Campaign
+CUST_V6KJHN,South America,3479.41,0.88,Loyalty Program
+CUST_8OJAW3,Europe,5972.76,0.97,Loyalty Program
+CUST_CWLHD9,South America,6143.25,0.97,Email Campaign
+CUST_H81P4F,North America,1041.94,0.94,Email Campaign
+CUST_94BFK4,Europe,7055.01,0.78,Email Campaign
+CUST_5KCDVZ,Europe,9202.9,0.72,Discount
+CUST_CD62JU,Europe,5206.34,0.82,Email Campaign
+CUST_9DPJ7Z,North America,1456.57,0.9,Discount
+CUST_0SJVFP,South America,9452.48,0.96,Loyalty Program
+CUST_KE7NYZ,Asia,5068.47,0.92,Loyalty Program
+CUST_CZZBMY,Europe,5899.29,0.76,Loyalty Program
+CUST_0IE3J4,Asia,9213.14,0.85,Discount
+CUST_YPRDRN,Europe,5963.85,0.86,Discount
+CUST_HD1OCZ,Asia,859.1,0.85,Discount
+CUST_TGRJ9D,Europe,5946.85,0.77,Email Campaign
+CUST_23WHFQ,Asia,1029.65,0.82,Email Campaign
+CUST_3QRZNK,North America,3084,0.88,Discount
+CUST_AK11TA,Asia,9627.68,0.88,Email Campaign
+CUST_GBYWH4,Asia,584.49,0.98,Loyalty Program
+CUST_125FMI,Europe,5825.71,0.94,Email Campaign
+CUST_V8RZXJ,North America,2188.29,0.74,Loyalty Program
+CUST_G7EA76,South America,932.81,0.71,Loyalty Program
+CUST_SD99UH,South America,9895.49,0.8,Email Campaign
+CUST_DO0J2F,Asia,6409,0.76,Discount
+CUST_NIZNQ2,Asia,1772.35,0.71,Discount
+CUST_3PSTYH,Europe,3962.09,0.97,Loyalty Program
+CUST_DCI91I,Europe,8728.59,0.79,Email Campaign
+CUST_BLDXS1,South America,4494.03,0.82,Loyalty Program
+CUST_GK11J0,Europe,8233.78,0.9,Discount
+CUST_SLJGMO,North America,204.1,0.87,Discount
+CUST_3E71LN,North America,1834.79,0.8,Discount
+CUST_3TK0ZW,North America,5827.47,0.93,Loyalty Program
+CUST_5PHI6R,Asia,9508.4,0.94,Discount
+CUST_Z5FJIV,Asia,8581.83,0.95,Email Campaign
+CUST_VDEM00,Asia,1884.77,0.75,Email Campaign
+CUST_CUK1J5,Asia,673.29,0.91,Email Campaign
+CUST_JZZWGV,North America,2781.43,0.93,Loyalty Program
+CUST_8SXD3H,North America,7572.66,0.96,Email Campaign
+CUST_19DQFQ,North America,7880.8,1,Loyalty Program
+CUST_0IY59L,Asia,2094.3,0.98,Loyalty Program
+CUST_XAM7YP,Asia,3069.84,0.97,Loyalty Program
+CUST_4WFN6P,South America,4551.28,1,Email Campaign
+CUST_M0O23U,Asia,6112.96,0.77,Loyalty Program
+CUST_KS1EN3,South America,1929.74,0.94,Email Campaign
+CUST_GG4GTN,South America,7289.89,0.71,Discount
+CUST_IMQHUM,North America,2900.48,1,Discount
+CUST_PC4JCP,South America,2600.77,0.79,Discount
+CUST_NOKUHV,South America,1773.14,0.77,Loyalty Program
+CUST_4BCTY3,Asia,1512.57,0.71,Loyalty Program
+CUST_XF28CC,Europe,9698.58,0.79,Loyalty Program
+CUST_WH9KT8,Europe,6035.59,0.86,Discount
+CUST_VC9WYW,Europe,8835.91,0.77,Loyalty Program
+CUST_F1KW22,Europe,9052.05,0.98,Email Campaign
+CUST_524EYZ,North America,2312.54,0.78,Loyalty Program
+CUST_UCFE4Q,South America,911.4,0.84,Email Campaign
+CUST_RJ4GDX,South America,9323.28,0.93,Discount
+CUST_HEDSCE,Europe,2782.68,0.77,Loyalty Program
+CUST_AACK66,Europe,773.88,0.9,Email Campaign
+CUST_33TRDE,Asia,829.07,0.85,Discount
+CUST_RBA171,North America,4280.39,0.98,Discount
+CUST_PEUC84,Europe,302.28,0.91,Loyalty Program
+CUST_6YRMWR,Europe,7088.6,0.98,Email Campaign
+CUST_VJHSF2,Asia,7697.18,0.83,Discount
+CUST_W4LT6S,North America,5658.9,0.86,Loyalty Program
+CUST_0UCMSJ,Europe,4325.22,0.86,Email Campaign
+CUST_7QTFHY,Asia,3381.81,0.79,Email Campaign
+CUST_D2HJ29,Europe,4454.36,0.84,Loyalty Program
+CUST_XYK51A,North America,7917.01,0.76,Loyalty Program
+CUST_71CE5N,North America,377.86,0.98,Loyalty Program
+CUST_B9MMNR,Europe,2225.86,0.84,Loyalty Program
+CUST_ZHW24A,North America,3162.67,0.76,Discount
+CUST_DWSCKH,Europe,1608.54,0.78,Loyalty Program
+CUST_E0QJ9L,South America,1313.79,0.93,Email Campaign
+CUST_AHYDIZ,Asia,8034.43,0.79,Email Campaign
+CUST_S7LQCZ,Asia,9550.84,0.91,Email Campaign
+CUST_W8TY9O,Europe,7789.92,0.9,Loyalty Program
+CUST_0GM594,Europe,700.5,0.9,Loyalty Program
+CUST_H9QO81,North America,556.31,0.79,Loyalty Program
+CUST_8CXB36,Asia,9287.12,0.71,Discount
+CUST_ICW23K,Europe,9442.55,0.78,Email Campaign
+CUST_X5H61N,North America,1160,0.75,Discount
+CUST_5U4EG3,Asia,8002.19,0.99,Email Campaign
+CUST_ZLNY0Y,South America,9300.77,0.84,Loyalty Program
+CUST_5UPSUQ,North America,400.52,0.98,Discount
+CUST_65G017,Europe,7153.32,0.93,Loyalty Program
+CUST_JNVROT,Europe,7562.56,0.89,Discount
+CUST_Z9BTFX,South America,1153.45,0.85,Loyalty Program
+CUST_B07S47,Europe,2500.48,0.79,Discount
+CUST_20UGQA,Asia,8683.52,0.77,Email Campaign
+CUST_6IVIS6,Europe,803.06,0.76,Email Campaign
+CUST_T95SD4,Asia,7118.79,0.75,Loyalty Program
+CUST_BL66L3,North America,3797.81,0.75,Email Campaign
+CUST_DBPYIR,North America,4603.63,0.75,Discount
+CUST_0BBXUL,Europe,341.64,0.99,Loyalty Program
+CUST_6LRUY4,Europe,713.8,0.78,Discount
+CUST_UYA28Y,North America,1516.01,0.92,Discount
+CUST_IVOQYU,Asia,1819.99,0.94,Loyalty Program
+CUST_KIKQKX,Europe,2044.51,0.9,Loyalty Program
+CUST_T76S4I,Europe,5203.25,0.91,Discount
+CUST_CIXJ9P,Europe,1817.26,0.89,Loyalty Program
+CUST_BVUQ3B,Europe,2471.89,0.91,Discount
+CUST_21QAZ8,North America,509.61,0.72,Email Campaign
+CUST_OX0WSW,North America,3764.66,0.96,Loyalty Program
+CUST_KB2UO6,North America,4272.74,0.88,Email Campaign
+CUST_TL9T1Y,South America,9012.22,0.82,Discount
+CUST_4OPBIH,South America,7499.01,0.98,Loyalty Program
+CUST_L659JE,Europe,3793,1,Loyalty Program
+CUST_ZFIC51,North America,5247.71,0.99,Email Campaign
+CUST_5QUBKH,South America,8361.71,0.76,Email Campaign
+CUST_FSKCI8,Asia,6275.69,0.84,Discount
+CUST_O9TV1H,South America,6659.27,0.84,Discount
+CUST_OF8NP8,Asia,7666.99,0.96,Loyalty Program
+CUST_LDCZK0,Europe,7548.99,0.87,Loyalty Program
+CUST_DF07OT,Europe,7825.97,0.86,Discount
+CUST_LFAYB4,Asia,5418.78,0.91,Loyalty Program
+CUST_R3CAMX,North America,1993.41,0.91,Discount
+CUST_AYJVPR,Europe,4903.2,0.8,Email Campaign
+CUST_DVEE8J,North America,3323.72,0.94,Discount
+CUST_3EUWTO,South America,6256.63,0.78,Email Campaign
+CUST_WY6I52,North America,7985.19,0.95,Discount
+CUST_OV3JZ4,Europe,330.27,0.87,Loyalty Program
+CUST_BQG38D,Asia,5072.68,0.85,Email Campaign
+CUST_GMPREU,North America,2148.35,0.76,Loyalty Program
+CUST_3C3HDB,Asia,2400.68,1,Email Campaign
+CUST_T6VEBE,Europe,7127.68,0.79,Loyalty Program
+CUST_2PGNY0,Asia,2705.42,0.91,Email Campaign
+CUST_R0F9ZS,North America,7602.81,0.76,Discount
+CUST_1TEQXU,Asia,9217.19,0.89,Loyalty Program
+CUST_LJSHDZ,Europe,8163.51,0.83,Discount
+CUST_K2Y9EG,Asia,5010.26,0.79,Discount
+CUST_9MZWN4,Europe,8567.6,0.75,Loyalty Program
+CUST_ATJCF7,South America,9951.01,0.76,Loyalty Program
+CUST_NHP96S,Europe,6550.25,0.78,Loyalty Program
+CUST_W4ICQR,Asia,2746.37,0.84,Email Campaign
+CUST_AKFDY8,North America,6776.1,0.84,Discount
+CUST_2KJ6AE,North America,1804.21,0.91,Loyalty Program
+CUST_HUIPZ9,Europe,1303.19,0.75,Email Campaign
+CUST_Z9NKDZ,South America,2033.61,0.77,Loyalty Program
+CUST_DQVWDB,Asia,1823.59,0.93,Loyalty Program
+CUST_1H5THB,Asia,2249.57,0.9,Discount
+CUST_3FPNUY,Asia,9437.74,0.87,Discount
+CUST_ST9ZAR,Asia,6498.59,0.85,Discount
+CUST_BVEX9Z,North America,5708.93,0.72,Email Campaign
+CUST_UNF5SM,South America,6931.47,0.99,Email Campaign
+CUST_YE68QT,Asia,4781.31,0.78,Loyalty Program
+CUST_FC70Y2,North America,9467.24,0.75,Loyalty Program
+CUST_6DUDPF,North America,5398.72,0.89,Discount
+CUST_8WSPWX,North America,2014.37,0.99,Loyalty Program
+CUST_8DTZYO,Asia,5267.58,0.95,Loyalty Program
+CUST_S31UHN,North America,9127.3,0.89,Loyalty Program
+CUST_NKTQW8,Europe,1806.09,0.95,Email Campaign
+CUST_YTT75P,Asia,3328.57,0.81,Loyalty Program
+CUST_6HOMTF,Europe,5439.35,0.75,Email Campaign
+CUST_PGTU4A,North America,4112.79,1,Email Campaign
+CUST_UBR2A7,South America,2403.65,0.84,Email Campaign
+CUST_TCSRJ2,Europe,3020.55,0.81,Email Campaign
+CUST_3RTMS5,Europe,2691.78,0.85,Email Campaign
+CUST_E0VL8Z,North America,8947.96,0.84,Email Campaign
+CUST_P1824P,South America,7506.67,0.8,Discount
+CUST_XFP7C7,Europe,7139.08,0.72,Discount
+CUST_EZIOC3,Europe,9979.68,0.83,Loyalty Program
+CUST_M9V0KV,South America,8571.41,0.76,Discount
+CUST_M60T9B,Asia,5922.25,0.87,Email Campaign
+CUST_8EHNS3,Asia,6573.06,0.95,Email Campaign
+CUST_NFR2FQ,Europe,3971.92,0.94,Discount
+CUST_2MBGUZ,Asia,9240.99,0.97,Email Campaign
+CUST_2M90XB,South America,2198.16,0.95,Email Campaign
+CUST_RFTN82,North America,7678.98,0.78,Email Campaign
+CUST_78ZDJS,Asia,1189.7,0.71,Discount
+CUST_NOOTW1,Europe,5874.93,0.84,Loyalty Program
+CUST_NCE8QH,Europe,9276.17,0.79,Email Campaign
+CUST_2IN8TZ,South America,5831.63,0.92,Email Campaign
+CUST_9XINOJ,Europe,6249.35,0.98,Loyalty Program
+CUST_OBJVTT,South America,8750.34,0.89,Loyalty Program
+CUST_74UXHR,Asia,7576.35,0.97,Discount
+CUST_IO6PV7,Europe,765.68,0.9,Loyalty Program
+CUST_HYPYS4,Europe,2797.65,0.91,Email Campaign
+CUST_RJB9EU,Asia,3917.31,0.98,Loyalty Program
+CUST_9XPD7P,Asia,1944.7,0.85,Discount
+CUST_34QW4J,North America,1275.07,0.91,Loyalty Program
+CUST_9P6KPG,South America,6630.1,0.78,Loyalty Program
+CUST_RREUG6,North America,6779.83,0.96,Loyalty Program
+CUST_VXUM8K,North America,6998.74,0.88,Email Campaign
+CUST_J7WAS9,North America,9161.42,0.93,Email Campaign
+CUST_ZRDVG5,North America,9015.75,0.96,Email Campaign
+CUST_LZX1UJ,North America,8842.8,0.78,Email Campaign
+CUST_1E21FP,Europe,4559.03,0.8,Email Campaign
+CUST_3Y93KQ,South America,1136.72,0.77,Loyalty Program
+CUST_2Y9387,South America,8053.46,0.79,Email Campaign
+CUST_6G9R16,Asia,5484.19,0.79,Loyalty Program
+CUST_OQXQWT,South America,7720.43,0.84,Email Campaign
+CUST_EF17MD,North America,935.7,0.72,Discount
+CUST_PAZKPS,Europe,1778.31,0.97,Loyalty Program
+CUST_WF259O,North America,5409.27,0.78,Discount
+CUST_94SJJ1,Asia,6785.49,0.75,Email Campaign
+CUST_S8UC0L,Europe,5733.06,0.73,Discount
+CUST_EXSNVH,North America,2534.89,0.95,Email Campaign
+CUST_T1EI4S,Asia,1992.59,0.75,Email Campaign
+CUST_SPSE8I,Asia,3187.43,0.79,Loyalty Program
+CUST_W6C054,South America,8067.49,0.98,Discount
+CUST_7ZITBL,North America,4715.06,0.96,Discount
+CUST_O2XZ9E,Asia,2839.28,0.8,Email Campaign
+CUST_7L4P65,Europe,9659.1,0.97,Discount
+CUST_29LEQW,Asia,9587.23,0.74,Discount
+CUST_8NTDVF,South America,1231.99,0.81,Loyalty Program
+CUST_S03KB1,Europe,781.95,0.99,Loyalty Program
+CUST_OQ6CBD,Asia,8746.04,0.72,Loyalty Program
+CUST_J7527W,Europe,6664.53,0.77,Discount
+CUST_LW7ZRB,North America,5820.13,0.82,Email Campaign
+CUST_Y0U902,Europe,1446.62,0.95,Email Campaign
+CUST_MI3DT9,Asia,2283.46,0.8,Loyalty Program
+CUST_1T3INE,Asia,9164.62,0.81,Discount
+CUST_B8Y4SL,Europe,6808.36,0.76,Discount
+CUST_F5M0QE,North America,2057.65,0.73,Discount
+CUST_IAY8KM,North America,7459.71,0.84,Email Campaign
+CUST_SNHCSR,Asia,970.81,1,Loyalty Program
+CUST_XPQL4W,Europe,9279.84,0.86,Loyalty Program
+CUST_AGC6HM,North America,6052.76,0.95,Loyalty Program
+CUST_18DBCQ,Europe,5860.99,0.9,Loyalty Program
+CUST_I1XVIR,Asia,1826.93,0.78,Loyalty Program
+CUST_FG9BML,Europe,5369.07,0.82,Discount
+CUST_MMXPRX,Europe,7155.28,0.76,Discount
+CUST_EO6B23,Asia,6471.72,0.77,Loyalty Program
+CUST_JX0MC3,North America,4886.48,0.82,Loyalty Program
+CUST_QPI9K8,South America,6778.49,0.88,Loyalty Program
+CUST_GD1B6J,South America,5410.01,0.89,Email Campaign
+CUST_F584U9,Europe,3231.5,0.72,Discount
+CUST_JWLCA2,Europe,7894.98,0.93,Loyalty Program
+CUST_4TF5P2,Europe,9281.62,0.82,Loyalty Program
+CUST_YR2TNU,Asia,5895.28,0.83,Loyalty Program
+CUST_LONT89,Asia,1612.89,0.91,Discount
+CUST_1LLB8R,Europe,5933.12,0.89,Email Campaign
+CUST_H4QSSS,Europe,1338.08,0.72,Loyalty Program
+CUST_DUUUVJ,Asia,7521.31,0.86,Loyalty Program
+CUST_4BCNBJ,Asia,3606.64,0.74,Email Campaign
+CUST_JOOPXB,Asia,1726.87,0.83,Email Campaign
+CUST_VX5PSF,Asia,5397.26,0.74,Email Campaign
+CUST_V7YLQW,South America,2681.1,0.93,Email Campaign
+CUST_4RZXHM,South America,2316.73,1,Discount
+CUST_JXXP1J,North America,264,0.96,Loyalty Program
+CUST_X1UHSV,North America,4421.33,0.71,Discount
+CUST_8RPH58,Europe,6136.45,0.86,Email Campaign
+CUST_6HRKXY,North America,3466.14,0.99,Discount
+CUST_AYFCKE,North America,2972.25,0.98,Email Campaign
+CUST_IZD8FP,Europe,1416.84,0.98,Loyalty Program
+CUST_HLQ4E3,Asia,7854.03,0.89,Discount
+CUST_BOA9MI,South America,4175.44,0.71,Discount
+CUST_0R8BLV,South America,5232.99,1,Email Campaign
+CUST_VZYV0F,Europe,6564.23,0.78,Discount
+CUST_8D7JES,North America,6349.89,0.93,Email Campaign
+CUST_8GTQI2,South America,3498.56,0.86,Loyalty Program
+CUST_OC92Q1,Europe,2295.48,0.83,Loyalty Program
+CUST_E86W98,Asia,6367.01,0.76,Email Campaign
+CUST_2UVSWC,Europe,4739.18,0.96,Discount
+CUST_PVCMFJ,North America,8171.8,0.78,Loyalty Program
+CUST_AT0ZN8,Asia,9263.37,0.83,Loyalty Program
+CUST_IJ8A5N,Asia,9773.32,0.79,Discount
+CUST_3CMLGC,Asia,9028.77,0.95,Loyalty Program
+CUST_7P8NSW,North America,8400.88,0.99,Email Campaign
+CUST_L8QRCZ,South America,748.93,0.99,Discount
+CUST_EG2IT4,Asia,3170.62,0.72,Loyalty Program
+CUST_90KML1,Asia,7927.88,0.92,Discount
+CUST_6QR9T2,South America,8697.9,0.78,Email Campaign
+CUST_NVPSD8,North America,7115.31,0.84,Loyalty Program
+CUST_Y553IG,Asia,5881.69,0.9,Email Campaign
+CUST_D4KLQR,Asia,1464.05,0.85,Loyalty Program
+CUST_ANNSPO,South America,6681.13,0.92,Discount
+CUST_1AKRZX,South America,4040.6,0.89,Discount
+CUST_I32RIN,Asia,2898.86,0.75,Loyalty Program
+CUST_95L0ZS,Europe,2831.88,0.9,Loyalty Program
+CUST_IGI8LL,South America,9979.49,0.78,Email Campaign
+CUST_76D8FD,North America,1038.42,0.85,Loyalty Program
+CUST_NWLU1A,North America,8524.08,0.86,Loyalty Program
+CUST_RAC3EU,Asia,7678.35,0.81,Email Campaign
+CUST_SNNBL2,North America,6939.62,0.82,Loyalty Program
+CUST_TFD9O6,North America,6777.93,0.84,Loyalty Program
+CUST_F05MOQ,South America,6488.14,0.72,Email Campaign
+CUST_IEL7CY,South America,8153.36,0.78,Loyalty Program
+CUST_IXNKYJ,Europe,9937.71,0.81,Email Campaign
+CUST_SRXLC8,Asia,2366.42,0.73,Discount
+CUST_O9BAYE,South America,3602.75,0.71,Discount
+CUST_GX50T8,South America,7801.91,0.74,Loyalty Program
+CUST_93IJ25,Asia,792.77,0.8,Email Campaign
+CUST_77B8MG,South America,7866.47,0.8,Loyalty Program
+CUST_RMYGXZ,Europe,7238.04,0.79,Discount
+CUST_XGXAAS,Asia,8100.7,0.72,Email Campaign
+CUST_89KT6H,North America,8706.32,0.82,Email Campaign
+CUST_6EL2AI,North America,6425.91,0.76,Loyalty Program
+CUST_FAOVIM,Europe,1387.56,0.71,Loyalty Program
+CUST_W3E01D,South America,3746.98,0.98,Discount
+CUST_HE8MSN,South America,1121.81,0.72,Loyalty Program
+CUST_MRQH21,Europe,7455.66,0.9,Discount
+CUST_NU99UL,South America,4457.6,0.8,Loyalty Program
+CUST_FRPW0K,North America,149.09,0.97,Email Campaign
+CUST_MYYAH6,South America,6727.73,0.84,Email Campaign
+CUST_NFU5E0,South America,5229.97,0.97,Discount
+CUST_LACE0F,Europe,8227.99,0.9,Discount
+CUST_TCNFGE,Asia,4845.59,0.86,Discount
+CUST_7SSMKY,South America,6140.66,0.88,Discount
+CUST_V72GY0,Asia,8698.2,0.98,Discount
+CUST_ZRS372,Asia,313.79,0.91,Discount
+CUST_TQEI7K,South America,7618.49,0.78,Email Campaign
+CUST_W2IRVI,Asia,5955.35,0.79,Loyalty Program
+CUST_WW6MRZ,South America,1488.27,0.98,Email Campaign
+CUST_IS4PIO,North America,7593.67,0.72,Email Campaign
+CUST_FQU2PL,North America,2306.29,0.79,Loyalty Program
+CUST_B2STDR,Europe,3143.02,0.96,Email Campaign
+CUST_Y7OPL9,Asia,3988.07,0.81,Loyalty Program
+CUST_962UEK,North America,9111.75,0.94,Loyalty Program
+CUST_8VW0YA,Asia,9688.88,0.75,Discount
+CUST_0Y18PJ,North America,619.76,0.84,Email Campaign
+CUST_59IMNS,South America,2776.61,0.89,Discount
+CUST_WMPI9O,North America,3450.47,0.89,Loyalty Program
+CUST_K01YJH,Europe,2910.03,0.88,Loyalty Program
+CUST_LKCP4Y,South America,9977.28,1,Loyalty Program
+CUST_2EMLYK,North America,9362.03,0.75,Email Campaign
+CUST_FVCBSR,Europe,4513.56,0.72,Email Campaign
+CUST_XCW2Y4,Europe,5591.85,0.91,Discount
+CUST_6LX1TQ,North America,2019.13,0.98,Email Campaign
+CUST_TX4G92,Europe,340.79,0.78,Loyalty Program
+CUST_F23KM3,North America,2645.02,0.91,Email Campaign
+CUST_5QMZ9O,North America,7547.91,0.73,Email Campaign
+CUST_CTEAZX,Asia,485.75,0.89,Discount
+CUST_9ZQIBS,Asia,8766.1,0.83,Loyalty Program
+CUST_J0UBDJ,South America,454.05,0.97,Email Campaign
+CUST_GWSYW8,Asia,5666.55,0.97,Loyalty Program
+CUST_G79FOY,Europe,4650.51,0.91,Discount
+CUST_VZN6EN,North America,1484.88,0.88,Discount
+CUST_SRWU9U,Europe,3774.47,0.75,Email Campaign
+CUST_1CQ5YF,South America,1666.22,0.83,Discount
+CUST_NJK9JV,South America,781.38,0.86,Email Campaign
+CUST_TD7F8Y,Europe,8340.35,0.74,Email Campaign
+CUST_VLL66V,Europe,5788.04,0.95,Discount
+CUST_C2E0QU,Asia,1388.95,1,Email Campaign
+CUST_MWTITD,South America,349.58,0.76,Email Campaign
+CUST_I5AIJH,Asia,3806.99,0.84,Loyalty Program
+CUST_5ES6RY,Europe,9246.67,0.82,Loyalty Program
+CUST_D3AUD9,North America,4754.24,0.87,Loyalty Program
+CUST_MMGBPQ,Europe,9357.44,0.74,Loyalty Program
+CUST_MP34RG,Asia,2490.06,0.9,Loyalty Program
+CUST_OLDCKU,North America,8509.76,0.81,Email Campaign
+CUST_OSXE20,South America,7015.63,0.95,Discount
+CUST_BIU2T7,North America,2030.36,0.82,Email Campaign
+CUST_HUYOO5,South America,7853.08,0.77,Email Campaign
+CUST_RAZ8JR,Asia,9810.11,0.72,Loyalty Program
+CUST_9JAFKW,South America,228.37,0.82,Loyalty Program
+CUST_FZ0KD7,Europe,7000.01,0.72,Email Campaign
+CUST_LJ1IZH,South America,799.97,0.85,Discount
+CUST_D8H5AS,Asia,204.88,0.74,Loyalty Program
+CUST_88VYHP,South America,1781.91,0.99,Discount
+CUST_C4E1JS,Asia,8920.6,0.97,Loyalty Program
+CUST_H67HOK,Europe,4578,0.93,Email Campaign
+CUST_JISDI8,Europe,7881.59,0.78,Loyalty Program
+CUST_X0GMUX,South America,6787.41,0.83,Loyalty Program
+CUST_RX98ZW,South America,1458.06,0.88,Discount
+CUST_ZKFC89,North America,2676.88,0.84,Email Campaign
+CUST_4Z7H55,South America,2752.74,0.85,Discount
+CUST_7PX3BJ,North America,4099.22,0.79,Email Campaign
+CUST_ILC8J9,Asia,7103.57,0.79,Loyalty Program
+CUST_145ORS,Asia,8408.62,0.96,Discount
+CUST_K57JH6,Asia,5635.79,0.81,Discount
+CUST_CV93E1,Europe,3781.18,0.71,Discount
+CUST_4PP3HJ,South America,3962.97,0.89,Loyalty Program
+CUST_95DU2C,Asia,7991.59,0.8,Loyalty Program
+CUST_9A0C0X,Europe,5537.92,0.88,Loyalty Program
+CUST_31ZQSS,Asia,6545.11,0.95,Loyalty Program
+CUST_L27JCO,Europe,3454.83,0.83,Discount
+CUST_31DH8I,South America,8073.1,0.73,Loyalty Program
+CUST_81SKOU,South America,8297.65,0.76,Loyalty Program
+CUST_PB1OVW,Asia,5506.85,0.91,Loyalty Program
+CUST_LN9YPE,South America,823.54,0.9,Discount
+CUST_OSKTOO,Europe,6916.31,0.93,Email Campaign
+CUST_45BF2K,Europe,7057.8,0.81,Email Campaign
+CUST_44Y0N8,Asia,631.1,0.84,Loyalty Program
+CUST_8XSTJQ,South America,1430.23,0.84,Discount
+CUST_UMQ00W,Asia,4352.52,0.79,Discount
+CUST_U089M1,South America,7665.24,0.76,Discount
+CUST_JYME30,Europe,4791.55,0.75,Loyalty Program
+CUST_D9OR2J,North America,8220.45,0.95,Email Campaign
+CUST_9PD3C7,North America,3530.01,0.74,Email Campaign
+CUST_EXY09B,South America,839.68,0.77,Discount
+CUST_DW8B61,South America,6029.86,0.95,Loyalty Program
+CUST_VG7616,South America,2884.47,0.99,Loyalty Program
+CUST_2Q6XS2,South America,4829.85,0.78,Discount
+CUST_LMIKED,Europe,994.86,0.72,Email Campaign
+CUST_SD9WV5,South America,5928.81,0.99,Loyalty Program
+CUST_G1MPFC,North America,6077.36,0.71,Email Campaign
+CUST_ZEAN0I,Europe,5422.84,0.82,Email Campaign
+CUST_UJJQMF,North America,498.13,0.76,Loyalty Program
+CUST_UTAHJ0,Asia,2751.06,0.78,Email Campaign
+CUST_JMLC09,Europe,788.86,0.84,Loyalty Program
+CUST_XHYZ0T,South America,2591.74,0.78,Discount
+CUST_806642,Europe,3815.27,0.71,Loyalty Program
+CUST_HARC9S,Asia,8169.46,0.9,Discount
+CUST_9PR1QH,South America,1212.62,0.94,Loyalty Program
+CUST_OXWE5W,Europe,1269.7,0.9,Discount
+CUST_56UU2N,Asia,6079.73,0.79,Email Campaign
+CUST_Z99NNL,North America,859.83,0.97,Discount
+CUST_9GZ4SC,South America,338.85,0.87,Loyalty Program
+CUST_HCRD9G,South America,2302.36,0.99,Loyalty Program
+CUST_NOF90Q,South America,9685.04,0.72,Discount
+CUST_X28O3U,Europe,9242.33,0.76,Discount
+CUST_CAD4BU,Asia,4734.47,1,Loyalty Program
+CUST_IKI1Z8,Europe,9798.34,0.97,Discount
+CUST_SWT9D4,South America,9370.33,0.88,Email Campaign
+CUST_MLV0XJ,South America,3716.03,0.81,Email Campaign
+CUST_R3K54N,Europe,9300.81,0.72,Email Campaign
+CUST_7DC6ZV,North America,652.52,0.8,Discount
+CUST_M4SFTI,Europe,5460.29,0.94,Loyalty Program
+CUST_BD5K0T,Europe,9866.25,0.84,Discount
+CUST_75W7KS,North America,5890.75,0.73,Email Campaign
+CUST_S665HP,Asia,8942.35,0.83,Discount
+CUST_GTD6Q9,Asia,4872.8,0.77,Loyalty Program
+CUST_BEUC7A,South America,4440.15,0.92,Email Campaign
+CUST_BG3R2B,South America,1031.61,0.81,Email Campaign
+CUST_KJ9A5O,South America,9560.36,0.73,Discount
+CUST_FJBSP6,South America,6253.68,0.94,Email Campaign
+CUST_70GE6M,Europe,5879.83,0.98,Email Campaign
+CUST_LXHC9X,North America,2374.81,0.98,Email Campaign
+CUST_IZHXJ2,Europe,3257.02,0.84,Loyalty Program
+CUST_Y5AU7X,South America,8585.53,0.87,Loyalty Program
+CUST_M5SSL8,Europe,9612.49,0.9,Discount
+CUST_WSUKIZ,South America,5171.69,0.71,Loyalty Program
+CUST_DX8IY3,Asia,8099,0.71,Discount
+CUST_ZQXUUS,South America,484.12,0.82,Email Campaign
+CUST_99UW6R,South America,1811.37,0.83,Discount
+CUST_H1MU7Q,South America,9876.27,0.98,Discount
+CUST_CW9FYL,North America,2977.42,0.86,Email Campaign
+CUST_V71ZT8,Europe,9147.92,0.82,Loyalty Program
+CUST_4H4E1N,Asia,5757.5,0.91,Loyalty Program
+CUST_1BVE8A,Europe,3799.27,0.93,Email Campaign
+CUST_NC9Q10,Europe,181.62,0.98,Email Campaign
+CUST_7DODMI,South America,4890.24,0.92,Discount
+CUST_PZ3DGY,Europe,5866.16,0.77,Email Campaign
+CUST_WV2MUE,Europe,9306.81,0.95,Loyalty Program
+CUST_AWZ9LL,Asia,2379.88,0.82,Email Campaign
+CUST_C1G5AI,Asia,700.77,0.82,Discount
+CUST_95ADK0,North America,7071.86,0.79,Discount
+CUST_0AQMEI,Europe,2206.13,0.73,Loyalty Program
+CUST_LNGOW1,North America,3814.79,0.95,Email Campaign
+CUST_PMJEOH,Asia,1214.71,0.73,Email Campaign
+CUST_VO5I8S,Asia,4034.9,0.99,Email Campaign
+CUST_KPC55X,Europe,6980.14,1,Email Campaign
+CUST_E8PFZQ,Asia,9633.01,0.93,Loyalty Program
+CUST_WX0NM8,Asia,5859.54,0.73,Discount
+CUST_I0MT85,Europe,569.47,0.78,Discount
+CUST_OTPCJO,Asia,4093.22,0.75,Discount
+CUST_HLY86M,North America,1677.26,0.97,Email Campaign
+CUST_EFYNBN,North America,9319.84,0.78,Discount
+CUST_535IX2,South America,501.67,0.73,Email Campaign
+CUST_P1MTCL,Asia,9315.14,0.74,Loyalty Program
+CUST_Q4EYYA,North America,7964.76,0.74,Loyalty Program
+CUST_89HAOC,Asia,9816.19,0.92,Discount
+CUST_S1POUI,South America,5779.19,0.94,Email Campaign
+CUST_LMB24Z,North America,2750.06,0.81,Discount
+CUST_9SFED9,Asia,6041.18,0.85,Email Campaign
+CUST_4TR9DG,Europe,8699.38,0.76,Email Campaign
+CUST_HVZNU4,North America,6977.41,0.83,Discount
+CUST_OLXH7F,Asia,4940.41,0.87,Email Campaign
+CUST_TSH8EW,Europe,7586.89,0.86,Discount
+CUST_LSV4K6,Europe,7457.82,0.78,Discount
+CUST_ZQXWS2,North America,6539.78,0.72,Email Campaign
+CUST_5TPOKU,South America,2981.12,0.81,Email Campaign
+CUST_QTNWP8,Asia,1990.13,0.9,Email Campaign
+CUST_LHXB6G,South America,951,0.87,Loyalty Program
+CUST_ABFZB3,Asia,6258.61,0.8,Discount
+CUST_U1KPQO,South America,9378.38,0.96,Email Campaign
+CUST_1P68K5,South America,4287.6,0.74,Loyalty Program
+CUST_EGRRL0,Asia,7815.46,0.97,Discount
+CUST_QRSAFP,North America,8125.33,0.74,Loyalty Program
+CUST_OXT2ES,South America,2668.14,0.95,Email Campaign
+CUST_0MWK3C,Asia,6633.08,0.8,Discount
+CUST_JFP8IC,Asia,137.2,0.75,Email Campaign
+CUST_WFK637,Asia,2857.19,0.9,Email Campaign
+CUST_92VOAD,North America,1267.79,0.86,Email Campaign
+CUST_47JK4F,Asia,571.94,0.96,Loyalty Program
+CUST_K4ZSM7,South America,7511.68,0.8,Loyalty Program
+CUST_HX1O1E,Europe,9043.13,0.77,Discount
+CUST_451N6C,Europe,4499.73,0.83,Loyalty Program
+CUST_UB9JXV,North America,5364.43,0.74,Loyalty Program
+CUST_3Y5XC1,North America,4107.26,0.76,Email Campaign
+CUST_1ZX8I0,South America,6698.74,0.93,Discount
+CUST_E0CBNZ,North America,3691.41,0.89,Loyalty Program
+CUST_2FC486,South America,8922.5,1,Discount
+CUST_4NIP2X,Europe,5072.85,0.97,Email Campaign
+CUST_JJ4CZQ,Asia,9014.6,0.91,Discount
+CUST_OIGYN3,Asia,9168.34,0.79,Loyalty Program
+CUST_9MUWXV,North America,9658.28,0.77,Email Campaign
+CUST_8555XB,Asia,3939.79,0.95,Discount
+CUST_AWZ946,Europe,8785.4,0.95,Email Campaign
+CUST_2W1IL4,Europe,1822.79,0.97,Discount
+CUST_YS2TD3,Europe,5938.68,0.81,Discount
+CUST_UETP2T,North America,6248.39,0.77,Discount
+CUST_KF77R5,Europe,4132.34,0.92,Loyalty Program
+CUST_4BLONF,North America,4375.07,0.72,Loyalty Program
+CUST_0LPFWE,Asia,7927.83,0.91,Discount
+CUST_XS6EO1,South America,2820.63,0.81,Discount
+CUST_TCLHUG,North America,2542.07,0.76,Discount
+CUST_F5GLF7,Asia,2995.48,0.91,Discount
+CUST_62KICU,South America,4236.92,0.98,Loyalty Program
+CUST_EQ2WZE,Europe,3987.13,0.96,Email Campaign
+CUST_UB5B7G,North America,9385.64,0.88,Discount
+CUST_I6HPE9,Asia,3894.97,0.97,Discount
+CUST_70D10Q,North America,7920.87,0.72,Discount
+CUST_SYUHSU,North America,5985.85,0.92,Loyalty Program
+CUST_VXKXVB,Asia,9516.82,0.74,Loyalty Program
+CUST_O6ADHV,Europe,1420.53,0.96,Discount
+CUST_2YKE1R,Europe,4176.46,0.71,Email Campaign
+CUST_UZK6S8,South America,1148.27,0.84,Email Campaign
+CUST_7SYF97,Asia,7083.69,0.89,Loyalty Program
+CUST_S7GSF5,Europe,5812.79,0.75,Loyalty Program
+CUST_2U58HO,South America,3243.6,0.93,Loyalty Program
+CUST_H6J159,Asia,2451.06,0.89,Loyalty Program
+CUST_PFBRN1,Europe,707.79,0.89,Discount
+CUST_94PJDG,Asia,368.8,0.97,Discount
+CUST_XNDMXR,North America,9912.8,0.83,Loyalty Program
+CUST_DO57WT,Asia,4017.04,0.97,Loyalty Program
+CUST_FHTQRM,South America,660.36,0.99,Discount
+CUST_WUCVYA,South America,561.81,0.85,Loyalty Program
+CUST_TEJFCH,Asia,6927.86,0.99,Loyalty Program
+CUST_S27ZDH,South America,2195.74,0.82,Loyalty Program
+CUST_G2NX0E,North America,7721.86,0.93,Discount
+CUST_EZJ1HI,Europe,1472.52,0.78,Discount
+CUST_VMQNS4,North America,1470.06,0.73,Email Campaign
+CUST_ELGRE6,Asia,8384.05,0.81,Loyalty Program
+CUST_2ADZ2Z,North America,8651.86,0.93,Email Campaign
+CUST_N4VTQ0,South America,3452.27,0.78,Email Campaign
+CUST_6FAFWC,Europe,4226.73,0.79,Discount
+CUST_N5QW9W,North America,5662.56,0.73,Email Campaign
+CUST_S85RH6,South America,4853.34,0.9,Loyalty Program
+CUST_6L3HPO,Asia,2469.19,0.99,Discount
+CUST_1WEMTE,North America,1043.22,0.86,Discount
+CUST_MY6GWU,South America,379.59,0.92,Email Campaign
+CUST_NVG4J2,Europe,4020.38,0.91,Email Campaign
+CUST_JPK3AL,Europe,1389.15,0.97,Discount
+CUST_8EIX0D,North America,5125.49,0.75,Loyalty Program
+CUST_FD0BVN,North America,416.65,0.85,Discount
+CUST_M50UP6,North America,173.26,0.92,Email Campaign
+CUST_W92W2I,South America,3166.74,0.95,Email Campaign
+CUST_EU6MAY,South America,1080.78,0.77,Discount
+CUST_D8OFIC,Europe,9624.87,0.74,Email Campaign
+CUST_6CYBKL,Europe,4011.73,0.77,Discount
+CUST_87NXUI,Asia,268.27,0.9,Discount
+CUST_NE2GOV,North America,2525.24,0.88,Loyalty Program
+CUST_0VXCAC,North America,3930.46,1,Discount
+CUST_GCF3EX,Europe,4855.08,0.81,Loyalty Program
+CUST_SXPFGD,Europe,7436.84,0.93,Discount
+CUST_WGMVGW,Asia,9174.43,0.79,Loyalty Program
+CUST_FWCPTF,North America,6097.26,0.8,Email Campaign
+CUST_683JS7,Europe,2818.06,0.8,Loyalty Program
+CUST_J50HG1,Asia,1751.08,0.71,Email Campaign
+CUST_T4RGMR,Europe,5947.09,0.76,Email Campaign
+CUST_XEXNX2,North America,7604.02,0.85,Discount
+CUST_0FDTYG,North America,6898.37,0.83,Email Campaign
+CUST_W11HDZ,Europe,1448.37,0.75,Email Campaign
+CUST_NRJ3XG,Europe,8095.88,0.73,Email Campaign
+CUST_Z1G0ZO,North America,6599.97,0.93,Loyalty Program
+CUST_2IHVC3,South America,4032.06,0.79,Loyalty Program
+CUST_FO8TCM,North America,3303.85,0.71,Email Campaign
+CUST_21CJFO,South America,4785.7,0.99,Discount
+CUST_VB1HL4,Asia,1175.65,0.76,Discount
+CUST_PNOJDB,South America,941.46,0.9,Discount
+CUST_TNH0GI,Europe,6031.65,0.99,Discount
+CUST_1EOUE4,South America,473.84,0.99,Email Campaign
+CUST_4XDTV4,Europe,9652.1,0.99,Loyalty Program
+CUST_URPGCG,South America,6525.09,0.72,Loyalty Program
+CUST_FBWQ7E,South America,5599.88,0.91,Discount
+CUST_SA0AGV,North America,1059.13,1,Loyalty Program
+CUST_KMZ7E2,Asia,2974.14,0.81,Email Campaign
+CUST_MO2O8P,Europe,4519.17,0.94,Discount
+CUST_FM78P5,South America,1809.21,0.95,Loyalty Program
+CUST_MHYFO8,Asia,4376.26,0.94,Discount
+CUST_WLQVJC,South America,7236.25,0.96,Email Campaign
+CUST_OYYHX0,Asia,4520.4,0.85,Email Campaign
+CUST_R5KBEA,Europe,6495.99,0.88,Discount
+CUST_RCGKLI,Asia,8476.4,0.77,Discount
+CUST_4SBR1A,North America,6657.57,0.89,Email Campaign
+CUST_TZKLWO,North America,7509.25,0.98,Email Campaign
+CUST_K0XXAO,North America,492.81,0.8,Loyalty Program
+CUST_4TE1XJ,Europe,9525.26,0.71,Discount
+CUST_F2A0W4,South America,7523.15,0.75,Email Campaign
+CUST_DQZR4X,Europe,7916.51,0.87,Email Campaign
+CUST_BH0RD1,Europe,4969.24,0.86,Discount
+CUST_YMCKVV,Asia,373.62,0.82,Loyalty Program
+CUST_JJKCGX,South America,3157.87,1,Loyalty Program
+CUST_R04XJB,Europe,1324.34,0.92,Loyalty Program
+CUST_VPDKB7,North America,3738.22,0.9,Email Campaign
+CUST_42BJGZ,Asia,7527.99,0.97,Email Campaign
+CUST_WJYE15,North America,3095.45,0.78,Discount
+CUST_3TJH5T,South America,7586.21,0.79,Loyalty Program
+CUST_SLDL9L,Europe,6905.15,0.82,Email Campaign
+CUST_KQB48J,Asia,5307.26,0.96,Loyalty Program
+CUST_J3DVCN,South America,3847.05,0.76,Discount
+CUST_VXQCLY,Europe,1726.07,0.9,Email Campaign
+CUST_PP8I7P,Europe,3069,0.72,Email Campaign
+CUST_BLWG8H,South America,8265.62,0.74,Email Campaign
+CUST_8E0ID5,South America,2213.15,0.88,Loyalty Program
+CUST_MXAI99,Europe,1304.92,0.96,Email Campaign
+CUST_2HMW7T,Europe,9442.07,0.84,Email Campaign
+CUST_EECVI5,Asia,5795.63,0.86,Discount
+CUST_VAPXSV,Europe,4928.19,0.98,Discount
+CUST_NOJKJH,North America,6962.69,0.97,Loyalty Program
+CUST_F8X69V,North America,4473.67,0.73,Loyalty Program
+CUST_UPK5MP,South America,2510.64,0.99,Loyalty Program
+CUST_WX4W26,Europe,2536.13,0.99,Discount
+CUST_YRJUIP,Europe,481.92,0.94,Discount
+CUST_0O529J,South America,7812.41,0.99,Loyalty Program
+CUST_P4WEHB,North America,1668.53,0.92,Loyalty Program
+CUST_DHAIXA,Asia,4813.09,0.87,Loyalty Program
+CUST_LT4YRI,Europe,3849.8,0.91,Loyalty Program
+CUST_M79HBQ,North America,8485.26,0.76,Discount
+CUST_QF61IM,South America,3701.85,0.94,Discount
+CUST_KCUAFW,Asia,8979.13,0.73,Email Campaign
+CUST_O3JAZA,Europe,8055.29,0.72,Loyalty Program
+CUST_QCQ37B,North America,6364.97,0.81,Loyalty Program
+CUST_TP1TJR,North America,9662.29,0.89,Email Campaign
+CUST_SILGIJ,Asia,3641.14,0.94,Loyalty Program
+CUST_LHKZF7,North America,2095.52,0.84,Email Campaign
+CUST_LPH8MI,Europe,1924.39,0.86,Email Campaign
+CUST_X9SN67,South America,6216,0.92,Email Campaign
+CUST_BP19O0,Asia,7677.44,0.98,Email Campaign
+CUST_WMKMF8,Europe,2731.63,0.72,Loyalty Program
+CUST_TGFWQL,South America,7444.62,0.91,Loyalty Program
+CUST_BSFCZS,Asia,5481.28,0.84,Email Campaign
+CUST_8EUVZP,North America,2173.39,0.83,Discount
+CUST_EZESVA,North America,8123.21,0.99,Email Campaign
+CUST_R473OA,South America,3902.24,0.96,Discount
+CUST_YZ6QIT,South America,8539.67,0.87,Email Campaign
+CUST_7GGVHE,Europe,4011.24,0.78,Email Campaign
+CUST_ITCKUQ,Asia,5436.12,0.79,Loyalty Program
+CUST_2B0930,South America,844.03,0.76,Loyalty Program
+CUST_WIL687,Asia,2589.51,0.95,Email Campaign
+CUST_CY85F8,Asia,1909.18,0.99,Discount
+CUST_E38EBH,South America,4407.07,0.8,Email Campaign
+CUST_7NKKVD,North America,893.69,0.81,Email Campaign
+CUST_4Z9N0V,North America,4821.2,0.81,Email Campaign
+CUST_AFT7GW,Asia,2661.67,0.97,Email Campaign
+CUST_EDLYA5,Europe,5143.44,0.82,Loyalty Program
+CUST_SK229L,Asia,5750.19,0.89,Email Campaign
+CUST_2AU87H,South America,3093.91,0.85,Loyalty Program
+CUST_SA2OII,Europe,9052.57,0.82,Loyalty Program
+CUST_BTEWXV,Europe,652.57,0.83,Loyalty Program
+CUST_PMXNMF,Europe,8708.41,0.89,Loyalty Program
+CUST_O3NH7E,Asia,2610.51,0.95,Email Campaign
+CUST_2WK6SK,Asia,1156.73,0.75,Loyalty Program
+CUST_GELGQV,North America,6289.82,0.97,Discount
+CUST_F0IF6S,Asia,6656.34,0.82,Loyalty Program
+CUST_BRBSIV,Asia,3157.64,0.89,Email Campaign
+CUST_S9WYHE,North America,3426.96,0.74,Discount
+CUST_UALY6F,North America,8768.36,0.86,Loyalty Program
+CUST_HJH3ZB,North America,159,0.97,Email Campaign
+CUST_L8558B,Europe,6412.15,0.75,Loyalty Program
+CUST_8YGPRV,North America,3216.57,0.72,Email Campaign
+CUST_AGFEL9,South America,8076.53,0.81,Loyalty Program
+CUST_FV2SDO,Europe,6753,0.78,Loyalty Program
+CUST_FJZCIF,Asia,4354.15,0.79,Discount
+CUST_9I1X23,South America,9909.21,0.75,Loyalty Program
+CUST_Q8ZHXT,Europe,345.16,0.91,Email Campaign
+CUST_THS3X9,Asia,9390.68,0.87,Email Campaign
+CUST_ATLS7W,Europe,8633.36,0.83,Loyalty Program
+CUST_IZCE8I,Asia,2440.28,0.98,Loyalty Program
+CUST_P7R6IV,Europe,5263.95,0.9,Email Campaign
+CUST_9SZOBS,Europe,5529.36,0.83,Discount
+CUST_67S266,South America,9350.38,0.88,Email Campaign
+CUST_2TXWWP,Europe,1830.32,0.84,Discount
+CUST_DUCQOA,Europe,8131.35,0.79,Discount
+CUST_T8DXUM,South America,6267.79,0.8,Discount
+CUST_4PV9DP,Europe,7050.89,0.72,Discount
+CUST_WGPDV3,Europe,7843.82,0.95,Loyalty Program
+CUST_N4I1EK,South America,970.04,1,Loyalty Program
+CUST_EKOJCW,Europe,8770.83,0.9,Discount
+CUST_R8M0HW,North America,1834.63,0.95,Email Campaign
+CUST_9F7RLO,North America,1142.56,0.77,Email Campaign
+CUST_J2SNY7,Asia,1484.84,0.93,Discount
+CUST_NQV69I,Europe,7433.67,0.75,Discount
+CUST_CLIW48,Europe,7467.5,0.73,Discount
+CUST_Y4CG8N,Asia,8419.1,0.94,Discount
+CUST_7X95SQ,South America,9431.55,0.78,Email Campaign
+CUST_F2279T,Europe,8796.99,0.9,Discount
+CUST_1O20Z8,Europe,120.13,0.89,Discount
+CUST_27MYS3,Europe,776.75,0.84,Loyalty Program
+CUST_45BG5Y,Asia,3556.32,0.79,Loyalty Program
+CUST_512IID,South America,6348.28,0.96,Email Campaign
+CUST_8E6QAD,Europe,3608.1,0.82,Discount
+CUST_5T7GPF,South America,298.54,0.73,Discount
+CUST_NAS593,North America,1096.93,0.85,Loyalty Program
+CUST_9H77E9,South America,6993.91,0.8,Email Campaign
+CUST_E6FIZD,South America,9630.67,0.79,Loyalty Program
+CUST_XL1V78,Asia,8702.23,0.81,Email Campaign
+CUST_Q0BQU4,North America,201.74,0.88,Email Campaign
+CUST_PRYX1O,Europe,165.5,0.88,Discount
+CUST_QJE7OF,South America,8446.81,0.76,Loyalty Program
+CUST_SVWN2X,Asia,4628.09,0.88,Email Campaign
+CUST_3UVXXB,Asia,3176.11,0.72,Discount
+CUST_R47QHU,Asia,312.76,0.72,Email Campaign
+CUST_176NMA,Europe,2417.39,0.79,Email Campaign
+CUST_PP5VKD,Asia,996.95,0.99,Loyalty Program
+CUST_U5G2CB,North America,6552.99,0.76,Email Campaign
+CUST_S5FHY6,Europe,2914.8,0.72,Loyalty Program
+CUST_JUPYKU,North America,1572.36,0.96,Discount
+CUST_0MZ2ZF,Europe,100.9,0.87,Loyalty Program
+CUST_U42MFP,South America,7261.4,0.94,Loyalty Program
+CUST_5513OT,North America,9767.68,0.81,Loyalty Program
+CUST_ZJFP3F,Asia,9403.63,0.96,Loyalty Program
+CUST_JXLC5R,North America,2255.16,0.84,Discount
+CUST_55MMJY,Asia,3272.83,0.81,Email Campaign
+CUST_9I6KHR,North America,5016.97,0.92,Discount
+CUST_G2Y83U,North America,205.25,0.77,Discount
+CUST_WFI86N,South America,9416.86,0.73,Email Campaign
+CUST_0GO8H8,Asia,7446.46,0.83,Loyalty Program
+CUST_H3SLHS,South America,5598.19,0.81,Loyalty Program
+CUST_CUK3BD,Asia,4345,0.89,Loyalty Program
+CUST_9XBZ73,South America,3798.91,0.77,Email Campaign
+CUST_R2H482,Asia,1047.43,1,Email Campaign
+CUST_LPNNFI,Europe,7195.18,0.75,Email Campaign
+CUST_IB30XV,South America,9162.76,0.96,Discount
+CUST_CMKQWO,Europe,8925.41,0.93,Email Campaign
+CUST_C9N5FV,Asia,7303.03,0.99,Loyalty Program
+CUST_4GIQZY,Europe,8276.83,0.72,Loyalty Program
+CUST_4CKQFB,North America,7873.42,0.79,Discount
+CUST_IBQULX,Asia,1966.94,0.79,Email Campaign
+CUST_BFWKIU,North America,2603.62,0.97,Email Campaign
+CUST_XNLTD9,Europe,6722.02,0.77,Email Campaign
+CUST_N6XTUU,Asia,8204.27,0.94,Discount
+CUST_9VPMQU,Europe,3892.17,0.73,Loyalty Program
+CUST_PNWYM9,Europe,4888.71,0.96,Discount
+CUST_6CUME5,North America,2224.4,0.82,Loyalty Program
+CUST_W8ZVWW,Europe,440.57,0.86,Discount
+CUST_CBQOIU,Europe,304.68,0.76,Loyalty Program
+CUST_CPY1R8,North America,8600.3,0.97,Email Campaign
+CUST_2DQON0,Europe,3919.09,0.77,Loyalty Program
+CUST_QUEI6Q,Europe,127.98,0.78,Email Campaign
+CUST_SDVKB4,South America,2950.56,0.9,Loyalty Program
+CUST_J9HLS7,South America,1459.97,0.84,Email Campaign
+CUST_0BARIE,South America,4544.91,0.99,Loyalty Program
+CUST_3EPJHQ,South America,9684.68,0.77,Email Campaign
+CUST_2U8B1Q,South America,9398.25,1,Discount
+CUST_3FXS7U,Asia,551.91,0.73,Email Campaign
+CUST_PL8SQN,North America,5714.44,0.86,Discount
+CUST_QFJCNZ,North America,5788.52,0.88,Email Campaign
+CUST_HAC6QW,Asia,4836.7,0.98,Discount
+CUST_QL0L9V,Asia,6070.2,0.96,Discount
+CUST_4HCZ4J,Asia,2078.95,0.96,Discount
+CUST_9Y63LU,Europe,8997.93,0.94,Discount
+CUST_MLSJ6H,South America,8509.14,0.96,Loyalty Program
+CUST_XQPRJ6,North America,1406.09,0.74,Email Campaign
+CUST_YYUGDY,South America,9821.4,0.79,Discount
+CUST_12QCZM,Europe,2455.99,0.8,Loyalty Program
+CUST_MWJBFG,South America,8716.64,0.98,Email Campaign
+CUST_SEY77Z,North America,2504.15,0.78,Loyalty Program
+CUST_2538LY,South America,7338.08,0.91,Discount
+CUST_YSWWW1,Europe,1420.07,0.81,Loyalty Program
+CUST_3QGU8V,South America,9633.88,0.76,Loyalty Program
+CUST_HJSM1X,North America,2538.65,0.74,Discount
+CUST_FLWQHN,South America,2898.59,0.8,Discount
+CUST_IO4745,Asia,1602.75,0.99,Loyalty Program
+CUST_MFDRH0,Asia,4895.08,0.84,Discount
+CUST_LK58VJ,South America,2953.53,0.86,Email Campaign
+CUST_SNIQG8,North America,2859.67,0.75,Discount
+CUST_HI8ZZX,North America,4829.02,0.81,Discount
+CUST_9R9UI7,Asia,3753.85,0.84,Discount
+CUST_D804TN,Europe,2672.68,0.75,Discount
+CUST_S776K3,Asia,6310.54,0.75,Email Campaign
+CUST_X727PT,South America,5961.5,0.71,Discount
+CUST_V6RCMT,Asia,5975.45,0.93,Email Campaign
+CUST_AQB6U6,Europe,5742.85,0.76,Discount
+CUST_6XQJVU,Asia,237.1,0.91,Discount
+CUST_DZBM1E,South America,5656.44,0.98,Email Campaign
+CUST_Y2IWUI,South America,9363.14,0.84,Email Campaign
+CUST_2BCQYO,South America,1126.75,0.86,Discount
+CUST_R3RAZB,Asia,9894.55,0.72,Discount
+CUST_Q6XGY7,South America,3784.22,0.78,Loyalty Program
+CUST_DLL5AS,Europe,1978.86,1,Email Campaign
+CUST_M28QU8,Asia,2734.68,0.99,Email Campaign
+CUST_I75GY4,North America,603.87,0.84,Email Campaign
+CUST_CKJW37,Europe,760.8,0.86,Email Campaign
+CUST_MEPPHV,Asia,9046.13,0.93,Discount
+CUST_TM40BG,Asia,6295,0.84,Discount
+CUST_SKV6DL,South America,6773.19,0.86,Loyalty Program
+CUST_WZAZNL,Europe,4181.44,0.82,Loyalty Program
+CUST_WF5RXR,North America,7316,0.99,Loyalty Program
+CUST_Z8JEOM,Europe,266.41,0.72,Email Campaign
+CUST_GBFWBO,South America,2053.33,0.83,Loyalty Program
+CUST_V9E852,Asia,1503.57,0.92,Email Campaign
+CUST_9V1NLL,South America,8664.96,0.9,Loyalty Program
+CUST_BANPA5,South America,1235.01,0.8,Discount
+CUST_N0S8R3,North America,3599.26,0.72,Email Campaign
+CUST_JL84AN,Asia,6840.31,0.9,Discount
+CUST_8IU3IP,Asia,9977.46,0.96,Loyalty Program
+CUST_B7UJ91,Asia,3251.5,0.84,Discount
+CUST_HXG6H6,North America,8973.47,0.89,Email Campaign
+CUST_U2XH48,Asia,8365.98,0.74,Discount
+CUST_4YLH9W,North America,4701.62,0.86,Loyalty Program
+CUST_QF5F39,South America,5796.7,0.95,Loyalty Program
+CUST_YBR8D6,Asia,969.2,0.78,Email Campaign
+CUST_RVRXEC,North America,9823.22,0.76,Email Campaign
+CUST_79K9G4,South America,5882.5,0.75,Discount
+CUST_1L2D6C,South America,9067.62,0.72,Discount
+CUST_N6HHYX,Europe,4219.05,0.88,Email Campaign
+CUST_WXZHXB,Europe,4378.7,0.88,Discount
+CUST_RU9694,South America,8335.06,0.91,Discount
+CUST_XAD81Q,Asia,3969.17,0.92,Discount
+CUST_ELI6OV,South America,2565.68,0.86,Discount
+CUST_4JY7ZW,North America,6828.47,0.73,Email Campaign
+CUST_06T7TU,Europe,7504.84,0.75,Discount
+CUST_KFBGEG,South America,5795.32,0.78,Discount
+CUST_WX72G4,Europe,3990.58,0.92,Email Campaign
+CUST_8QEAW2,Asia,8898.73,0.89,Email Campaign
+CUST_8LP0O6,North America,5220.21,0.81,Email Campaign
+CUST_JN3LTJ,North America,6654.65,0.94,Discount
+CUST_7XMSYL,North America,2273.85,0.89,Loyalty Program
+CUST_9TH5GC,Asia,8201.82,0.81,Discount
+CUST_AQQE5T,South America,360.16,0.74,Email Campaign
+CUST_DMJGCT,Europe,6236.09,0.74,Email Campaign
+CUST_8AL2RC,South America,2913.19,0.88,Loyalty Program
+CUST_7Y4EPV,Asia,7096.59,0.92,Loyalty Program
+CUST_JBSTND,Asia,1806.73,0.9,Discount
+CUST_ZC4XU5,South America,4895.97,0.8,Loyalty Program
+CUST_L655PK,Europe,6036.96,0.93,Loyalty Program
+CUST_HZ0ZYF,South America,3051.56,0.77,Email Campaign
+CUST_6QBHZX,Europe,1423.2,0.8,Email Campaign
+CUST_TBS9AW,South America,6107.27,0.94,Loyalty Program
+CUST_WWNTAT,Asia,6494.32,0.72,Email Campaign
+CUST_LIGHR8,Asia,2263.32,0.95,Discount
+CUST_X86CZA,South America,3225.42,0.89,Email Campaign
+CUST_0BN42Y,Asia,9370.32,0.77,Discount
+CUST_FQ2M74,South America,7526.01,0.91,Discount
+CUST_ISSIM5,Asia,1336.13,0.9,Email Campaign
+CUST_J63VQ7,Asia,8121,0.97,Email Campaign
+CUST_FVKFDV,Europe,7123.14,0.77,Discount
+CUST_MOOJ96,South America,3541.02,0.92,Discount
+CUST_MNBXFG,Asia,9485.19,0.99,Email Campaign
+CUST_82YO5P,South America,5340.28,0.93,Loyalty Program
+CUST_C9RGIZ,Europe,9265,0.9,Loyalty Program
+CUST_T1QS7W,Asia,4679.97,0.98,Discount
+CUST_QB0HF9,Europe,582.2,0.86,Email Campaign
+CUST_QPWVSX,South America,4483.03,0.81,Loyalty Program
+CUST_MS4U9Q,Asia,6292.65,0.84,Discount
+CUST_Z0CG69,South America,7059.6,0.72,Discount
+CUST_MYVXBR,South America,9726.3,0.85,Email Campaign
+CUST_SC5X04,Europe,3884.54,0.87,Loyalty Program
+CUST_BR9DT7,Asia,5265.07,0.94,Email Campaign
+CUST_G8GB3Y,North America,6814.68,0.95,Loyalty Program
+CUST_JZBAED,Europe,8826.72,0.83,Loyalty Program
+CUST_IZ1KWS,South America,7219.37,0.75,Discount
+CUST_76Q8SB,South America,4173.89,0.72,Loyalty Program
+CUST_7FGUJB,Europe,4182.38,0.89,Discount
+CUST_3ATI6M,Europe,5502.41,0.82,Discount
+CUST_GYUER5,South America,8732.5,0.99,Email Campaign
+CUST_LX5114,Asia,7914.4,0.91,Email Campaign
+CUST_7TKCQ0,South America,8745.35,0.74,Loyalty Program
+CUST_0V4WEI,North America,2424.59,0.85,Loyalty Program
+CUST_LKCQCT,South America,7239.64,0.83,Discount
+CUST_JLA74Y,Asia,9991.39,0.72,Email Campaign
+CUST_HU0CZF,Asia,5255.52,0.94,Discount
+CUST_QTMV59,Europe,7330.53,0.73,Email Campaign
+CUST_YRHCU6,South America,2150.17,0.96,Email Campaign
+CUST_JSHGOL,North America,9091.93,0.9,Email Campaign
+CUST_VYOI30,Asia,1076.11,0.89,Discount
+CUST_2HGM1L,South America,7620.32,0.81,Discount
+CUST_ALJ3TD,South America,5465.12,0.72,Email Campaign
+CUST_4HHULB,North America,6955.86,0.85,Email Campaign
+CUST_1FA3B5,Asia,8112.6,0.73,Loyalty Program
+CUST_TBZGVR,South America,8457.24,0.91,Email Campaign
+CUST_LOJDP2,Europe,207.86,0.94,Loyalty Program
+CUST_Z4D521,Europe,835.18,0.82,Email Campaign
+CUST_L80E4H,North America,970.74,0.74,Email Campaign
+CUST_1EBKJT,South America,5676.91,0.87,Discount
+CUST_511Z6P,North America,4664.34,0.86,Discount
+CUST_AWIQBF,North America,8019.73,0.95,Discount
+CUST_JE5ZGW,Asia,2859.54,0.97,Discount
+CUST_MYREAH,Europe,1754.3,0.87,Email Campaign
+CUST_ECSFA7,Asia,320.27,0.84,Email Campaign
+CUST_35C1P5,South America,749.3,0.77,Email Campaign
+CUST_4629CW,Europe,7625.61,0.92,Loyalty Program
+CUST_OMH4TN,Asia,7915.02,0.93,Email Campaign
+CUST_NNT11O,Europe,3431.43,0.78,Discount
+CUST_6JCME2,Europe,8709.33,0.76,Loyalty Program
+CUST_CIXNM4,Europe,3555.91,0.81,Loyalty Program
+CUST_A8FP6T,Asia,539.74,0.99,Email Campaign
+CUST_D2VTMM,South America,6999.54,0.95,Discount
+CUST_S5X2JN,Asia,8160.8,0.72,Discount
+CUST_GDAZ5V,Europe,8593.12,0.71,Email Campaign
+CUST_IEONWU,Asia,2391.07,0.85,Email Campaign
+CUST_5TQ7DD,North America,4213.3,0.88,Email Campaign
+CUST_NDATNE,South America,7077.17,0.9,Email Campaign
+CUST_X2RVCQ,Asia,1835.94,0.97,Email Campaign
+CUST_YSR30D,North America,6533.68,0.98,Email Campaign
+CUST_IIHFSP,North America,6450.21,0.88,Discount
+CUST_NFCO92,Europe,6004.9,0.84,Loyalty Program
+CUST_SC6I89,North America,9513.71,0.72,Loyalty Program
+CUST_M23CV1,Asia,5147.53,0.89,Email Campaign
+CUST_R0BZZQ,North America,1924.06,0.72,Loyalty Program
+CUST_3FTPMG,Europe,6195.9,0.87,Email Campaign
+CUST_F8MQ82,North America,2571.74,0.82,Discount
+CUST_MRIKHS,Europe,9609.12,0.98,Discount
+CUST_2KI4Z0,Europe,1184.85,0.85,Discount
+CUST_62SSDP,Asia,7757.53,0.81,Loyalty Program
+CUST_2U19Z8,Asia,4370.88,0.82,Discount
+CUST_NWNTR5,Asia,5761.66,0.89,Discount
+CUST_SM2M7Y,Asia,9325.87,0.72,Discount
+CUST_H4JVPI,Asia,3131.54,0.85,Loyalty Program
+CUST_A88U2A,South America,2259.98,0.89,Discount
+CUST_C61BBJ,Asia,774.95,0.94,Email Campaign
+CUST_OQOTFC,Europe,5555.64,0.8,Email Campaign
+CUST_E7V741,North America,4076.02,0.98,Email Campaign
+CUST_7WYDLB,South America,4593.55,0.94,Email Campaign
+CUST_8G7BHK,Asia,4341.2,0.81,Email Campaign
+CUST_9B07QB,Europe,8415.45,0.96,Loyalty Program
+CUST_9QGD5H,South America,3103.67,0.76,Loyalty Program
+CUST_GDUSB3,North America,2627.16,0.81,Discount
+CUST_N703JU,North America,1833.27,0.71,Discount
+CUST_G3XAO2,Asia,7558.18,0.98,Discount
+CUST_TAAQ2S,North America,6302.57,0.87,Email Campaign
+CUST_D3N36C,South America,2524.55,0.75,Discount
+CUST_ZR2IMK,South America,1095.33,0.8,Email Campaign
+CUST_K764FK,Asia,9417,0.71,Discount
+CUST_ULVQS2,South America,8360.72,0.91,Loyalty Program
+CUST_V6Z81M,Europe,4293.36,0.75,Loyalty Program
+CUST_PSXGH7,North America,4729.62,0.86,Discount
+CUST_FAD46C,Asia,4814.4,0.88,Loyalty Program
+CUST_ZQIOVB,North America,8296.02,0.73,Email Campaign
+CUST_XNV7S4,Europe,1196.11,0.84,Email Campaign
+CUST_DQNQ31,Asia,7390.5,0.81,Email Campaign
+CUST_RN56P2,Asia,9649.74,0.86,Email Campaign
+CUST_5C5TX3,South America,1973.95,0.98,Discount
+CUST_9LSS40,South America,3366.97,0.85,Loyalty Program
+CUST_D04EQV,North America,1103.77,0.74,Loyalty Program
+CUST_NZ7TYC,South America,9379.66,0.95,Email Campaign
+CUST_IZOVTJ,North America,490.54,0.98,Discount
+CUST_QFLRA3,South America,795.94,0.71,Email Campaign
+CUST_U1309B,South America,2437.96,0.97,Loyalty Program
+CUST_PB51TZ,Asia,5652.37,0.9,Loyalty Program
+CUST_0387QQ,North America,4296.79,0.84,Loyalty Program
+CUST_359VK9,Asia,7373.24,0.78,Email Campaign
+CUST_YN221K,Europe,9764.76,0.72,Loyalty Program
+CUST_ZATVYZ,Europe,8939.51,0.71,Discount
+CUST_EM3I8P,Europe,316.6,0.85,Discount
+CUST_XQQGJE,Asia,2780.57,0.9,Discount
+CUST_D7DIU7,Asia,7942.97,0.84,Loyalty Program
+CUST_YIPEPJ,Europe,6633.98,0.85,Loyalty Program
+CUST_KSKMPS,Europe,2441.12,0.89,Discount
+CUST_IV4CCI,Europe,3153.07,0.83,Loyalty Program
+CUST_RYERM7,South America,4727.04,0.88,Email Campaign
+CUST_K3X3V2,North America,3555.99,0.76,Email Campaign
+CUST_BFBAFA,South America,6821.34,0.77,Email Campaign
+CUST_GBX2WF,South America,4111.7,0.76,Loyalty Program
+CUST_UH7STY,South America,9713.17,0.85,Loyalty Program
+CUST_9FBHSL,South America,215.12,0.85,Discount
+CUST_YA55K8,North America,6900.03,0.79,Loyalty Program
+CUST_UIH4M4,South America,1096.1,0.9,Discount
+CUST_OBFCJF,North America,8760.13,0.76,Email Campaign
+CUST_SR6VQQ,South America,9501.14,0.99,Email Campaign
+CUST_UH7YWV,Europe,2408.58,0.88,Email Campaign
+CUST_B81DJW,Europe,6385.28,0.88,Email Campaign
+CUST_BA60CU,Europe,7241.38,0.76,Discount
+CUST_MCTMMV,Europe,3626.22,0.8,Email Campaign
+CUST_Z0CVKV,Asia,9693.01,0.83,Email Campaign
+CUST_CJS21G,Europe,2934.9,0.9,Loyalty Program
+CUST_A191FT,Asia,2484.73,0.99,Loyalty Program
+CUST_CYR05A,Europe,3775.1,0.73,Discount
+CUST_LKLIYR,Europe,3526.85,0.72,Email Campaign
+CUST_C6C009,North America,5197.28,0.87,Email Campaign
+CUST_PWSO3E,Asia,7482.28,0.89,Loyalty Program
+CUST_EBZ990,Europe,7909.31,1,Loyalty Program
+CUST_DSAEYZ,North America,3898.37,0.76,Discount
+CUST_P1R007,North America,3937.87,0.79,Email Campaign
+CUST_NZ52FO,South America,5745.49,0.89,Loyalty Program
+CUST_X39WEH,Asia,1747.84,0.86,Discount
+CUST_640801,Asia,2675.96,0.97,Loyalty Program
+CUST_FYXHNZ,Europe,1575.26,0.92,Discount
+CUST_SMACWR,Asia,7147.25,0.93,Loyalty Program
+CUST_5MOO2V,North America,4166.38,0.93,Discount
+CUST_14KD85,Asia,5887.05,0.76,Discount
+CUST_IU29SL,South America,7675.63,0.86,Loyalty Program
+CUST_CN5GYW,South America,6233.92,0.83,Discount
+CUST_LVPSG5,Europe,9080.22,0.82,Email Campaign
+CUST_L9TUV8,Asia,4921.97,0.77,Email Campaign
+CUST_742TUO,North America,9990.55,0.89,Email Campaign
+CUST_UN6YWL,North America,1540.64,0.92,Email Campaign
+CUST_P9RD8T,Asia,6287.33,0.98,Loyalty Program
+CUST_GUAALR,Europe,8431.35,0.94,Loyalty Program
+CUST_7NZ5FP,Europe,946.23,0.79,Loyalty Program
+CUST_S6MTP7,South America,1068.36,0.86,Loyalty Program
+CUST_VDOYGN,Asia,1855.78,0.93,Loyalty Program
+CUST_0FEEN8,North America,3109.02,0.82,Discount
+CUST_P13G7O,North America,721.96,0.74,Loyalty Program
+CUST_KO71BP,Europe,3308.5,0.79,Loyalty Program
+CUST_USPPCW,South America,8411.42,0.95,Discount
+CUST_ODB6BC,North America,5358.1,0.95,Discount
+CUST_NOSVSL,Europe,253.63,0.99,Discount
+CUST_FKB4QP,South America,2947.54,0.86,Email Campaign
+CUST_S6EAQR,North America,6289.66,0.74,Loyalty Program
+CUST_FPZNA5,Europe,8807.41,0.83,Loyalty Program
+CUST_6QM3GS,Asia,8017.54,0.75,Loyalty Program
+CUST_HJCPZX,Asia,7297.53,0.74,Discount
+CUST_GZQ5LL,Europe,3415.5,0.93,Loyalty Program
+CUST_YVI8EY,Europe,9911.39,0.94,Discount
+CUST_Y892RU,Asia,5615.49,0.74,Email Campaign
+CUST_QTV65I,North America,8122.59,0.86,Discount
+CUST_82F54K,South America,7004.63,0.71,Discount
+CUST_0RLOHO,Asia,158.24,0.78,Loyalty Program
+CUST_CJJI6E,South America,9849.9,0.74,Email Campaign
+CUST_UZA6KN,Asia,452.45,0.84,Loyalty Program
+CUST_Q4J6JQ,North America,7899.26,0.81,Loyalty Program
+CUST_V9YD1D,South America,7065.15,0.94,Discount
+CUST_1QJ5BQ,Europe,3205.99,0.93,Loyalty Program
+CUST_5PMEQX,South America,7159.15,0.84,Loyalty Program
+CUST_QW92LR,South America,5718.49,0.73,Discount
+CUST_EZ9ZQ5,Europe,3731.33,0.89,Loyalty Program
+CUST_K5O0H2,Europe,9600.3,0.94,Email Campaign
+CUST_69Z3R3,South America,5863.28,0.77,Discount
+CUST_RVOINA,Europe,8792.72,0.85,Discount
+CUST_WLYQOZ,Asia,3496.52,0.9,Email Campaign
+CUST_XLP312,South America,4660.44,0.76,Loyalty Program
+CUST_OKAPVM,Europe,3017.59,0.99,Email Campaign
+CUST_RS64EM,Asia,1394.54,0.81,Loyalty Program
+CUST_NZCPQ9,South America,4082.7,0.81,Email Campaign
+CUST_KFN89Q,Europe,8702.47,0.96,Loyalty Program
+CUST_C2O6CR,South America,6080.2,0.82,Email Campaign
+CUST_G42REL,Europe,1459.05,0.89,Discount
+CUST_MFAA3Q,North America,7347.65,0.96,Email Campaign
+CUST_J69I4Z,North America,5560.88,0.87,Email Campaign
+CUST_VZ1V7X,Europe,3389.04,0.98,Loyalty Program
+CUST_360FAU,North America,2261.18,0.89,Discount
+CUST_ZU8HDX,Europe,7308.49,0.75,Email Campaign
+CUST_EDDBYN,Asia,377.21,0.83,Email Campaign
+CUST_TJH473,Asia,8990.15,0.84,Discount
+CUST_HIEJOC,Europe,4707.2,0.86,Loyalty Program
+CUST_WM04MS,North America,2109.66,0.71,Loyalty Program
+CUST_27EEF0,South America,7386.16,0.76,Discount
+CUST_J7HCKP,North America,9565.16,0.75,Discount
+CUST_EP5RW6,Europe,2530.78,0.93,Discount
+CUST_FQFSFR,Europe,4801.88,0.95,Discount
+CUST_CIIQBA,Asia,4529.45,0.86,Email Campaign
+CUST_YJHGPS,Europe,1522.48,0.85,Loyalty Program
+CUST_98356S,Asia,7304.33,0.87,Loyalty Program
+CUST_O8ICJM,North America,4709.6,0.74,Loyalty Program
+CUST_45P8BM,Europe,8956.9,0.98,Email Campaign
+CUST_II8XPN,Europe,1665.43,0.85,Email Campaign
+CUST_WYQH80,Asia,1036.62,0.77,Email Campaign
+CUST_O4DNV1,North America,7921.42,0.99,Discount
+CUST_VB1LR5,Asia,9375.38,0.88,Email Campaign
+CUST_UCHGR6,South America,7481.44,0.85,Loyalty Program
+CUST_955W45,South America,2284.77,0.88,Email Campaign
+CUST_SD6IDM,South America,5291.21,0.81,Loyalty Program
+CUST_3XHZXH,Asia,7346.44,0.9,Discount
+CUST_CBM079,North America,8515.2,0.9,Email Campaign
+CUST_MQT9Q0,Asia,5733.66,0.83,Discount
+CUST_18LP4M,North America,8401.63,0.78,Email Campaign
+CUST_RIK7W2,North America,1191.85,0.72,Loyalty Program
+CUST_KJCCDV,Europe,1692.25,0.92,Loyalty Program
+CUST_8IYHCW,Asia,5131.19,0.88,Discount
+CUST_HWV44I,South America,8685.28,0.84,Loyalty Program
+CUST_PG1ZKW,North America,9726.54,0.96,Discount
+CUST_4PHQMY,North America,9034.59,0.9,Discount
+CUST_G2AYWS,Europe,2328.05,0.91,Loyalty Program
+CUST_88DN0Y,South America,7258.84,0.76,Discount
+CUST_QADK2W,North America,9985.47,0.75,Email Campaign
+CUST_ZH2469,Europe,8634.41,0.94,Loyalty Program
+CUST_IJ4IYH,North America,4596.52,0.93,Email Campaign
+CUST_3Y1W1R,North America,4253.23,0.83,Email Campaign
+CUST_3KIC2N,South America,222.66,0.86,Email Campaign
+CUST_TFBOJ2,Europe,2484.11,0.9,Loyalty Program
+CUST_ZEKI3K,North America,9783.8,0.79,Email Campaign
+CUST_C5SLBJ,South America,249.89,0.78,Discount
+CUST_NBDIBX,South America,967.96,0.84,Discount
+CUST_O3ZWKA,South America,1141.71,0.8,Loyalty Program
+CUST_HEQVH1,Europe,8943.42,0.92,Email Campaign
+CUST_TKZAFT,Asia,4998.64,0.98,Discount
+CUST_TAI7ZA,Asia,7049.46,0.72,Discount
+CUST_6EZ1IZ,Asia,9045.51,0.73,Discount
+CUST_016RQ8,Europe,7362.09,0.98,Discount
+CUST_NYGE7B,Asia,3474.31,0.79,Loyalty Program
+CUST_QFXDIS,South America,5176.3,0.74,Discount
+CUST_ECXABM,North America,2633.69,0.84,Loyalty Program
+CUST_ZG6J8H,South America,477.45,0.72,Email Campaign
+CUST_31OU72,North America,3650.45,0.89,Loyalty Program
+CUST_NNTWEX,Asia,5630.91,0.86,Discount
+CUST_VFYP6B,South America,2916.02,0.78,Email Campaign
+CUST_HTSHWT,North America,4880.91,0.86,Discount
+CUST_B3A3X6,Asia,1463.44,0.73,Discount
+CUST_3JTLFJ,Asia,5294.12,0.97,Discount
+CUST_Z6NYUZ,North America,7562.38,0.72,Email Campaign
+CUST_WZ80J0,Asia,5470.54,0.72,Email Campaign
+CUST_0ITY6V,Europe,484.32,0.83,Email Campaign
+CUST_XWOU41,Asia,1927.25,0.83,Loyalty Program
+CUST_OJN0HB,North America,424.26,0.72,Discount
+CUST_GH6FQR,Asia,2688.71,0.8,Loyalty Program
+CUST_AI1WKG,South America,7803.88,0.93,Discount
+CUST_9K8QFR,North America,3790.95,0.78,Email Campaign
+CUST_OI4URF,Asia,3405.12,0.96,Email Campaign
+CUST_1TQSN8,South America,5289.29,0.91,Discount
+CUST_6WHXVS,North America,6484.96,0.85,Loyalty Program
+CUST_3EANV3,South America,753.32,0.75,Loyalty Program
+CUST_X9RMGO,South America,9885.34,0.72,Discount
+CUST_U8F17V,Europe,9343.84,0.84,Email Campaign
+CUST_R2ZD37,North America,8022.24,0.94,Loyalty Program
+CUST_FTXZXZ,South America,5744.61,0.84,Discount
+CUST_NV1E2A,Asia,8329.31,0.97,Email Campaign
+CUST_J1NKSW,Asia,7393.87,0.91,Email Campaign
+CUST_CF5G9Y,Asia,932.78,0.95,Loyalty Program
+CUST_2CARVU,Asia,4092.73,0.77,Loyalty Program
+CUST_1GNMOM,North America,4816.78,0.91,Email Campaign
+CUST_W62UDS,South America,4568.97,0.84,Loyalty Program
+CUST_MO1Q2E,Asia,7245.01,0.9,Discount
+CUST_O9AXUX,North America,5120.23,0.78,Loyalty Program
+CUST_L0UR3M,North America,7889.52,0.87,Discount
+CUST_RHL4ZV,Europe,3641.81,0.8,Email Campaign
+CUST_F8G21U,Asia,6791.4,0.75,Loyalty Program
+CUST_JKCIO9,North America,7122.41,0.94,Discount
+CUST_WA76US,South America,8281.21,0.71,Loyalty Program
+CUST_DFR0SS,South America,1947.01,0.96,Discount
+CUST_UA1LS9,Europe,9499.14,0.82,Discount
+CUST_L90T1U,Asia,5791.39,0.86,Email Campaign
+CUST_EJGM1M,South America,7074.23,0.98,Loyalty Program
+CUST_9Y723Q,North America,1238.86,0.81,Email Campaign
+CUST_X4MP3T,Europe,2019.16,0.82,Discount
+CUST_GDT6X2,North America,1534.63,0.83,Loyalty Program
+CUST_PVQMTI,North America,7854.38,0.84,Discount
+CUST_7VZS6V,North America,3436.17,0.93,Loyalty Program
+CUST_LD0MNF,Asia,9760.31,0.96,Loyalty Program
+CUST_9GD606,South America,3147.02,0.9,Discount
+CUST_OW0FHZ,South America,8255.55,0.9,Email Campaign
+CUST_F1O8QU,Europe,3491.28,0.96,Loyalty Program
+CUST_VMAJR4,South America,1609.63,0.98,Loyalty Program
+CUST_R2UVZU,Asia,1557.72,0.75,Loyalty Program
+CUST_GAUP8B,South America,7256.84,0.87,Discount
+CUST_TNNT3A,North America,8820.22,0.91,Discount
+CUST_QHSZ4F,Asia,7158.46,0.76,Email Campaign
+CUST_DEUW4J,Europe,9984.85,0.95,Email Campaign
+CUST_WJC7LF,South America,4733.05,0.8,Discount
+CUST_15HX95,South America,1734.56,0.88,Email Campaign
+CUST_KQ94CT,Asia,8562.46,0.94,Email Campaign
+CUST_5NU9R2,Asia,7232.17,0.8,Loyalty Program
+CUST_K3IUGB,Asia,8407.57,0.83,Email Campaign
+CUST_N8I5TY,Asia,4700.17,0.98,Discount
+CUST_53KL0X,North America,8348.47,0.79,Email Campaign
+CUST_Z24HTD,Europe,3432.39,0.83,Email Campaign
+CUST_ZID1WJ,Europe,9398.66,0.83,Discount
+CUST_S55SYW,North America,2567.68,0.76,Email Campaign
+CUST_SX2P91,North America,7508.36,0.97,Loyalty Program
+CUST_POSB90,Europe,4606.61,0.76,Email Campaign
+CUST_C06QKN,North America,3336.29,0.72,Email Campaign
+CUST_452IH6,North America,7908.62,0.75,Loyalty Program
+CUST_OQAUTP,Europe,174.89,0.83,Email Campaign
+CUST_66UYJJ,South America,3518.75,0.94,Discount
+CUST_5F0064,Europe,9361.19,0.96,Loyalty Program
+CUST_LROL1T,South America,6046.46,0.84,Discount
+CUST_TDZID6,Europe,8787.74,0.72,Email Campaign
+CUST_UUFM1J,South America,5773.58,0.78,Email Campaign
+CUST_SL11KV,South America,5661.31,0.77,Loyalty Program
+CUST_B54NL2,South America,6063.39,0.96,Loyalty Program
+CUST_M63KLC,South America,5707.92,0.98,Discount
+CUST_COL2K1,Europe,9224.09,0.84,Loyalty Program
+CUST_N492JL,South America,3749.27,0.73,Loyalty Program
+CUST_HVLCJ4,Europe,4234.6,0.98,Loyalty Program
+CUST_FAVX6R,Asia,1862.97,0.98,Loyalty Program
+CUST_EZYCTJ,Europe,9791.4,0.95,Loyalty Program
+CUST_FBEHFK,North America,4920.61,0.71,Loyalty Program
+CUST_TIOFAR,North America,7677.65,0.88,Loyalty Program
+CUST_1F5IRW,Asia,4687.38,0.82,Email Campaign
+CUST_99GWZK,Europe,1782.53,0.93,Loyalty Program
+CUST_FZ6COV,North America,6693.64,0.77,Email Campaign
+CUST_9SBTC8,Asia,775.75,0.86,Discount
+CUST_KEQJ9Q,South America,6633.75,0.79,Loyalty Program
+CUST_8YY0HB,Asia,3817.05,0.76,Discount
+CUST_CDS39L,South America,4575.3,0.73,Discount
+CUST_9DP74R,South America,7697.03,0.78,Discount
+CUST_21Q1H6,North America,5298.73,0.8,Loyalty Program
+CUST_PAJRNB,South America,7867.21,0.92,Email Campaign
+CUST_SZN6UJ,Europe,5734.85,0.95,Email Campaign
+CUST_GF1VR5,Europe,2544.42,0.76,Discount
+CUST_G6GIYF,North America,4478.15,0.72,Email Campaign
+CUST_O1TAKW,South America,9149.21,0.91,Loyalty Program
+CUST_451JAI,Asia,3761.05,0.87,Discount
+CUST_5O7VED,North America,8701.87,0.91,Loyalty Program
+CUST_2L8XBO,North America,907.73,0.76,Loyalty Program
+CUST_S2Z0OC,Asia,1807.43,0.76,Email Campaign
+CUST_R4U7LM,South America,3275.49,0.83,Loyalty Program
+CUST_G5GVU5,South America,5363.46,0.96,Loyalty Program
+CUST_2JKSZN,Europe,8893.01,0.82,Loyalty Program
+CUST_AKUQB7,Asia,4299.17,0.8,Discount
+CUST_XHOH17,Asia,6970.17,1,Email Campaign
+CUST_BODZVK,Europe,3871.2,0.72,Discount
+CUST_UK8GTE,Europe,4393.1,0.96,Discount
+CUST_JMU63X,North America,4928.56,0.87,Email Campaign
+CUST_OUT6PS,Europe,3053,0.71,Loyalty Program
+CUST_SAXTCF,Asia,4589.89,0.98,Email Campaign
+CUST_RXZ6I3,Asia,6368.69,0.83,Email Campaign
+CUST_391IYR,North America,9773.64,0.88,Loyalty Program
+CUST_JAAYMA,Asia,2037.38,0.91,Loyalty Program
+CUST_ZTCLGP,Europe,2369.61,0.84,Email Campaign
+CUST_RCRU6T,Europe,4074.23,0.71,Discount
+CUST_9BTT4H,South America,8617.82,0.99,Loyalty Program
+CUST_JM9JNA,North America,6703.16,0.86,Loyalty Program
+CUST_7U1XC8,Europe,8261.3,0.91,Email Campaign
+CUST_C8A1T7,South America,4342.43,0.75,Email Campaign
+CUST_P6L63W,Asia,4424.5,0.78,Email Campaign
+CUST_S3I7JQ,Europe,3938.6,0.77,Email Campaign
+CUST_GPFYSZ,Asia,7099.52,0.79,Email Campaign
+CUST_ARA10F,Europe,1480.7,0.79,Email Campaign
+CUST_OV0WVK,Europe,3912.82,1,Loyalty Program
+CUST_L1Z992,Europe,8793.8,0.93,Loyalty Program
+CUST_P5PXYW,Europe,8750.01,0.75,Loyalty Program
+CUST_I1N1WD,Asia,6090.68,1,Email Campaign
+CUST_4KJ0FB,North America,9086.33,0.84,Email Campaign
+CUST_RJQ5TC,Europe,4635.04,0.92,Discount
+CUST_SNAR2B,Asia,3870.74,0.8,Loyalty Program
+CUST_BY1X8M,North America,9764.67,0.78,Discount
+CUST_YPQF1U,North America,1398.73,0.94,Email Campaign
+CUST_28RSLH,Asia,1811.15,0.77,Discount
+CUST_UBOH1A,North America,4347.53,0.98,Loyalty Program
+CUST_3R7T39,Europe,5496.83,0.94,Loyalty Program
+CUST_5LQDQ1,North America,5788.7,0.89,Discount
+CUST_T0M179,South America,9909.88,0.88,Discount
+CUST_RH5703,Asia,7154.23,0.88,Loyalty Program
+CUST_26SMRT,Europe,5546.64,0.96,Discount
+CUST_38VDGZ,South America,8058.44,0.99,Discount
+CUST_V52YC3,South America,5418.7,0.96,Discount
+CUST_T8UJTK,South America,5986.85,0.85,Discount
+CUST_PD7OXH,Europe,1192.63,0.73,Loyalty Program
+CUST_V0YGHF,Asia,580.21,0.97,Discount
+CUST_TG43JP,Europe,288.13,0.88,Discount
+CUST_LDOBVW,Asia,9101.05,0.94,Email Campaign
+CUST_QHJLMI,North America,6426.91,0.76,Loyalty Program
+CUST_S7N7OX,Europe,4280.07,0.97,Discount
+CUST_HIHZMN,South America,7403.76,0.96,Email Campaign
+CUST_6N5XZC,South America,3795.75,1,Discount
+CUST_KCJ6HE,North America,6302.53,0.95,Loyalty Program
+CUST_05AKFM,North America,1287.03,0.98,Email Campaign
+CUST_07BUY9,Asia,1579.61,0.82,Email Campaign
+CUST_Z3D5BS,Europe,4886.25,0.71,Email Campaign
+CUST_IUHTK7,Asia,1000.95,0.99,Loyalty Program
+CUST_D6HA7K,Asia,9398.48,0.78,Email Campaign
+CUST_KB69A4,South America,3608.82,0.79,Discount
+CUST_XA2P2I,Europe,6220.49,0.93,Loyalty Program
+CUST_8BJSGL,Asia,9243.64,0.93,Loyalty Program
+CUST_EHZXKP,Asia,1079.69,0.84,Discount
+CUST_G54LKI,Asia,8846.26,0.95,Discount
+CUST_96ELVT,North America,6560.01,0.73,Discount
+CUST_FSL8UV,South America,1792.46,0.73,Email Campaign
+CUST_RRT5YD,Europe,3821.47,0.73,Email Campaign
+CUST_KX99NM,Europe,9661.67,0.9,Loyalty Program
+CUST_C0YU8J,North America,7546.49,0.97,Email Campaign
+CUST_JV991N,North America,7853.62,0.76,Discount
+CUST_FOHEDU,North America,8465.78,0.91,Email Campaign
+CUST_X22W5D,Europe,2325.82,0.95,Loyalty Program
+CUST_FO4201,Asia,8005.19,0.84,Email Campaign
+CUST_0GJ0NW,Asia,5982.34,0.8,Loyalty Program
+CUST_L8DBGA,Europe,5626.78,0.91,Discount
+CUST_FXEF42,Europe,3236.87,0.96,Email Campaign
+CUST_NOW3KI,Europe,4877.26,0.87,Discount
+CUST_B8VNFR,North America,984.32,0.83,Loyalty Program
+CUST_RZ8OAR,Asia,201.34,0.85,Loyalty Program
+CUST_DXXIBD,South America,9696.48,0.73,Email Campaign
+CUST_JFVXKV,Europe,5646.42,0.88,Email Campaign
+CUST_Q9UHG9,North America,5013.01,0.88,Discount
+CUST_2JQ7CT,South America,4693.83,0.87,Discount
+CUST_26GVOX,Asia,138.63,0.95,Loyalty Program
+CUST_0RLMR4,Asia,1606.15,0.85,Email Campaign
+CUST_FO0A93,North America,3434.73,0.76,Loyalty Program
+CUST_DSHFWN,Europe,509.06,0.91,Email Campaign
+CUST_I7IS9M,Asia,6916.6,0.89,Discount
+CUST_9J3KWI,Asia,3058.12,1,Loyalty Program
+CUST_D2R7XL,Europe,4009.42,0.89,Loyalty Program
+CUST_KOWW13,South America,5706.6,0.75,Loyalty Program
+CUST_NZ10VI,Asia,5277.23,0.87,Loyalty Program
+CUST_UQW276,North America,4919.64,0.8,Discount
+CUST_7POKTJ,South America,6282.82,0.82,Email Campaign
+CUST_627OED,South America,6747.08,0.86,Email Campaign
+CUST_F6T99Y,North America,5149.59,0.88,Loyalty Program
+CUST_ZH14Y6,North America,5366.37,0.94,Discount
+CUST_23FJ2E,South America,2909.46,0.83,Discount
+CUST_EO5UB8,Europe,6664.2,0.81,Discount
+CUST_RN5RTY,Europe,523.05,0.72,Loyalty Program
+CUST_VB86UJ,North America,3244.76,0.82,Loyalty Program
+CUST_JBYDM9,South America,7475.5,0.91,Discount
+CUST_VKQH9K,Asia,9154.88,0.85,Loyalty Program
+CUST_GA7Q8C,Asia,2363.31,0.79,Discount
+CUST_IW8147,South America,8762.49,0.88,Loyalty Program
+CUST_60UJGD,North America,9999.76,0.97,Discount
+CUST_JMY5J0,South America,4006.45,0.73,Email Campaign
+CUST_W0QGRZ,North America,6864.19,0.9,Loyalty Program
+CUST_BF2MRM,Europe,1264.58,0.8,Discount
+CUST_1FLK11,South America,7369.82,0.95,Email Campaign
+CUST_0H9VQ8,South America,5253.87,0.74,Email Campaign
+CUST_6WY725,South America,7682.15,0.8,Discount
+CUST_P1VOQI,North America,1118.93,0.75,Loyalty Program
+CUST_PTJXTK,South America,2595.5,0.81,Discount
+CUST_S22FBT,South America,4675.62,0.81,Loyalty Program
+CUST_PKL29Q,Europe,3691.2,0.89,Discount
+CUST_5E0PK4,Asia,735.23,0.73,Loyalty Program
+CUST_AZCP6D,North America,5953.76,0.95,Loyalty Program
+CUST_MP120M,Asia,5340.97,0.71,Loyalty Program
+CUST_F397R6,South America,3742.06,0.78,Email Campaign
+CUST_WFMOOD,Asia,6378.56,0.86,Email Campaign
+CUST_6O910J,South America,6440.63,0.77,Email Campaign
+CUST_KI8BMP,Europe,8171.56,0.79,Email Campaign
+CUST_V6MQXA,South America,1554.43,0.83,Discount
+CUST_HT267O,Asia,7181.61,0.95,Discount
+CUST_HU7TN8,South America,9610,0.93,Email Campaign
+CUST_4KRL8M,North America,7871.43,0.76,Discount
+CUST_GKAS68,South America,514.36,0.8,Discount
+CUST_E0EYZC,Asia,6313.51,0.77,Discount
+CUST_MYHWL6,North America,3954.71,0.8,Email Campaign
+CUST_09BYOZ,North America,3797.64,0.95,Discount
+CUST_MGAKZY,Asia,2659.97,0.87,Loyalty Program
+CUST_NGDSBF,North America,1857.52,0.84,Loyalty Program
+CUST_P87X0E,Europe,931.09,0.85,Email Campaign
+CUST_7I4JXK,North America,8241.23,0.9,Discount
+CUST_X02AHX,Europe,9330.17,0.99,Email Campaign
+CUST_16LWMN,Asia,5318.53,0.83,Discount
+CUST_CAWRS4,Asia,5760.81,0.71,Email Campaign
+CUST_3L1YHV,South America,4462.84,0.79,Loyalty Program
+CUST_RIJSUI,North America,7045.87,0.93,Email Campaign
+CUST_D1OXOH,South America,980.54,0.91,Discount
+CUST_U70B0X,North America,9739.66,0.76,Loyalty Program
+CUST_71X66G,Europe,9717.03,0.97,Email Campaign
+CUST_PAUI8G,North America,1966.61,1,Discount
+CUST_YH3SCF,South America,2007.15,0.86,Email Campaign
+CUST_AUB2OI,Europe,1429.85,0.86,Loyalty Program
+CUST_DGITS5,Asia,1637.97,0.94,Discount
+CUST_RYJSWJ,South America,5252.57,0.84,Discount
+CUST_RZGSCN,Asia,9297.59,0.95,Email Campaign
+CUST_PCJXQD,North America,4549.08,0.85,Email Campaign
+CUST_4IKA4E,Asia,4627,0.89,Discount
+CUST_CPSXXS,South America,5932.17,0.93,Email Campaign
+CUST_BNY789,Asia,5329.51,0.8,Discount
+CUST_5CNRZ3,North America,1901.43,0.84,Loyalty Program
+CUST_9MLPVN,North America,2148.52,0.79,Discount
+CUST_0K6ZH1,Europe,8889.61,0.79,Loyalty Program
+CUST_W43MTM,Europe,3891.21,0.9,Loyalty Program
+CUST_7CKOLS,Europe,5393.12,0.8,Discount
+CUST_S467ZA,North America,1923.54,0.91,Loyalty Program
+CUST_616MQ4,North America,9353.31,0.89,Email Campaign
+CUST_BEH31N,North America,8064.3,0.71,Email Campaign
+CUST_SU5CMB,North America,5586.18,0.91,Loyalty Program
+CUST_VTLNG1,North America,9024.16,0.84,Email Campaign
+CUST_5HYXQW,Europe,3696.13,0.84,Discount
+CUST_8HO87T,South America,7484.1,0.95,Loyalty Program
+CUST_QWZ9YD,Asia,2575.36,0.84,Email Campaign
+CUST_CB1BYG,Asia,6022.08,0.87,Email Campaign
+CUST_RO96I2,South America,5070.09,0.84,Loyalty Program
+CUST_Y7891E,Europe,2096.27,0.71,Email Campaign
+CUST_1AP3IM,South America,178.79,0.8,Email Campaign
+CUST_XJZ0YA,Europe,1665.45,0.74,Discount
+CUST_10XX1F,Europe,3584.13,0.73,Discount
+CUST_1GHDAR,Asia,9803.78,0.98,Discount
+CUST_NBLAE0,Asia,7703.81,0.87,Email Campaign
+CUST_99WPRM,South America,5527.27,0.9,Loyalty Program
+CUST_LHNL3T,Europe,5626.88,0.81,Discount
+CUST_L4YQVP,Europe,7499.77,0.84,Email Campaign
+CUST_RDOCAX,South America,7663.16,0.9,Email Campaign
+CUST_KR3H5G,South America,5049.11,0.89,Discount
+CUST_952NKM,North America,9360.02,0.78,Email Campaign
+CUST_JAYMYU,North America,2470.44,0.99,Discount
+CUST_1X0LHW,North America,4729.16,0.76,Discount
+CUST_OFHZXG,Asia,9747.63,0.88,Email Campaign
+CUST_OS09Q0,South America,5974.78,1,Discount
+CUST_UICOL9,Europe,1608.35,0.8,Email Campaign
+CUST_BINIOU,North America,2510.08,0.74,Discount
+CUST_DGRJVS,North America,8327.55,1,Loyalty Program
+CUST_YCC5TB,South America,578.15,0.89,Email Campaign
+CUST_WMVBIQ,Europe,4550.55,0.83,Discount
+CUST_2ZHPHI,South America,8614.55,0.8,Loyalty Program
+CUST_0ZBWCJ,South America,8775.27,0.84,Discount
+CUST_A96TEA,Asia,1198.61,0.99,Discount
+CUST_2KJ3HF,Asia,9045.61,0.98,Email Campaign
+CUST_WMEM6M,Europe,777.07,0.84,Email Campaign
+CUST_JA1X8U,Asia,9933.03,0.88,Email Campaign
+CUST_LHDRGM,North America,7396.62,0.93,Loyalty Program
+CUST_ZEH205,Asia,3810.85,0.99,Discount
+CUST_EF86NY,Europe,9120.75,0.99,Discount
+CUST_PC83U2,Europe,9454.07,0.76,Discount
+CUST_925CBK,Asia,5526.26,0.85,Email Campaign
+CUST_GFBG41,South America,509,0.91,Email Campaign
+CUST_UGRM0Q,North America,9298.36,0.94,Loyalty Program
+CUST_JNQZUB,South America,1827.66,0.96,Email Campaign
+CUST_8RJ3AC,South America,2419.27,0.74,Discount
+CUST_V3YFA4,Asia,9865.56,0.94,Email Campaign
+CUST_UTJKR8,Europe,9468.55,0.87,Discount
+CUST_P29T0S,Asia,2002.77,0.84,Discount
+CUST_DHXVZ9,Asia,6948.9,0.9,Loyalty Program
+CUST_LDZ8EF,Asia,4811.63,0.75,Discount
+CUST_X9L9C7,Asia,4419.31,0.83,Discount
+CUST_FX9MWM,Asia,7762.34,0.92,Loyalty Program
+CUST_27UKXP,Asia,2543.98,0.87,Loyalty Program
+CUST_LI6T8W,Asia,6997.28,0.97,Email Campaign
+CUST_RC2FOD,South America,2516.13,0.71,Discount
+CUST_F8CUTI,North America,1672.11,0.89,Email Campaign
+CUST_66IKR2,Europe,2611.3,0.98,Email Campaign
+CUST_L3I2RE,North America,4621.16,0.91,Email Campaign
+CUST_EN7GZL,Europe,9295.2,0.75,Discount
+CUST_2KXRK1,Europe,8861.16,0.85,Email Campaign
+CUST_E0BTC9,Europe,799.63,0.98,Discount
+CUST_SV1H74,Europe,582.86,0.93,Discount
+CUST_HVEERY,South America,9026.55,0.99,Loyalty Program
+CUST_IZ126H,Asia,9297.5,0.91,Discount
+CUST_Y4PKGY,Asia,8196.97,0.95,Email Campaign
+CUST_1FVN3P,South America,2744.19,0.91,Email Campaign
+CUST_K8OGYX,Europe,2687.64,0.82,Loyalty Program
+CUST_4EXFFQ,Asia,886.9,0.87,Loyalty Program
+CUST_FWFIXU,Asia,8917.36,0.91,Discount
+CUST_PXYEY9,North America,7756.01,0.74,Loyalty Program
+CUST_V071B2,Europe,3555.15,0.81,Discount
+CUST_Y6I6HK,North America,1559.27,0.79,Loyalty Program
+CUST_WO1SY7,Asia,5161.18,0.94,Discount
+CUST_NUHHY9,Europe,4567.27,0.75,Loyalty Program
+CUST_W7U5WN,Asia,9597.22,0.86,Loyalty Program
+CUST_05PJFQ,North America,3883.48,1,Email Campaign
+CUST_P1WX8K,North America,2425.88,0.99,Discount
+CUST_45VITK,North America,7288.34,0.8,Discount
+CUST_IPXHE7,North America,8136.14,0.8,Loyalty Program
+CUST_JT66KG,South America,6441.24,0.84,Loyalty Program
+CUST_0W1DQY,Europe,4005.39,0.81,Email Campaign
+CUST_0E3D9A,South America,5857.17,0.73,Email Campaign
+CUST_4GGOFC,Asia,3033.56,0.9,Email Campaign
+CUST_O8HR56,South America,2764.22,0.78,Email Campaign
+CUST_5KTDQP,Asia,4778.23,0.85,Discount
+CUST_JJ01ZD,South America,1680.02,0.9,Email Campaign
+CUST_DGLAUY,North America,3215.91,0.73,Email Campaign
+CUST_CC0RHF,Asia,9404.63,0.84,Discount
+CUST_T91MYC,Europe,4623.6,0.97,Email Campaign
+CUST_IDXKWV,South America,5706.9,0.91,Discount
+CUST_7A83I3,South America,2565.99,0.91,Email Campaign
+CUST_Y5A3SI,Europe,3805.54,0.96,Email Campaign
+CUST_CMDOTK,South America,9283.42,0.84,Discount
+CUST_2BVGRC,North America,6052.21,0.82,Discount
+CUST_QSJLE5,South America,4564.15,0.92,Discount
+CUST_9OTQ1K,Europe,8337.5,0.91,Discount
+CUST_VV46J6,North America,7192.17,0.98,Discount
+CUST_N47EM9,Europe,1600.31,0.98,Loyalty Program
+CUST_G3WUCM,South America,7073.22,0.77,Email Campaign
+CUST_7XMT0Q,Europe,8768.53,0.76,Loyalty Program
+CUST_FHAKM2,North America,8978.38,0.84,Discount
+CUST_JH46GV,South America,7826.01,0.83,Loyalty Program
+CUST_KCA3OW,Asia,8184.43,0.92,Discount
+CUST_PZ7G06,Europe,4205.88,0.72,Discount
+CUST_M35LCN,Europe,5630.88,0.95,Email Campaign
+CUST_NSGDHJ,Asia,4717.32,0.71,Discount
+CUST_SAGZ0Y,Europe,6430.04,0.85,Loyalty Program
+CUST_V11BJR,Asia,8778.13,0.92,Discount
+CUST_3WYMUK,North America,4855.27,0.84,Discount
+CUST_D3LAQ0,North America,9260.58,0.96,Email Campaign
+CUST_R789BE,Europe,9542.33,0.96,Loyalty Program
+CUST_WFXC05,North America,667.97,0.94,Loyalty Program
+CUST_P21S4L,South America,4961.37,0.84,Discount
+CUST_70VKD1,South America,9725.68,0.76,Discount
+CUST_7VND0B,South America,5644.69,0.97,Discount
+CUST_G3BA8I,South America,9437.55,0.95,Email Campaign
+CUST_S81CWY,Europe,3188.65,0.73,Email Campaign
+CUST_6806GR,North America,8069.16,0.93,Email Campaign
+CUST_3U88TQ,Europe,2203.43,0.91,Loyalty Program
+CUST_P6TSV6,South America,1622.16,0.86,Email Campaign
+CUST_R4HYGD,North America,6639.49,0.83,Email Campaign
+CUST_RTT9IK,South America,1479.42,0.97,Discount
+CUST_IZ5SF9,South America,1119.44,0.9,Loyalty Program
+CUST_6485YU,Asia,1336.06,0.74,Loyalty Program
+CUST_DXEBQA,South America,2535.64,0.72,Email Campaign
+CUST_XYLMSX,Asia,5297.49,0.94,Email Campaign
+CUST_FRBAFR,Europe,5289.83,0.86,Discount
+CUST_MBV2DW,Asia,2130.76,0.76,Loyalty Program
+CUST_WJKY66,Asia,4652.3,0.76,Discount
+CUST_1MVFFQ,Asia,3930.63,0.81,Email Campaign
+CUST_L9BZEM,Europe,5734.57,0.71,Discount
+CUST_56LHI7,North America,5903.75,0.71,Email Campaign
+CUST_2UYE3W,Europe,8763.85,0.74,Loyalty Program
+CUST_11Y149,Europe,329.6,0.92,Loyalty Program
+CUST_V57R0W,South America,5847.25,0.97,Email Campaign
+CUST_QJUM4N,Asia,6664.43,0.73,Loyalty Program
+CUST_G9CDLT,South America,4688.18,0.79,Discount
+CUST_0NQMR5,Asia,4264.66,0.92,Loyalty Program
+CUST_M74BZH,South America,1339.15,0.92,Loyalty Program
+CUST_0E4XWX,North America,551.33,0.82,Discount
+CUST_509QVM,North America,4230.63,0.77,Loyalty Program
+CUST_9D2DDI,Asia,7530.3,0.99,Loyalty Program
+CUST_JR6K9H,South America,5594.15,0.85,Discount
+CUST_3WTOR9,North America,3029.73,0.83,Email Campaign
+CUST_6ZCQ7O,South America,6054.76,0.82,Email Campaign
+CUST_GGOKXE,North America,4932.6,0.9,Discount
+CUST_I3X4E0,Europe,5888.15,0.83,Discount
+CUST_FD52AC,Europe,8884,0.91,Loyalty Program
+CUST_VF4PUK,North America,3574.68,0.8,Loyalty Program
+CUST_8ZZWBE,North America,232.92,0.93,Email Campaign
+CUST_3W6P3O,North America,2247.13,0.77,Loyalty Program
+CUST_XGYHDE,North America,3277.09,0.93,Discount
+CUST_0RATNP,Europe,6787.26,0.8,Discount
+CUST_6F8US6,North America,446.22,0.87,Loyalty Program
+CUST_XM3RDL,Asia,7655.06,0.9,Email Campaign
+CUST_SEZ2NO,Asia,5560.48,0.92,Email Campaign
+CUST_FNT5RI,South America,2089.72,0.99,Loyalty Program
+CUST_JUAAGB,Europe,4261.64,0.73,Email Campaign
+CUST_FWDNYN,Asia,9222.03,0.79,Loyalty Program
+CUST_K922Z6,South America,8356.27,0.83,Loyalty Program
+CUST_O1YE2Q,North America,7210.27,0.9,Email Campaign
+CUST_9W57Q0,Europe,1260.92,0.73,Loyalty Program
+CUST_2HZ2XE,South America,9981.39,0.83,Email Campaign
+CUST_HYV6ZX,South America,7863.12,0.88,Email Campaign
+CUST_WCHAIT,North America,9521.91,0.83,Loyalty Program
+CUST_TS2FNM,Europe,9897.89,0.91,Email Campaign
+CUST_9I75B9,South America,334.91,0.8,Email Campaign
+CUST_W7V6A6,South America,5959.27,0.98,Loyalty Program
+CUST_OBEE8Y,North America,4877.73,0.96,Email Campaign
+CUST_XQ0IB2,Europe,4754.41,0.93,Loyalty Program
+CUST_JSRB3X,North America,4982.76,0.95,Email Campaign
+CUST_WB51BD,North America,656.1,0.95,Loyalty Program
+CUST_02I4U0,North America,8063.11,0.73,Discount
+CUST_GGCQH2,North America,5031.57,0.92,Email Campaign
+CUST_GYL9KK,Europe,5580.7,0.99,Email Campaign
+CUST_X79CP9,Europe,3593.78,0.95,Loyalty Program
+CUST_EPSZAK,Asia,8018.71,0.92,Email Campaign
+CUST_TXPZQC,North America,6432.59,0.95,Discount
+CUST_7BZX9D,North America,1392.52,0.9,Email Campaign
+CUST_UCP294,North America,3247.66,0.84,Discount
+CUST_X3ZXJS,Europe,821.62,0.94,Loyalty Program
+CUST_VQ2CRW,South America,9199.73,0.8,Email Campaign
+CUST_HBIN32,Asia,7056.74,0.94,Email Campaign
+CUST_92NNXF,North America,4279.56,0.93,Discount
+CUST_9ZRUVY,South America,3827.16,0.96,Loyalty Program
+CUST_O9KA9V,South America,9994.9,0.99,Discount
+CUST_XL4LJG,Asia,8949.62,0.88,Discount
+CUST_Q0YJMF,South America,771.29,0.9,Email Campaign
+CUST_JQI6A6,South America,3103.35,0.88,Discount
+CUST_BMUUU0,Europe,5806.96,0.99,Discount
+CUST_Z9JZS2,South America,1558.16,0.81,Loyalty Program
+CUST_M9UXE5,Europe,9773.02,0.9,Email Campaign
+CUST_XHTJAR,North America,7440.13,0.83,Discount
+CUST_1K2IT8,South America,3937.73,0.96,Email Campaign
+CUST_9VU2XN,South America,433.11,0.74,Discount
+CUST_QO3HUI,North America,8753.45,0.88,Discount
+CUST_7QT32B,South America,5841.58,0.91,Loyalty Program
+CUST_6LM2FY,North America,5608.03,0.92,Email Campaign
+CUST_46AW8Y,South America,6782.14,0.87,Discount
+CUST_VAKA4D,North America,2355.55,0.78,Discount
+CUST_OB4093,South America,4438.9,0.82,Email Campaign
+CUST_GUXRNC,Europe,6375.39,0.82,Email Campaign
+CUST_WLA9Z0,Asia,392.77,0.89,Loyalty Program
+CUST_GW645O,Asia,2808.86,0.85,Email Campaign
+CUST_GJ3PTL,Europe,5667.81,0.83,Loyalty Program
+CUST_6YYDK4,Asia,2145.2,0.94,Email Campaign
+CUST_USDU33,South America,3122.27,0.93,Email Campaign
+CUST_UHFACO,South America,3600.43,0.97,Loyalty Program
+CUST_4VR5VA,South America,5716.86,0.86,Loyalty Program
+CUST_PWZC52,Europe,1257.97,0.82,Email Campaign
+CUST_09R6UF,South America,2971.96,0.79,Loyalty Program
+CUST_GLXHA2,South America,2928.2,0.93,Email Campaign
+CUST_1HL085,South America,7562.6,0.78,Loyalty Program
+CUST_ZCEVIZ,South America,1542.01,0.91,Loyalty Program
+CUST_J596DU,North America,8590.28,0.73,Discount
+CUST_GU7MLV,Europe,6321.29,0.83,Email Campaign
+CUST_IOT3HV,Asia,1723.3,0.93,Email Campaign
+CUST_A7ISHD,North America,6523.85,0.94,Discount
+CUST_NKLXJF,Asia,9916.63,0.74,Email Campaign
+CUST_KEYS8V,South America,5426.17,0.75,Loyalty Program
+CUST_NLDO91,North America,4108.29,0.9,Email Campaign
+CUST_XRQFXE,Europe,417.37,0.87,Email Campaign
+CUST_7AMPXU,South America,9279.55,0.9,Loyalty Program
+CUST_PKRYSK,Europe,7869.37,0.98,Loyalty Program
+CUST_0DLJLP,South America,5347.18,0.75,Email Campaign
+CUST_2TAVVU,South America,6957.19,0.73,Loyalty Program
+CUST_VHI2H5,South America,5759.91,0.85,Discount
+CUST_DVRDI6,South America,2085.88,0.83,Discount
+CUST_JIQPV8,South America,3970.57,0.85,Email Campaign
+CUST_5TOV1K,North America,4945.14,0.85,Loyalty Program
+CUST_ON1IWB,North America,732.19,0.75,Loyalty Program
+CUST_0V7UOF,South America,5608.28,0.8,Discount
+CUST_R5KG06,North America,6321.44,0.87,Discount
+CUST_1IB8Q4,Europe,4500.58,0.9,Discount
+CUST_OPB20O,South America,7921.01,0.93,Loyalty Program
+CUST_7875ZO,North America,6849.01,0.82,Loyalty Program
+CUST_M2TGBS,Asia,5691.53,0.84,Loyalty Program
+CUST_RO6W0X,North America,4749.29,0.78,Loyalty Program
+CUST_VBE4H0,South America,2266.19,0.78,Discount
+CUST_46I7N7,Europe,975.92,0.86,Loyalty Program
+CUST_BE63ZI,North America,8957.15,0.97,Email Campaign
+CUST_0BBJLU,South America,2395.55,0.85,Loyalty Program
+CUST_X0AT2X,Asia,2988.48,0.9,Discount
+CUST_YCTJEO,Asia,1212.8,0.74,Loyalty Program
+CUST_269TD4,Europe,4054.73,0.75,Email Campaign
+CUST_6DQPYI,Asia,8077.75,0.94,Email Campaign
+CUST_L5L7FU,South America,5790.89,0.93,Loyalty Program
+CUST_ER58D1,South America,7715.25,0.99,Email Campaign
+CUST_T89T5O,North America,2325.74,0.81,Loyalty Program
+CUST_JPF9TS,North America,2118.78,0.76,Email Campaign
+CUST_C0RHRH,South America,3022.25,0.75,Email Campaign
+CUST_Q0Q1T5,Asia,4004.5,0.96,Discount
+CUST_8XAVFA,South America,8741.44,0.81,Loyalty Program
+CUST_PGGGEH,Europe,3918.61,0.71,Loyalty Program
+CUST_SRE96Y,North America,3882.49,0.8,Loyalty Program
+CUST_CHOCKJ,Asia,191.78,0.95,Loyalty Program
+CUST_BDEMHZ,Europe,486.5,0.77,Discount
+CUST_EY4VY2,North America,3768.71,0.73,Discount
+CUST_JD71K7,Asia,3670.55,0.73,Discount
+CUST_5N4ZA0,Europe,8995.91,0.92,Discount
+CUST_VJHGRM,North America,9068.43,0.9,Discount
+CUST_VKFVLD,South America,2742.29,0.75,Discount
+CUST_KQPR5T,North America,937.93,0.71,Loyalty Program
+CUST_8YW8HW,Asia,6017.52,0.91,Discount
+CUST_APTL7I,Europe,1500.74,0.98,Email Campaign
+CUST_4QOPS7,South America,8768.05,0.83,Email Campaign
+CUST_NUU5R9,South America,3511.1,0.71,Email Campaign
+CUST_U8ER4W,South America,157.4,0.93,Discount
+CUST_ZP04FZ,South America,5227.78,0.74,Discount
+CUST_CINLY8,North America,5101.58,0.81,Email Campaign
+CUST_QZCBSP,North America,1063.31,0.88,Loyalty Program
+CUST_ZHRX2L,North America,343.82,0.97,Discount
+CUST_C43CC4,Asia,7442.6,0.76,Email Campaign
+CUST_L9CAJE,Europe,7974.28,0.84,Discount
+CUST_IEZW99,South America,803.03,0.98,Loyalty Program
+CUST_17A6AW,Asia,4903.46,0.85,Email Campaign
+CUST_RJHKE6,Europe,9522.32,0.74,Discount
+CUST_7S1I7F,Asia,7191.3,0.89,Discount
+CUST_YTHB17,South America,9276,0.81,Email Campaign
+CUST_BDUXEE,North America,3498.84,0.79,Discount
+CUST_KQJRO3,South America,7952.56,0.78,Loyalty Program
+CUST_DON9EN,Asia,5439.92,0.96,Discount
+CUST_DZVPK3,South America,5925.42,0.71,Loyalty Program
+CUST_KEABPV,North America,7649.28,0.84,Discount
+CUST_YDYNVO,North America,8037.14,0.71,Email Campaign
+CUST_35D94K,North America,4545.96,0.94,Email Campaign
+CUST_PJDKQM,Europe,9316.77,0.72,Loyalty Program
+CUST_S9E93H,North America,8094.14,0.91,Email Campaign
+CUST_SQJU6R,North America,4037.35,0.81,Discount
+CUST_BHYNGB,South America,1655.3,0.81,Email Campaign
+CUST_OKMVBM,Europe,6335.03,0.85,Loyalty Program
+CUST_T96E4A,South America,351.46,0.73,Discount
+CUST_1ZWIWT,Europe,4516.16,0.9,Loyalty Program
+CUST_4TQZ0F,South America,9491.49,0.74,Discount
+CUST_UPQLVB,South America,4384.02,0.88,Discount
+CUST_TOPO2R,North America,4306.16,0.99,Discount
+CUST_78MYB1,North America,1394.97,0.81,Discount
+CUST_9KMBKQ,Asia,2780.01,0.78,Discount
+CUST_I5WNF9,Europe,5878.98,0.83,Discount
+CUST_LZF8CT,South America,3631.61,0.9,Email Campaign
+CUST_2DM8JS,South America,8086.66,0.84,Discount
+CUST_QBCQ66,South America,163.85,0.82,Email Campaign
+CUST_0EP3HO,South America,5224.99,0.85,Discount
+CUST_PRH5DJ,North America,3267.35,0.9,Loyalty Program
+CUST_5FE6SL,Asia,8094.17,0.94,Discount
+CUST_6MVLVZ,South America,4219.69,0.86,Email Campaign
+CUST_48KBUH,Asia,4932.21,0.99,Loyalty Program
+CUST_Q4CTW0,Asia,3756.91,0.98,Loyalty Program
+CUST_89QPKM,South America,9305.25,0.91,Loyalty Program
+CUST_F9A45Q,North America,2379.64,0.89,Loyalty Program
+CUST_6JY684,Europe,9285.9,0.8,Discount
+CUST_SELS0N,Asia,5010.52,0.75,Discount
+CUST_TVFFGS,Asia,4497.73,0.94,Email Campaign
+CUST_1W476D,South America,8926.26,0.95,Email Campaign
+CUST_W0GLKM,Asia,2056.01,0.84,Loyalty Program
+CUST_CX2YDH,Europe,2039.17,0.87,Discount
+CUST_45OV0E,South America,8963.22,0.92,Email Campaign
+CUST_AXBN6F,Asia,7098.27,0.76,Loyalty Program
+CUST_A0TPB8,Asia,9398.7,0.99,Email Campaign
+CUST_LYPF3N,North America,7253.62,0.87,Loyalty Program
+CUST_X6VP4M,North America,2481.47,0.74,Discount
+CUST_2SVBEO,Asia,3609.34,0.93,Email Campaign
+CUST_MPPC0N,North America,2125.66,0.81,Loyalty Program
+CUST_NDWRT2,Asia,7428.74,0.84,Email Campaign
+CUST_08ZY1K,South America,2914.8,0.89,Discount
+CUST_6UDTW4,South America,3647.44,0.88,Loyalty Program
+CUST_J1A8SC,Asia,6472.6,0.75,Email Campaign
+CUST_TF7M32,North America,3858.92,0.89,Discount
+CUST_CKNNO7,South America,367.93,0.85,Discount
+CUST_VPRS2J,Europe,9988.45,0.89,Email Campaign
+CUST_RMXBZM,Asia,9711.92,0.76,Email Campaign
+CUST_OB7FPF,North America,7496.64,0.86,Loyalty Program
+CUST_OWDA6D,North America,3295.17,0.87,Loyalty Program
+CUST_NNC48M,South America,3190.79,0.97,Discount
+CUST_KYG1H8,Asia,9765.99,0.76,Discount
+CUST_URQXBU,North America,8848.17,1,Loyalty Program
+CUST_7XMV8P,North America,1704.13,0.94,Loyalty Program
+CUST_GBFDQ8,Asia,942.55,0.93,Discount
+CUST_F9K1AO,South America,4741.2,0.83,Email Campaign
+CUST_D9TYDK,Europe,2760.4,0.94,Email Campaign
+CUST_KVBQSZ,South America,4057.13,0.75,Email Campaign
+CUST_L64O8S,Asia,1315.85,0.87,Loyalty Program
+CUST_YQ067P,North America,6687.69,0.81,Discount
+CUST_R2Q95Z,South America,5240.83,0.86,Email Campaign
+CUST_7QRCWA,North America,4704.02,0.82,Loyalty Program
+CUST_YDTMCD,Asia,9348.07,0.88,Discount
+CUST_F6KI91,Europe,693.41,0.84,Email Campaign
+CUST_54MLRU,South America,7512.85,0.72,Discount
+CUST_8OU4D6,North America,9119.92,0.96,Email Campaign
+CUST_978VPW,Asia,6047.36,0.96,Email Campaign
+CUST_9YDFTR,South America,1422.77,0.73,Loyalty Program
+CUST_W0CKR4,North America,8581.76,0.73,Loyalty Program
+CUST_VTP0HG,North America,7805.85,0.76,Email Campaign
+CUST_IX10N4,Europe,1103.16,0.72,Discount
+CUST_B2B256,Europe,4983.23,0.94,Email Campaign
+CUST_KVXSOZ,Europe,8482.95,0.88,Loyalty Program
+CUST_CEHHZT,South America,7797.76,0.78,Email Campaign
+CUST_CWEN2F,Europe,547.82,0.83,Email Campaign
+CUST_Q2WY20,South America,791.47,0.76,Email Campaign
+CUST_D4LVV5,South America,844.91,0.75,Discount
+CUST_L8FJIL,North America,640.56,0.98,Discount
+CUST_MM3GA9,North America,3700.05,1,Email Campaign
+CUST_E12DKQ,North America,2753.24,0.75,Loyalty Program
+CUST_O4LN3Y,Europe,7089.68,0.73,Discount
+CUST_DT1JV7,Asia,7301.82,0.79,Email Campaign
+CUST_YKCR53,North America,6503.92,0.97,Loyalty Program
+CUST_E5Y217,North America,4109.21,0.72,Loyalty Program
+CUST_D70J19,North America,2156.09,0.96,Loyalty Program
+CUST_QF7QBA,Asia,5596.78,0.91,Loyalty Program
+CUST_4AEC5A,Asia,3368.11,0.73,Email Campaign
+CUST_OA3B1Q,Asia,2145.12,0.71,Discount
+CUST_LHQ9YE,North America,713.73,0.88,Discount
+CUST_FIDUD2,Asia,4054.44,0.74,Email Campaign
+CUST_4YAIUC,Europe,6494.74,0.95,Loyalty Program
+CUST_NL0XXY,Asia,8778.49,0.99,Loyalty Program
+CUST_8ODME8,Europe,3134.12,0.83,Email Campaign
+CUST_2FE4BG,Europe,4894.04,0.78,Discount
+CUST_SO29KK,Europe,2635.83,0.81,Discount
+CUST_B3XB5X,South America,4781.43,0.91,Email Campaign
+CUST_TSYZXP,North America,2432.76,0.91,Discount
+CUST_BRXCAP,Asia,1987.53,0.96,Loyalty Program
+CUST_FYR2IF,South America,1606.4,0.75,Email Campaign
+CUST_VKLEKB,South America,9852.34,0.84,Discount
+CUST_DSZL9H,South America,892.4,0.71,Discount
+CUST_T9UKHY,South America,3391.07,0.72,Loyalty Program
+CUST_0848MJ,North America,1201.28,0.9,Email Campaign
+CUST_FE6ZPL,North America,9485.78,0.97,Discount
+CUST_6DQTYN,South America,5654.66,0.87,Email Campaign
+CUST_31W0QO,North America,6237.29,0.82,Discount
+CUST_A9HNRK,South America,8045.55,0.72,Loyalty Program
+CUST_H71DC1,North America,584.2,0.95,Discount
+CUST_JOKCJ4,South America,8259.26,0.94,Discount
+CUST_6UQZ8H,North America,4794.99,0.76,Discount
+CUST_GS2NEN,Europe,6777.19,0.98,Email Campaign
+CUST_AKCQNF,South America,5764.46,0.94,Email Campaign
+CUST_UGIHNY,Europe,7513.71,0.9,Loyalty Program
+CUST_243EQA,Asia,585.04,0.76,Loyalty Program
+CUST_YJ9G3E,Europe,1746.96,0.79,Email Campaign
+CUST_Z1KF69,Europe,6657.2,0.92,Email Campaign
+CUST_SY47RN,South America,6986.43,0.94,Loyalty Program
+CUST_SVLW6O,South America,6346.24,0.82,Discount
+CUST_NIGAHM,North America,8608.02,0.75,Discount
+CUST_22TO5M,South America,5793.86,0.85,Discount
+CUST_K6NTA5,Asia,2697.73,0.71,Loyalty Program
+CUST_77F74R,Europe,2662.81,0.83,Loyalty Program
+CUST_HMY7O4,Europe,9226.09,0.88,Loyalty Program
+CUST_UL7A4C,Europe,9813.07,0.95,Discount
+CUST_1FHOFR,Europe,7286.94,0.88,Discount
+CUST_H3NGYR,North America,4191.46,0.75,Discount
+CUST_HIFFBY,Europe,8376.72,0.94,Discount
+CUST_X34R3E,South America,3564.89,0.88,Discount
+CUST_TNIUTU,North America,1472.17,0.8,Discount
+CUST_LVZPD4,North America,5706.01,0.91,Loyalty Program
+CUST_WSZJLL,South America,2991.87,0.78,Loyalty Program
+CUST_8OGFP7,South America,3629.05,0.75,Discount
+CUST_9HEXVL,Asia,6308.23,0.92,Loyalty Program
+CUST_RH3CEN,Asia,3403.02,0.8,Loyalty Program
+CUST_1WWICM,Europe,9304.62,0.94,Loyalty Program
+CUST_O6ICJ7,Europe,8380.29,0.79,Loyalty Program
+CUST_NGK7F6,North America,1460.48,0.92,Discount
+CUST_YA2JH3,North America,9149.2,0.94,Loyalty Program
+CUST_RI0FGA,South America,1162.4,0.84,Discount
+CUST_S4CV12,North America,1271.66,0.86,Discount
+CUST_CP6841,Europe,7660.66,0.86,Email Campaign
+CUST_7PQXDL,Asia,5221.56,0.8,Discount
+CUST_OC0P32,South America,2753.89,0.84,Email Campaign
+CUST_0G52T7,South America,9708.92,0.81,Discount
+CUST_I2ACFP,Asia,4953.42,0.97,Email Campaign
+CUST_YMLVUH,Asia,7203.24,0.91,Discount
+CUST_9FWBKH,South America,4063.01,0.96,Loyalty Program
+CUST_KCMMXM,Europe,7179.29,0.75,Loyalty Program
+CUST_OJ2AMT,Europe,4199.38,0.9,Loyalty Program
+CUST_8Y2Q5M,Asia,2733.91,0.94,Email Campaign
+CUST_OJNL7M,North America,7308.02,0.74,Discount
+CUST_I5OSJO,Europe,1529.61,0.79,Loyalty Program
+CUST_9AGT3A,North America,6765.03,0.79,Loyalty Program
+CUST_GO7ENQ,North America,8619.93,0.77,Email Campaign
+CUST_BUQKEA,South America,5616.68,0.98,Discount
+CUST_Y8GAEM,Europe,4033.91,0.85,Email Campaign
+CUST_E00JAJ,North America,3193.88,0.73,Discount
+CUST_Y7DPLV,North America,2201.66,0.94,Loyalty Program
+CUST_NYQG17,North America,9877.4,0.77,Email Campaign
+CUST_XWE8BZ,Asia,698.95,0.84,Discount
+CUST_JY60TG,Europe,5421.6,0.75,Discount
+CUST_BPAN0H,Europe,387.43,0.95,Email Campaign
+CUST_RPU5US,Europe,2991.08,0.9,Discount
+CUST_V2W6XF,North America,3194.14,0.73,Discount
+CUST_SWIRV4,Europe,852.01,0.75,Discount
+CUST_BG7QOH,North America,1882.63,0.71,Email Campaign
+CUST_6VQ11M,Europe,1054.24,0.94,Email Campaign
+CUST_PP8VUC,South America,6823.76,0.77,Email Campaign
+CUST_PKQUJQ,Europe,746.42,0.71,Loyalty Program
+CUST_7BHTHS,South America,8591.11,0.88,Loyalty Program
+CUST_I07FZK,Europe,3938.92,0.95,Email Campaign
+CUST_XEU9LW,South America,2849.22,0.71,Loyalty Program
+CUST_4J0Z1T,North America,2044.67,0.94,Discount
+CUST_9E139K,Asia,4326.95,0.91,Loyalty Program
+CUST_6HY6AM,North America,2775.5,0.85,Loyalty Program
+CUST_U6GU77,Europe,4005.04,0.71,Loyalty Program
+CUST_WI1RBZ,Europe,9886.53,0.82,Loyalty Program
+CUST_LDDMOO,North America,657.99,0.79,Discount
+CUST_CDTEOB,Asia,4554.37,0.91,Discount
+CUST_6OX7CH,Europe,7935.45,0.76,Loyalty Program
+CUST_HP9FIB,South America,9471.58,0.89,Email Campaign
+CUST_VRMG6C,Europe,7392.65,0.81,Loyalty Program
+CUST_OIYIES,South America,8465,0.98,Loyalty Program
+CUST_AW63NS,South America,793.1,0.95,Loyalty Program
+CUST_TRW69R,North America,2907.88,0.97,Loyalty Program
+CUST_ZBU28L,Europe,2568.72,0.8,Email Campaign
+CUST_9IUKD9,Europe,7741.86,0.97,Loyalty Program
+CUST_O2X8UW,Europe,1431.9,0.82,Discount
+CUST_VY51HG,South America,9894.92,0.79,Email Campaign
+CUST_54MOXT,North America,5157.6,0.75,Email Campaign
+CUST_EBX1EN,Asia,5108.96,0.87,Loyalty Program
+CUST_9IBEPW,Asia,4509.62,0.88,Discount
+CUST_K4Z717,South America,4410.14,0.96,Loyalty Program
+CUST_D9IL7X,North America,8363.59,0.74,Loyalty Program
+CUST_RTJZPW,Asia,8833.29,0.99,Email Campaign
+CUST_DFTYOW,Asia,6992.79,0.76,Email Campaign
+CUST_PKE8WQ,North America,2451.96,0.97,Discount
+CUST_UGE3EG,South America,4024.64,0.87,Discount
+CUST_SJ7J8M,North America,7565.68,0.79,Email Campaign
+CUST_OVDPO1,Europe,5568.16,0.87,Loyalty Program
+CUST_WV1Z23,South America,7293.5,0.87,Loyalty Program
+CUST_YUIKJ9,South America,7310.83,0.83,Email Campaign
+CUST_73E2VL,South America,3533.86,0.75,Email Campaign
+CUST_UOSK65,North America,9985.71,0.73,Discount
+CUST_BGVWOS,Europe,7258.76,0.89,Loyalty Program
+CUST_IU1UH8,South America,9687.83,0.95,Discount
+CUST_6LRK6N,Europe,3937.52,0.9,Loyalty Program
+CUST_98AKZL,Europe,5104.16,0.71,Discount
+CUST_KWZ92D,Asia,2281.85,0.93,Loyalty Program
+CUST_G5OF0V,Asia,719.87,0.92,Email Campaign
+CUST_XXQNN5,South America,6122.28,0.75,Loyalty Program
+CUST_ZJNWS7,Europe,4904.29,0.71,Discount
+CUST_TPBC4F,Asia,1765.83,0.89,Email Campaign
+CUST_TSMQIG,Asia,2287.26,0.75,Discount
+CUST_UU0NES,Europe,3778.29,0.92,Email Campaign
+CUST_NZVO87,Europe,5192.13,0.78,Loyalty Program
+CUST_USRP4R,Asia,6824.94,0.74,Email Campaign
+CUST_8RH421,North America,6226.2,0.84,Email Campaign
+CUST_1CCOE2,Europe,2167.43,0.86,Loyalty Program
+CUST_UM6DSS,Asia,8365.77,0.89,Email Campaign
+CUST_9YJMJB,North America,7992.36,0.78,Email Campaign
+CUST_33VZRQ,Asia,9186.08,0.95,Loyalty Program
+CUST_PGUVKY,South America,2522.74,0.93,Loyalty Program
+CUST_XX3DET,North America,4056.83,0.99,Email Campaign
+CUST_VS0KVW,North America,204.48,0.84,Discount
+CUST_2SZG89,North America,1690.27,0.74,Loyalty Program
+CUST_S902OI,North America,2443.55,0.93,Loyalty Program
+CUST_KGL767,Europe,434.58,0.97,Loyalty Program
+CUST_QCF5N9,South America,600.72,0.77,Email Campaign
+CUST_B7BQCT,South America,2105.43,0.84,Email Campaign
+CUST_5D1TYR,North America,6829.83,1,Email Campaign
+CUST_6QHT77,Asia,9959.39,0.94,Loyalty Program
+CUST_1JSTLT,Asia,3774.03,0.73,Email Campaign
+CUST_64IBQ1,Europe,1732.96,0.95,Loyalty Program
+CUST_BE4P84,South America,9181.97,0.74,Email Campaign
+CUST_ZNZ0NZ,South America,8865.59,0.87,Email Campaign
+CUST_71GHT0,South America,5889.93,0.82,Loyalty Program
+CUST_XF20C1,North America,1160.54,1,Email Campaign
+CUST_0KT57X,North America,1550.59,0.83,Discount
+CUST_CJLNU1,North America,1165.63,0.98,Email Campaign
+CUST_XZCC4C,Asia,2581.65,0.78,Email Campaign
+CUST_M8BK27,South America,6506.52,0.89,Loyalty Program
+CUST_LMCRZ0,Asia,1315.65,0.96,Discount
+CUST_Y21NFL,Asia,8534.57,0.86,Discount
+CUST_B0W5UM,Asia,3764.01,0.73,Discount
+CUST_08895C,Asia,5055.02,0.84,Discount
+CUST_U8PI5Z,South America,536.82,0.84,Email Campaign
+CUST_S2HEHI,South America,5563.98,0.74,Discount
+CUST_CG6UIV,South America,5859.36,0.81,Loyalty Program
+CUST_A8EBMI,North America,1492.7,0.9,Loyalty Program
+CUST_KTJO26,Europe,9266.91,0.96,Discount
+CUST_T6HK3L,Asia,373.73,0.77,Loyalty Program
+CUST_9U3PHD,North America,8296.91,0.78,Loyalty Program
+CUST_ZUA1LS,North America,4073.82,0.85,Loyalty Program
+CUST_JO1RX7,Europe,8643.62,0.71,Loyalty Program
+CUST_EJAD3F,Asia,7112.11,0.73,Discount
+CUST_AKD4WV,Europe,1406.03,0.83,Email Campaign
+CUST_CE2QOO,South America,1156.78,0.86,Email Campaign
+CUST_ECJTGN,Asia,3596.58,0.84,Discount
+CUST_44W8IH,North America,5767.99,0.82,Email Campaign
+CUST_8DXEUD,South America,2969.4,0.99,Email Campaign
+CUST_RUQAV9,Europe,4062.59,0.75,Discount
+CUST_CD3UUB,Europe,8419.61,0.93,Email Campaign
+CUST_GFKG16,Asia,3827.88,0.91,Email Campaign
+CUST_UDY4C6,Asia,3890.95,0.93,Loyalty Program
+CUST_Q9UI01,South America,4899.98,0.86,Email Campaign
+CUST_55F2D3,Asia,2822.87,0.97,Email Campaign
+CUST_0QYAG6,South America,9165.5,0.8,Loyalty Program
+CUST_3K26JC,Asia,1365.02,0.74,Loyalty Program
+CUST_3FPDUR,South America,9527.68,0.92,Discount
+CUST_WILC19,North America,8581.84,0.71,Loyalty Program
+CUST_DJC6KV,South America,8737.19,0.89,Discount
+CUST_VV4LJA,Europe,7442.37,0.72,Loyalty Program
+CUST_5LHRXM,Asia,7455.57,0.73,Discount
+CUST_BDHFG8,Asia,2102.84,0.96,Email Campaign
+CUST_V8BU2K,Asia,3150.74,0.87,Discount
+CUST_MUVGPA,Europe,7116.92,0.78,Loyalty Program
+CUST_WM7DQK,Asia,7119.87,0.74,Email Campaign
+CUST_O7LHAO,North America,3719.52,0.74,Email Campaign
+CUST_GL8CSV,South America,6157.97,0.91,Email Campaign
+CUST_KFBRRV,Europe,4179.61,0.72,Discount
+CUST_752Q5P,South America,7064.12,0.85,Loyalty Program
+CUST_V4JN9D,Europe,8978.87,0.9,Discount
+CUST_P4SEBY,South America,1343.72,0.71,Email Campaign
+CUST_O8X58Z,North America,2558.3,0.73,Discount
+CUST_O9ED3E,Europe,5139.63,0.93,Email Campaign
+CUST_J6G2UH,Europe,234.44,0.76,Loyalty Program
+CUST_7J3XXY,North America,9046.43,0.73,Email Campaign
+CUST_ZET3EB,North America,5953.99,0.96,Email Campaign
+CUST_I6SSZD,North America,2031.74,0.82,Loyalty Program
+CUST_ECI3U8,Asia,3352.96,0.86,Loyalty Program
+CUST_DXUHGQ,Europe,1928.59,0.78,Loyalty Program
+CUST_G3B690,North America,9955.37,0.83,Loyalty Program
+CUST_I61VYT,South America,9174.35,0.86,Discount
+CUST_ZGBPS3,North America,1892.78,0.74,Loyalty Program
+CUST_3BTWVP,Europe,8035.28,0.97,Discount
+CUST_P3YPN3,South America,9148.31,0.9,Loyalty Program
+CUST_21RSD9,South America,359.13,0.92,Discount
+CUST_G9RU5J,Europe,3962.51,0.72,Email Campaign
+CUST_H5HBBB,South America,5362.59,0.72,Discount
+CUST_BGH2GQ,Asia,3404.7,0.92,Email Campaign
+CUST_14RRQD,South America,7973.6,0.79,Discount
+CUST_XVY0HL,North America,6103.48,0.82,Email Campaign
+CUST_X870UQ,North America,9450.92,0.97,Discount
+CUST_XYQWK4,South America,6213.84,0.77,Loyalty Program
+CUST_IV40BS,North America,7470.98,0.86,Loyalty Program
+CUST_BS00KN,South America,380.31,0.74,Email Campaign
+CUST_63GZF7,South America,3338.59,0.93,Loyalty Program
+CUST_3V2TI9,Asia,8930.78,0.89,Email Campaign
+CUST_F3VY4I,South America,108.73,0.88,Loyalty Program
+CUST_LEY2RO,South America,2518.81,0.96,Email Campaign
+CUST_Z99LP9,Europe,6902.04,0.91,Email Campaign
+CUST_L4130V,South America,4710.99,0.94,Email Campaign
+CUST_Z5MDZT,Asia,6775.94,0.87,Discount
+CUST_9BLDLM,South America,8436.08,0.87,Loyalty Program
+CUST_UJ4I0I,North America,3619.97,0.87,Email Campaign
+CUST_2J57LB,Asia,2463.71,0.79,Discount
+CUST_F01KL8,North America,5810.14,0.84,Email Campaign
+CUST_D7UCZD,South America,7433.5,0.79,Email Campaign
+CUST_LASLSL,South America,790.87,0.75,Email Campaign
+CUST_J8HWCH,Asia,9724.72,0.88,Discount
+CUST_FJYEPF,South America,4265.03,0.95,Email Campaign
+CUST_BDA0ZF,Asia,6431.16,0.73,Email Campaign
+CUST_MQBAZI,South America,7416.19,0.92,Loyalty Program
+CUST_3DQVB6,Asia,9013.9,0.94,Discount
+CUST_N5GNEX,Asia,6119.91,0.76,Discount
+CUST_EEH2NL,Europe,6554.32,0.81,Discount
+CUST_FQH90C,Asia,6045.55,0.76,Email Campaign
+CUST_KWLYA4,Europe,9416.49,0.71,Discount
+CUST_5V5L8M,Europe,6429.79,0.89,Loyalty Program
+CUST_N9FAWV,North America,6027.95,0.83,Discount
+CUST_2OYUE7,North America,3344.58,0.9,Email Campaign
+CUST_036SQ0,Europe,5852.78,0.99,Discount
+CUST_HH1DPL,Asia,2834.88,0.93,Email Campaign
+CUST_N8CEQQ,North America,6449.64,0.82,Discount
+CUST_Z534UV,South America,4039.32,0.86,Email Campaign
+CUST_X4VDQQ,Europe,5453.11,0.87,Loyalty Program
+CUST_LI4OTM,Asia,9462.3,0.97,Discount
+CUST_CVRK2A,South America,1979.16,0.83,Discount
+CUST_IBILQT,Europe,1209.64,0.95,Discount
+CUST_IB2XNZ,North America,7390.58,0.83,Email Campaign
+CUST_XXOCAT,South America,7897.13,0.94,Loyalty Program
+CUST_6GFKGP,South America,4736.74,0.8,Loyalty Program
+CUST_EDOLDZ,Asia,6785.2,0.82,Loyalty Program
+CUST_BO41HL,Europe,2194.34,0.9,Email Campaign
+CUST_4RURGE,North America,4152.77,0.92,Loyalty Program
+CUST_9W62NQ,Europe,6253.83,0.82,Email Campaign
+CUST_LXYNWM,South America,4971.01,0.89,Loyalty Program
+CUST_H0X9BM,Europe,8065.12,0.95,Discount
+CUST_B6I6TQ,South America,4234.86,0.98,Loyalty Program
+CUST_QVY0W6,Asia,3508.55,0.99,Loyalty Program
+CUST_FTVV2E,Europe,1339.33,0.74,Loyalty Program
+CUST_V2S41P,North America,270.44,0.71,Discount
+CUST_NUPGMC,Asia,9434.41,0.81,Email Campaign
+CUST_Y9519E,Asia,6820.84,0.74,Loyalty Program
+CUST_RBKJPB,Europe,3269.16,0.71,Discount
+CUST_XP0ZJ4,South America,7402.02,0.82,Discount
+CUST_RS8DRH,Asia,7238.63,0.99,Loyalty Program
+CUST_OBBDQK,Asia,869.33,0.79,Email Campaign
+CUST_T85F6A,Europe,4902.47,0.9,Loyalty Program
+CUST_6CRL89,North America,7785.08,0.99,Discount
+CUST_YAI4OU,Asia,2468.27,0.79,Email Campaign
+CUST_41EIZ9,North America,821.28,0.75,Discount
+CUST_ONGX8P,South America,7235.19,0.76,Loyalty Program
+CUST_7H4NUU,South America,1463.09,0.93,Loyalty Program
+CUST_8QD6QW,North America,7897.75,0.89,Loyalty Program
+CUST_JGUXWD,South America,7583.51,0.99,Email Campaign
+CUST_2PKQ2C,Asia,4757.26,0.81,Discount
+CUST_XRAI4W,North America,7194.41,0.87,Discount
+CUST_BAG85V,Europe,8945.4,0.81,Loyalty Program
+CUST_5D6VPT,North America,6524.11,0.91,Email Campaign
+CUST_GF1UXT,North America,9065.39,0.94,Loyalty Program
+CUST_XXCJGY,North America,319.44,0.97,Discount
+CUST_HUHIM8,South America,3662.77,0.99,Discount
+CUST_ADAM3B,South America,1697.92,0.93,Email Campaign
+CUST_SKJWZE,Europe,5597.02,0.81,Discount
+CUST_407V69,Asia,7483.81,0.83,Loyalty Program
+CUST_6QSKA7,North America,6457.19,0.78,Loyalty Program
+CUST_T8SZ26,Europe,8390.52,0.81,Discount
+CUST_0B2S2G,North America,1663.16,0.73,Email Campaign
+CUST_C21E6Q,Europe,9211.32,0.79,Loyalty Program
+CUST_O3TXP5,North America,8481.87,0.82,Discount
+CUST_ICIRHQ,North America,8548.37,0.75,Email Campaign
+CUST_D761W1,Asia,7491.21,0.72,Loyalty Program
+CUST_7LWLGV,Europe,1133.29,0.86,Discount
+CUST_NO8UKG,Europe,9008.38,0.72,Discount
+CUST_X1FGKC,South America,4193.09,0.97,Discount
+CUST_PWNYC4,North America,3670,0.95,Loyalty Program
+CUST_G4JELZ,Asia,747.53,0.92,Email Campaign
+CUST_9XMK30,Europe,7107.5,0.87,Discount
+CUST_EABMEC,Europe,2437.69,0.86,Discount
+CUST_OLFDFE,Europe,1593.82,0.93,Discount
+CUST_AJPGNN,Asia,1197.2,0.85,Email Campaign
+CUST_IK8ON1,Asia,8518.46,0.85,Email Campaign
+CUST_2H6S8D,Europe,3225.66,0.93,Email Campaign
+CUST_D5PLNY,North America,4824.78,0.87,Discount
+CUST_JQ5RPS,South America,9524.09,0.76,Email Campaign
+CUST_AACLI0,North America,465.24,0.81,Loyalty Program
+CUST_GG0028,Europe,2062.06,1,Email Campaign
+CUST_6BRCIH,South America,9295.03,0.95,Loyalty Program
+CUST_KGSHM8,North America,7684.37,0.89,Email Campaign
+CUST_2GN4BD,Asia,5255.26,0.77,Email Campaign
+CUST_AHG9V6,North America,1429.39,0.84,Discount
+CUST_RU94A0,Asia,4075.07,0.97,Loyalty Program
+CUST_IOWCTF,Asia,5498.9,0.82,Email Campaign
+CUST_QABK3V,South America,2351.28,0.81,Loyalty Program
+CUST_A2WUXK,North America,7004.57,0.76,Email Campaign
+CUST_1LCCTC,Europe,7453.35,0.77,Discount
+CUST_2LV3SC,Europe,8022.85,0.83,Loyalty Program
+CUST_51RVER,Europe,399.67,0.81,Discount
+CUST_VXY0T4,Asia,7528.11,0.73,Discount
+CUST_E7GVLI,Asia,3029.19,0.85,Discount
+CUST_L88AVT,Asia,3192.33,0.86,Loyalty Program
+CUST_4AT9YP,North America,7336.35,0.82,Loyalty Program
+CUST_01L9WK,South America,2934.87,0.77,Loyalty Program
+CUST_8O0LYB,Asia,1673.8,0.73,Discount
+CUST_Y01S5E,South America,4777.57,0.89,Email Campaign
+CUST_U0IYOV,Asia,3856.65,0.73,Discount
+CUST_IN4O86,North America,7382.57,0.72,Email Campaign
+CUST_9BU8KR,North America,2311.66,0.95,Loyalty Program
+CUST_LGBX84,North America,7834.83,0.74,Discount
+CUST_89XRLN,Europe,7269.94,0.88,Discount
+CUST_QC5EJV,South America,7389.53,0.83,Email Campaign
+CUST_Z75I4B,North America,6682.79,0.78,Loyalty Program
+CUST_QY6EK1,South America,3374.24,0.98,Loyalty Program
+CUST_ICZ643,Europe,2215.6,0.79,Email Campaign
+CUST_MLYU5V,South America,6857.57,0.99,Loyalty Program
+CUST_YXN746,Asia,8588.78,0.95,Email Campaign
+CUST_CWGJCL,South America,8929.53,0.87,Loyalty Program
+CUST_CRJ5NF,Asia,1524.35,0.93,Discount
+CUST_KH0XAI,South America,5409.85,0.75,Loyalty Program
+CUST_M5C88S,South America,7711.9,0.79,Email Campaign
+CUST_KSHPCO,Asia,3705.96,0.84,Discount
+CUST_0RG766,Asia,778.78,0.76,Email Campaign
+CUST_YPMHM2,Asia,879.58,0.9,Email Campaign
+CUST_3SL47P,Asia,4520.79,0.73,Loyalty Program
+CUST_2Y591G,Europe,9086.47,0.72,Loyalty Program
+CUST_AOVA36,Europe,7574.32,0.84,Email Campaign
+CUST_6AIMBC,Europe,1059.37,0.79,Loyalty Program
+CUST_80O76H,Europe,7303.4,0.82,Loyalty Program
+CUST_CCXMCV,North America,4059.56,0.91,Discount
+CUST_XB444C,South America,2567.93,0.82,Discount
+CUST_SOLIFV,Europe,1829.07,0.78,Discount
+CUST_HR6BHR,South America,7903.91,0.89,Loyalty Program
+CUST_RUL2ZJ,Asia,3202.54,0.82,Loyalty Program
+CUST_U53X37,Europe,2190.06,0.88,Email Campaign
+CUST_XAF8TG,North America,5639.03,0.92,Email Campaign
+CUST_QD8OLI,Asia,8608.56,0.78,Discount
+CUST_ZSZ589,Europe,1279.04,0.9,Email Campaign
+CUST_911LD1,North America,2988.45,0.78,Email Campaign
+CUST_T7154G,Europe,4034.24,0.86,Discount
+CUST_J2L48R,South America,5198.95,0.71,Discount
+CUST_IVVP25,Asia,1877.91,0.76,Discount
+CUST_KRB0VY,North America,7462.35,0.71,Discount
+CUST_W46YCV,Asia,5484.67,0.87,Email Campaign
+CUST_LF4J2Z,North America,432.97,0.91,Email Campaign
+CUST_XFNKSI,Asia,6552.91,0.71,Email Campaign
+CUST_4OGN3W,Asia,8337.01,0.75,Email Campaign
+CUST_A9XKYI,North America,6025.84,0.96,Loyalty Program
+CUST_EGI0XZ,North America,3193.2,0.96,Discount
+CUST_L7UW52,Europe,2483.6,0.98,Loyalty Program
+CUST_XBH499,North America,1089.9,0.89,Email Campaign
+CUST_XDG9ET,North America,9029.47,0.73,Email Campaign
+CUST_IKQCRF,Europe,2972.37,0.88,Email Campaign
+CUST_7Z7F7I,North America,914.53,0.98,Loyalty Program
+CUST_OLQ2WY,Europe,2366.14,0.77,Discount
+CUST_B7QECD,North America,5912.02,0.79,Loyalty Program
+CUST_HGKW57,North America,2784.69,0.92,Email Campaign
+CUST_UAVMKF,Europe,5221.36,0.83,Loyalty Program
+CUST_MDY5GQ,North America,9665.78,0.81,Loyalty Program
+CUST_G7DKCB,North America,2557.21,0.83,Email Campaign
+CUST_B6510G,Asia,2329.76,0.96,Discount
+CUST_VN62FZ,Asia,3853.73,0.97,Discount
+CUST_IQ9OFC,Europe,4377.98,0.85,Email Campaign
+CUST_HB4IMT,Asia,2313.57,0.81,Discount
+CUST_YWRGQV,Europe,4715.17,0.82,Loyalty Program
+CUST_YXHNND,Asia,3074.87,0.98,Email Campaign
+CUST_013933,Europe,2934.93,0.89,Loyalty Program
+CUST_Q6A35A,Asia,6837.62,0.8,Email Campaign
+CUST_MHZNF0,South America,6139.72,0.77,Email Campaign
+CUST_GF7YN5,Europe,8838.28,0.81,Discount
+CUST_3GEAVU,Asia,6983.79,0.79,Discount
+CUST_4VTTKX,South America,8110.68,0.81,Email Campaign
+CUST_AGY6PS,North America,4270.83,0.96,Loyalty Program
+CUST_6AW3D2,Europe,890.86,0.84,Loyalty Program
+CUST_CJU9RP,South America,8160.3,0.8,Email Campaign
+CUST_8EOIWX,North America,6730.94,0.76,Email Campaign
+CUST_AJNW25,Asia,8188.37,0.74,Discount
+CUST_3HFTWG,South America,7123.29,0.89,Discount
+CUST_J010II,North America,5640.51,0.91,Discount
+CUST_LXE9W3,Europe,1178.52,0.95,Email Campaign
+CUST_4VTEVS,Asia,6212.08,0.86,Loyalty Program
+CUST_HUEDYC,North America,137.54,0.84,Loyalty Program
+CUST_MKD2V4,South America,9249.79,0.81,Email Campaign
+CUST_USY5LQ,North America,6576.84,0.91,Email Campaign
+CUST_M7GM6A,Europe,2438.26,0.87,Discount
+CUST_Q41VUK,South America,7480.44,0.97,Discount
+CUST_YMW2M3,Asia,6155.99,0.9,Email Campaign
+CUST_TJ4CA0,South America,4432.72,0.71,Loyalty Program
+CUST_HE7GF4,Asia,1962.89,0.9,Loyalty Program
+CUST_BVUHSO,Europe,5561.82,0.84,Discount
+CUST_K6SNJ2,South America,9007.73,0.81,Email Campaign
+CUST_B4ZCM6,Asia,9856.4,0.8,Email Campaign
+CUST_GIHAJA,North America,8872.13,0.75,Discount
+CUST_PDEK9O,South America,9613.21,0.86,Discount
+CUST_PHPJEI,South America,609.12,0.9,Loyalty Program
+CUST_R2FEDT,North America,2385.94,0.89,Loyalty Program
+CUST_SLRUQ3,Europe,2938.52,0.77,Loyalty Program
+CUST_HMTVS4,Europe,1986.64,0.94,Discount
+CUST_C8K6GS,Europe,141.03,0.89,Email Campaign
+CUST_YLBYFS,Europe,7520.9,0.78,Loyalty Program
+CUST_MO30UI,North America,9540.37,0.97,Discount
+CUST_V90KA5,Asia,9651.91,0.72,Loyalty Program
+CUST_IRE5UX,South America,7345.31,0.79,Discount
+CUST_NDXQII,Asia,4602.74,1,Loyalty Program
+CUST_S7N5P0,South America,6944.46,0.96,Email Campaign
+CUST_D1FR8X,South America,1139.46,0.78,Discount
+CUST_75DC10,North America,4949.03,0.88,Loyalty Program
+CUST_XT5LBL,Europe,5668.56,0.98,Email Campaign
+CUST_VTAM84,Europe,1817.45,0.78,Loyalty Program
+CUST_YB6P8Y,Europe,3412.8,0.71,Loyalty Program
+CUST_Z8RQTP,Europe,917.62,0.9,Discount
+CUST_B4OF1M,South America,719.95,0.84,Loyalty Program
+CUST_CACEBD,Europe,1369.15,0.71,Email Campaign
+CUST_GFJ0NT,South America,8035.51,0.89,Discount
+CUST_B3A9NS,North America,5850.77,0.94,Loyalty Program
+CUST_ZX36TC,North America,3890.61,0.73,Loyalty Program
+CUST_B3J1CT,North America,6833.99,0.92,Discount
+CUST_EHLXHN,Asia,5273.34,0.74,Loyalty Program
+CUST_OE30H7,Europe,6067.62,0.8,Email Campaign
+CUST_0FFVBM,Europe,7689.04,0.75,Discount
+CUST_P2ZJHO,North America,9867.02,0.91,Loyalty Program
+CUST_EGERNG,North America,5075.89,0.88,Email Campaign
+CUST_44O6ZI,Europe,3681.69,0.97,Discount
+CUST_64RW8I,Asia,4338.6,0.86,Discount
+CUST_JL4ZVO,South America,2826.66,0.78,Discount
+CUST_NGJC7R,North America,6929.68,0.74,Discount
+CUST_PIATVZ,Asia,9458.63,0.85,Loyalty Program
+CUST_A1RDE3,Asia,4867.11,0.93,Loyalty Program
+CUST_PASOCY,Europe,6775.42,0.98,Loyalty Program
+CUST_WW3R75,North America,2175.12,0.81,Loyalty Program
+CUST_W65KKL,South America,8474.73,0.96,Loyalty Program
+CUST_VO2GYE,Asia,4147.79,0.93,Discount
+CUST_1U7KWC,South America,3937.65,0.86,Loyalty Program
+CUST_N8PVH5,South America,3791.39,0.9,Discount
+CUST_U5WI3J,North America,6754.52,0.98,Loyalty Program
+CUST_VCJTWW,South America,2586.01,0.93,Email Campaign
+CUST_I8ZYG0,Europe,3318.12,0.85,Email Campaign
+CUST_J23FKI,Europe,6134.31,0.81,Discount
+CUST_7DON6E,South America,3271.58,0.78,Loyalty Program
+CUST_Q5IROK,South America,3047.15,0.83,Discount
+CUST_X6PDS5,Asia,447.78,0.74,Email Campaign
+CUST_FYMHLS,South America,3472.64,0.97,Email Campaign
+CUST_0FMSZR,Asia,5945.96,0.86,Loyalty Program
+CUST_FEDIHC,South America,3020.42,0.85,Discount
+CUST_JNQBMK,Europe,2526.07,0.87,Loyalty Program
+CUST_RXG1IW,Asia,2054.82,0.89,Email Campaign
+CUST_H7GRVK,South America,5691.41,0.9,Discount
+CUST_L5A6Z0,Europe,8042.46,0.72,Loyalty Program
+CUST_CKAWJF,Europe,4227.58,0.74,Email Campaign
+CUST_VXPCZA,South America,8852.93,0.75,Email Campaign
+CUST_BJSJPG,Europe,8994.19,0.82,Loyalty Program
+CUST_WSKKR6,North America,5318.86,0.84,Email Campaign
+CUST_NM9F9I,Europe,3682.34,0.71,Discount
+CUST_YEXR72,South America,8435.42,0.8,Discount
+CUST_V6UNQL,Europe,8005.42,0.99,Discount
+CUST_DMJ1LJ,Asia,2132.01,0.76,Email Campaign
+CUST_TFU3NC,South America,6745.22,0.94,Email Campaign
+CUST_LV4LLP,Asia,9944.46,0.76,Loyalty Program
+CUST_BFHWLU,North America,6255.28,0.99,Email Campaign
+CUST_CH81RU,Europe,2329.61,0.88,Loyalty Program
+CUST_S926S1,North America,8738.12,0.82,Discount
+CUST_CH22EN,North America,8629.07,0.94,Loyalty Program
+CUST_C60SYY,Europe,5622.32,0.72,Loyalty Program
+CUST_N3BEWX,North America,4574.85,0.79,Discount
+CUST_ZW5SJF,North America,2833.33,0.72,Loyalty Program
+CUST_AEGNRA,South America,2151.38,0.82,Loyalty Program
+CUST_KUWGHB,South America,8089.56,0.85,Email Campaign
+CUST_F724N8,South America,4348.24,0.87,Loyalty Program
+CUST_AVS09V,Europe,6887.93,0.83,Email Campaign
+CUST_2OFFOK,Asia,2902.04,0.97,Discount
+CUST_4DTD3S,Europe,1524.2,0.79,Email Campaign
+CUST_70AB8B,South America,1556.48,0.9,Discount
+CUST_JPTYOH,Asia,8404.08,0.86,Email Campaign
+CUST_79MQAP,South America,2068.62,0.99,Email Campaign
+CUST_XY94P3,South America,4371.85,0.85,Loyalty Program
+CUST_JVF6X9,South America,7401.13,0.82,Email Campaign
+CUST_MUXY4H,North America,1725.64,0.85,Discount
+CUST_XX8Z0E,South America,417.65,0.85,Loyalty Program
+CUST_27V6TU,Asia,1556.53,0.99,Email Campaign
+CUST_UIWXOZ,South America,4235.7,0.95,Email Campaign
+CUST_00MZ71,Asia,3984.98,0.85,Email Campaign
+CUST_4RUO40,North America,3830.54,0.95,Discount
+CUST_NUVQ6W,Asia,2616.14,0.93,Discount
+CUST_2LMBNM,North America,8001.23,0.94,Discount
+CUST_V401G1,Europe,4330,0.9,Loyalty Program
+CUST_TIOZKN,North America,1439.52,0.88,Email Campaign
+CUST_B4DNCO,North America,3537.24,0.88,Loyalty Program
+CUST_30EGPT,Asia,4727.5,0.87,Email Campaign
+CUST_YUEUVB,South America,6835.58,0.73,Loyalty Program
+CUST_BCC8IZ,Asia,1252.84,0.8,Email Campaign
+CUST_BLTNT8,Europe,8765.81,0.95,Email Campaign
+CUST_2FYCD5,North America,4290,0.91,Email Campaign
+CUST_DRO9JK,North America,285.43,0.97,Discount
+CUST_01PSBO,South America,9268.13,0.9,Email Campaign
+CUST_3RP8JE,Europe,6412.29,0.72,Discount
+CUST_T5ISZO,Asia,9958.64,0.75,Discount
+CUST_0O4GJK,Asia,6044.55,0.97,Email Campaign
+CUST_2C5B90,Asia,526.13,0.93,Discount
+CUST_3I1I51,North America,2084.42,0.99,Discount
+CUST_B610CG,Asia,5579.16,0.75,Discount
+CUST_MHY4N1,North America,675.37,0.82,Discount
+CUST_HWKVNS,Asia,9556.6,0.94,Loyalty Program
+CUST_BXJFHN,Europe,3450.29,0.94,Email Campaign
+CUST_SPZ3UI,Asia,1510.41,0.82,Email Campaign
+CUST_JHDX3Y,Asia,2540.37,0.85,Email Campaign
+CUST_NN1KV7,South America,3839.76,0.84,Email Campaign
+CUST_UILRXE,Asia,2427.28,0.72,Email Campaign
+CUST_IKZA4M,Europe,1383.73,0.72,Email Campaign
+CUST_QMJ3YW,Asia,9040.88,0.99,Loyalty Program
+CUST_G21WKJ,Europe,6020.17,0.98,Email Campaign
+CUST_2TP1JE,Asia,656.73,0.73,Email Campaign
+CUST_HI6PMI,South America,1817.25,0.82,Email Campaign
+CUST_5RNJKD,South America,8405.61,0.83,Email Campaign
+CUST_FETM74,South America,948.06,0.8,Email Campaign
+CUST_VMVCL3,North America,7936.25,0.9,Discount
+CUST_CC8STD,Europe,8026.54,0.83,Loyalty Program
+CUST_US5158,North America,8463.2,0.73,Loyalty Program
+CUST_Y8A1L7,North America,1797.05,0.82,Loyalty Program
+CUST_RZAK6A,North America,2810.77,1,Loyalty Program
+CUST_M9NX0U,South America,7658.44,0.71,Loyalty Program
+CUST_V1B5RI,Europe,1087.13,0.75,Discount
+CUST_46Z5W8,Asia,3529.84,0.84,Loyalty Program
+CUST_F4MA2K,Europe,185.64,0.89,Loyalty Program
+CUST_R9CZ7P,South America,1632.93,0.94,Loyalty Program
+CUST_8EH70B,Europe,6049.8,0.88,Loyalty Program
+CUST_5IRLFT,Europe,5547.31,0.94,Email Campaign
+CUST_6S61C0,Asia,6928.4,0.94,Discount
+CUST_RLGPEB,Asia,2997.78,0.92,Loyalty Program
+CUST_VPO1LO,South America,4393.75,0.84,Loyalty Program
+CUST_554OHC,South America,2048.94,0.98,Loyalty Program
+CUST_W3DCAW,Europe,1277.61,0.84,Discount
+CUST_N9WEJG,Asia,7202.02,0.71,Email Campaign
+CUST_HPKEVM,South America,317.51,0.93,Email Campaign
+CUST_PDHTCK,Europe,9873.05,0.84,Loyalty Program
+CUST_JYHBZ3,Europe,6948.5,0.99,Email Campaign
+CUST_SEVJMC,South America,3601.41,0.98,Email Campaign
+CUST_QRQFCJ,Europe,3934.68,0.94,Email Campaign
+CUST_DK1QXF,Europe,4274.36,0.77,Loyalty Program
+CUST_3WHL7U,South America,9390.68,0.89,Discount
+CUST_8249ZL,Europe,8032.75,0.99,Discount
+CUST_3OX5X9,Asia,7845.31,0.97,Email Campaign
+CUST_O7M13J,South America,9519.95,0.92,Loyalty Program
+CUST_XFIH17,Asia,7277.51,0.76,Discount
+CUST_UP13FO,North America,4677.47,0.77,Loyalty Program
+CUST_M9J2EM,Asia,1255.51,0.77,Loyalty Program
+CUST_QU7BQG,North America,7420.85,0.83,Email Campaign
+CUST_L95X63,South America,7005.97,0.89,Email Campaign
+CUST_JRP6YR,North America,6939.2,0.78,Discount
+CUST_HCHI1I,South America,8379,0.9,Discount
+CUST_3APF0I,North America,5477.85,0.77,Discount
+CUST_WAKFX3,Asia,1385.25,0.94,Email Campaign
+CUST_IPU2GM,Asia,8645.13,0.8,Discount
+CUST_MWCT8E,South America,1336.26,0.98,Discount
+CUST_43LUWC,Europe,3243.3,0.89,Loyalty Program
+CUST_XHUQXC,Asia,3351.01,0.9,Loyalty Program
+CUST_53R8GS,Europe,1210.39,0.99,Discount
+CUST_A5I7QI,North America,1417.12,0.8,Discount
+CUST_YHJGER,North America,758.11,0.77,Loyalty Program
+CUST_PYQ0JP,Europe,4615.04,0.95,Loyalty Program
+CUST_CEWRE9,Europe,3744.7,0.79,Email Campaign
+CUST_RX6E01,North America,5594.31,0.75,Discount
+CUST_USRHAJ,Europe,5355.65,0.91,Email Campaign
+CUST_SKOHVM,Europe,4407.03,0.72,Discount
+CUST_W9K50E,North America,722.71,0.91,Discount
+CUST_YRYBHG,Europe,2093.25,0.98,Email Campaign
+CUST_Q0Z9KC,South America,1704.4,0.87,Email Campaign
+CUST_GKKC12,North America,1224.32,0.82,Email Campaign
+CUST_US4KA5,Europe,4346.52,0.91,Loyalty Program
+CUST_7SNOPD,South America,6314.8,0.96,Loyalty Program
+CUST_3Z6TPF,Asia,4211.67,0.92,Discount
+CUST_XYFJ6U,Asia,7828.53,0.89,Loyalty Program
+CUST_IW3T3O,South America,2394.66,0.89,Email Campaign
+CUST_O75OIP,Asia,7432.76,0.71,Email Campaign
+CUST_RESK5F,North America,4035.18,0.82,Discount
+CUST_UGP0TL,Europe,5200.63,0.92,Email Campaign
+CUST_ZFHH2M,North America,3588.5,0.82,Discount
+CUST_HUERVX,North America,4076.51,0.96,Discount
+CUST_RD8AL6,Asia,9080.71,0.87,Discount
+CUST_AOA6Q8,Asia,7490.57,0.86,Loyalty Program
+CUST_YQEAYL,South America,7258.96,0.81,Email Campaign
+CUST_IN3DEC,North America,962.68,0.85,Email Campaign
+CUST_Y0NND0,Asia,3552.04,0.83,Email Campaign
+CUST_LJ97TC,Asia,2580.93,0.97,Loyalty Program
+CUST_JKGSP2,Europe,489.61,0.91,Discount
+CUST_ZSDOA1,Asia,3346.17,0.99,Email Campaign
+CUST_SMCQYF,Asia,1349.74,0.94,Discount
+CUST_Y31N16,North America,7135.77,0.87,Email Campaign
+CUST_ZKTDHO,Asia,7489.88,0.94,Loyalty Program
+CUST_P086XZ,North America,8930.57,0.98,Loyalty Program
+CUST_5U1AND,Europe,6258.52,0.92,Loyalty Program
+CUST_Y6IL94,Europe,2288.76,0.85,Loyalty Program
+CUST_0N2VWK,North America,6081.26,0.79,Discount
+CUST_1XUKW0,North America,4136.53,0.81,Discount
+CUST_WFO3OH,Asia,7412.05,0.83,Loyalty Program
+CUST_SBNCZ0,Europe,2383.4,0.97,Loyalty Program
+CUST_LR4FH4,Asia,8427.8,0.78,Discount
+CUST_M6EW3R,Asia,7452.58,0.91,Loyalty Program
+CUST_NLIUQ1,North America,1826.51,0.91,Email Campaign
+CUST_FXYHVU,North America,4552.54,0.78,Email Campaign
+CUST_OO9E6J,Asia,4064.13,0.75,Loyalty Program
+CUST_NI08TI,North America,3009.38,0.94,Email Campaign
+CUST_XFGCBA,South America,4530.78,0.79,Email Campaign
+CUST_IVTC3Y,North America,9459.96,0.93,Loyalty Program
+CUST_PC0BGH,Asia,1990.92,0.74,Email Campaign
+CUST_VFNLV2,North America,1338.89,0.91,Email Campaign
+CUST_9JD2W2,Asia,2800.37,0.97,Email Campaign
+CUST_5SVOIR,South America,4039.86,0.91,Email Campaign
+CUST_D6GL65,South America,458.79,0.88,Loyalty Program
+CUST_JE6NJN,Europe,657.67,0.73,Email Campaign
+CUST_23STW9,Asia,4719.86,0.87,Loyalty Program
+CUST_M5JLHP,South America,2596.36,0.86,Loyalty Program
+CUST_8D2HGU,Europe,7534.3,0.83,Email Campaign
+CUST_0G9SEI,South America,1690.33,0.99,Email Campaign
+CUST_2W9O0F,South America,7139.62,0.89,Loyalty Program
+CUST_USBFVD,Europe,6605.79,0.84,Loyalty Program
+CUST_C0TECN,Asia,6748.05,0.75,Discount
+CUST_YXUCO6,North America,5733.23,0.86,Discount
+CUST_PLXRAB,South America,568.75,0.76,Discount
+CUST_LG0KFJ,Europe,3771.06,0.89,Email Campaign
+CUST_MSQRV2,South America,5952.96,0.89,Loyalty Program
+CUST_M5BVOO,South America,9677.52,0.71,Discount
+CUST_MRT105,Asia,6315.48,0.95,Loyalty Program
+CUST_86P2QD,Europe,5398.12,0.86,Loyalty Program
+CUST_YNQTZO,North America,1720.45,0.77,Email Campaign
+CUST_XQCFUC,South America,8981.64,0.8,Loyalty Program
+CUST_9DEKCG,Asia,4251.05,0.97,Email Campaign
+CUST_QM5S1G,South America,1202.33,0.91,Discount
+CUST_IPJIZD,Asia,9812.35,0.97,Email Campaign
+CUST_YCI6G8,South America,1784.65,0.78,Email Campaign
+CUST_2AAC9J,Asia,2591.9,0.96,Loyalty Program
+CUST_9M949B,Europe,8546.25,0.82,Loyalty Program
+CUST_XTOS3O,South America,1567.56,0.78,Discount
+CUST_FUXOON,North America,3970.19,0.88,Discount
+CUST_WM4QEY,South America,2365.04,0.93,Discount
+CUST_7ZRMDM,Asia,4479.62,0.99,Discount
+CUST_S6F8DC,North America,2725.01,0.83,Email Campaign
+CUST_B6LMN4,South America,5677.06,0.91,Email Campaign
+CUST_GPAM9O,Asia,1987.38,0.76,Email Campaign
+CUST_CL0MP3,North America,9171.46,1,Loyalty Program
+CUST_HENBF0,North America,9968.12,0.93,Loyalty Program
+CUST_KF0F0I,North America,6949.25,0.92,Email Campaign
+CUST_PWWIRY,Asia,7045.74,0.84,Discount
+CUST_SYSB32,South America,7704.64,0.86,Email Campaign
+CUST_HALQC9,Asia,9108.74,0.92,Loyalty Program
+CUST_F435HP,South America,9465.58,0.72,Loyalty Program
+CUST_HCPWBS,South America,1189.39,0.97,Discount
+CUST_BBFJPX,Asia,474.17,0.78,Loyalty Program
+CUST_WOTHNG,North America,353.49,0.88,Email Campaign
+CUST_8UFMY8,North America,6436.6,1,Loyalty Program
+CUST_I85B8U,Europe,3508.99,0.77,Loyalty Program
+CUST_0LK3FH,Europe,6107.92,0.84,Email Campaign
+CUST_W6IAQU,North America,9598.26,0.72,Loyalty Program
+CUST_VVTWXQ,North America,5889.47,0.93,Discount
+CUST_KCYL12,North America,1641.85,0.86,Loyalty Program
+CUST_KEWOKQ,South America,2861.42,0.89,Loyalty Program
+CUST_3JKYZM,Asia,5859.27,0.89,Email Campaign
+CUST_E7FABX,Europe,9221.87,0.9,Email Campaign
+CUST_RODNSR,South America,6527.24,0.72,Discount
+CUST_I2NT6Q,Europe,4666.61,0.84,Loyalty Program
+CUST_RYBBIY,Europe,1681.89,0.93,Loyalty Program
+CUST_B444YD,Asia,5264.73,0.77,Email Campaign
+CUST_N4GTYJ,South America,9209.78,0.73,Discount
+CUST_942DWH,North America,1175.8,0.88,Email Campaign
+CUST_NKS5JM,North America,1127.52,0.91,Loyalty Program
+CUST_2Z154V,South America,1020.81,0.83,Loyalty Program
+CUST_TCBVOW,Asia,4518.71,0.97,Email Campaign
+CUST_I0WIEF,Asia,3631.82,0.83,Loyalty Program
+CUST_9AROEI,North America,1456.63,0.71,Loyalty Program
+CUST_BGNCT8,Europe,6710.4,0.87,Discount
+CUST_W4O6PT,South America,3463.16,0.83,Discount
+CUST_PJ28GG,Asia,6133.35,0.8,Loyalty Program
+CUST_5YWIFO,Europe,5420.61,0.93,Loyalty Program
+CUST_L4ZCRB,South America,6421.98,0.75,Discount
+CUST_FQZ8NE,North America,8114.74,0.95,Loyalty Program
+CUST_W43ZQE,North America,5196.01,0.89,Email Campaign
+CUST_3E8CDE,Europe,9180.68,0.72,Discount
+CUST_59LKML,North America,8484.88,0.95,Discount
+CUST_PLMQ8D,Asia,1748.6,0.82,Discount
+CUST_LL26RD,North America,1825.76,0.93,Discount
+CUST_QUGVSK,North America,6363.04,0.95,Discount
+CUST_DV4FNK,South America,9886.55,0.71,Loyalty Program
+CUST_1I03UO,Asia,523.33,0.81,Loyalty Program
+CUST_NR3JMQ,South America,8459.92,0.84,Email Campaign
+CUST_IP21YB,Europe,3795.64,0.77,Discount
+CUST_2S52FC,Europe,2509.08,0.97,Loyalty Program
+CUST_9ZVDQD,South America,6176.86,0.97,Discount
+CUST_SGB5BC,South America,4750.72,0.77,Email Campaign
+CUST_Q0QUZV,Asia,9336.55,0.98,Discount
+CUST_O849LZ,North America,1120.38,0.94,Discount
+CUST_G5X09T,North America,8588.97,0.96,Email Campaign
+CUST_253BDM,North America,5367.85,0.72,Loyalty Program
+CUST_IK37S2,Asia,2693.31,0.74,Loyalty Program
+CUST_N5OYR9,North America,7372,0.74,Loyalty Program
+CUST_V5WC4Q,North America,2856.56,0.86,Discount
+CUST_EF3ULT,Europe,2456.09,0.98,Discount
+CUST_FSVS2T,South America,1967.57,0.85,Discount
+CUST_YOQCBW,North America,5663.71,0.91,Email Campaign
+CUST_ZH5RCA,South America,8344.34,0.83,Email Campaign
+CUST_54SF8Z,Asia,2964.04,0.97,Email Campaign
+CUST_HTWY80,Europe,7037.39,0.76,Loyalty Program
+CUST_X3UIAF,North America,5665.16,0.84,Loyalty Program
+CUST_1V07JF,Asia,1263.72,0.86,Loyalty Program
+CUST_ROZC85,South America,7421.65,0.75,Email Campaign
+CUST_8KTX86,South America,2220.19,0.9,Loyalty Program
+CUST_SOIUIJ,North America,2880.54,0.78,Loyalty Program
+CUST_IL7QXK,Europe,229.49,0.81,Loyalty Program
+CUST_MX67RE,North America,3553.41,0.78,Email Campaign
+CUST_1BNUVT,South America,1448.01,0.73,Loyalty Program
+CUST_4KMJ0P,South America,789.86,0.71,Email Campaign
+CUST_RWRAXP,Asia,255.09,0.9,Email Campaign
+CUST_9I3KSV,Europe,9450.07,0.95,Email Campaign
+CUST_8A2HQK,Asia,6908.74,0.77,Email Campaign
+CUST_70KWXF,North America,5221.37,0.82,Email Campaign
+CUST_7MF9F8,Europe,1693.35,0.87,Email Campaign
+CUST_ARUSF2,North America,3225.48,0.78,Email Campaign
+CUST_80QS2R,South America,2246.3,0.82,Email Campaign
+CUST_6B2T0Q,North America,7966.44,0.88,Loyalty Program
+CUST_6YHPGH,South America,4701.5,0.72,Discount
+CUST_KPB2YX,South America,2393.83,0.93,Email Campaign
+CUST_0RBRHQ,Asia,7829.64,0.99,Discount
+CUST_0YE5ND,North America,8885.42,0.91,Email Campaign
+CUST_IR8UXU,Europe,1153.56,0.76,Email Campaign
+CUST_9EH8YC,North America,2448.88,0.9,Email Campaign
+CUST_IL0SMR,North America,9017.95,0.93,Discount
+CUST_A6FRWM,Asia,2670.35,0.88,Loyalty Program
+CUST_E3CRWI,North America,5739.3,0.82,Loyalty Program
+CUST_D2Y9LW,Asia,6891.57,0.87,Loyalty Program
+CUST_CSFAPF,Asia,7244.95,0.86,Loyalty Program
+CUST_LBW5AQ,North America,1867.35,0.74,Email Campaign
+CUST_L52VCH,North America,4088.06,0.83,Discount
+CUST_NO5M5T,Europe,6186.34,0.93,Loyalty Program
+CUST_S323SI,North America,6267.38,0.97,Email Campaign
+CUST_8Q747G,Asia,1452.32,0.77,Email Campaign
+CUST_FF9TAY,Europe,1646.34,0.86,Discount
+CUST_6W9UXK,South America,924.93,0.9,Loyalty Program
+CUST_S76LW6,Asia,6991.91,0.93,Email Campaign
+CUST_EXIWCA,North America,9532.66,1,Discount
+CUST_KG4CL1,Europe,2505.93,0.84,Loyalty Program
+CUST_USQEXX,North America,3742.51,0.87,Email Campaign
+CUST_PW2D77,North America,6595.92,0.97,Email Campaign
+CUST_XRK8GW,Asia,7919.52,0.86,Loyalty Program
+CUST_VAESL6,South America,5480.27,0.98,Discount
+CUST_37ST5M,Europe,6143.17,0.94,Loyalty Program
+CUST_E2GL9I,South America,5456.91,0.87,Email Campaign
+CUST_HRFJ1X,North America,4044.17,0.73,Discount
+CUST_E1L9DM,Asia,527.89,0.87,Discount
+CUST_WEGDN2,North America,1630.43,0.94,Email Campaign
+CUST_55OLQZ,Asia,698.1,0.74,Discount
+CUST_GAZJVS,South America,736.78,0.92,Discount
+CUST_O5JIGG,North America,415.92,0.8,Email Campaign
+CUST_TXVZTA,South America,8851.68,0.94,Discount
+CUST_Q5E1UK,North America,4435.01,0.95,Discount
+CUST_R25NTW,Europe,6504.51,0.78,Loyalty Program
+CUST_UL45BE,North America,5006.76,0.72,Discount
+CUST_4IA9PZ,South America,9388.8,0.97,Discount
+CUST_PCQ0RO,Europe,1674.97,0.99,Email Campaign
+CUST_FVM278,South America,9243.26,0.89,Email Campaign
+CUST_XFPC3V,North America,8190.27,0.8,Discount
+CUST_QZQWA8,Europe,5172.74,0.77,Loyalty Program
+CUST_TMN3U6,Asia,4470.21,0.98,Loyalty Program
+CUST_KC22NA,North America,3684.27,0.74,Loyalty Program
+CUST_S5WNVH,North America,8358.63,0.79,Discount
+CUST_Y1QUU4,South America,2007.24,0.8,Loyalty Program
+CUST_D80XFB,Europe,2588.72,0.93,Loyalty Program
+CUST_ZP7NKH,South America,151.49,0.71,Discount
+CUST_JXM5BG,North America,6708.65,0.73,Email Campaign
+CUST_H2BTT3,Europe,4446.57,0.98,Loyalty Program
+CUST_NBRC2I,South America,7630.91,0.9,Email Campaign
+CUST_U3QKW4,North America,4411.59,0.89,Discount
+CUST_VIUVFA,Europe,4344.24,0.94,Discount
+CUST_R3QKRP,South America,856.45,0.94,Discount
+CUST_F4OLF7,Asia,8777.25,0.8,Email Campaign
+CUST_EYAHR1,Asia,5078.72,0.74,Loyalty Program
+CUST_C9CRDE,South America,1490.65,0.9,Email Campaign
+CUST_4Y55YF,Asia,795.69,0.9,Email Campaign
+CUST_MP2LZ8,South America,9429.52,0.83,Discount
+CUST_Z6JHQH,Europe,1237.78,0.77,Email Campaign
+CUST_IM6ZE0,Asia,8353.81,0.79,Discount
+CUST_6XB8IV,Asia,3554.05,1,Loyalty Program
+CUST_EATCC6,Asia,7500.28,0.84,Loyalty Program
+CUST_JIEUGX,South America,9997.79,0.72,Loyalty Program
+CUST_5X62JH,South America,5175.03,0.88,Email Campaign
+CUST_OR89IJ,Asia,8943.21,0.97,Email Campaign
+CUST_V6AHK3,South America,5799.47,0.85,Discount
+CUST_EIG7Y1,North America,2191.48,0.82,Discount
+CUST_7XZGSU,South America,9841.44,0.78,Loyalty Program
+CUST_9TXOKV,Asia,5893.33,0.74,Loyalty Program
+CUST_MCA5HI,Europe,6954.76,0.9,Email Campaign
+CUST_FWHC1T,Asia,6387.62,0.89,Email Campaign
+CUST_MRDBPG,South America,4689.05,1,Loyalty Program
+CUST_75A5U5,Asia,9938.6,0.76,Email Campaign
+CUST_OTDDG6,North America,2260.61,0.72,Discount
+CUST_RLSAWV,Asia,5832.83,0.8,Email Campaign
+CUST_HP24PZ,Asia,4307.65,0.82,Discount
+CUST_YH6OQR,South America,9860.35,0.87,Loyalty Program
+CUST_8MDNSR,North America,9167.43,0.84,Discount
+CUST_CSG0MF,South America,4855.5,0.87,Loyalty Program
+CUST_YIRO2O,Europe,3311.69,0.95,Discount
+CUST_J4U0EC,South America,5141.56,0.96,Email Campaign
+CUST_YQHZ9L,Europe,7813.02,0.73,Loyalty Program
+CUST_34RCSJ,Europe,345.78,0.93,Email Campaign
+CUST_5DDA83,Asia,1919.5,0.8,Loyalty Program
+CUST_HYT0CW,Asia,5952.27,0.83,Discount
+CUST_NEK6ZY,South America,6253.95,0.98,Email Campaign
+CUST_P29HZZ,South America,5607.93,0.72,Discount
+CUST_AYBFBF,South America,2634.86,0.91,Discount
+CUST_J12EOA,South America,7718.45,0.75,Discount
+CUST_T6GC1L,North America,1252.33,0.93,Discount
+CUST_UX9YS8,South America,6100.58,0.75,Discount
+CUST_ROI52I,North America,8713.75,0.8,Email Campaign
+CUST_X7Q9QA,Asia,3672.24,0.82,Discount
+CUST_UT3HNX,South America,6480.73,0.92,Loyalty Program
+CUST_S7SXML,Europe,5871.83,0.93,Discount
+CUST_8MWW51,South America,7866.9,0.71,Discount
+CUST_CYKZZA,Europe,9144.57,0.79,Discount
+CUST_U21SN8,North America,6912.55,0.73,Email Campaign
+CUST_PT7KNG,Asia,1356.42,0.8,Email Campaign
+CUST_NQXY9J,Asia,4583.72,1,Discount
+CUST_Q0IZ7B,North America,3088.12,0.92,Email Campaign
+CUST_V0UMCK,North America,2116.87,0.83,Loyalty Program
+CUST_8G3O3S,Asia,6949.6,0.92,Email Campaign
+CUST_OGV85Z,Asia,4230.26,0.71,Discount
+CUST_ZG8GZS,Asia,3134.49,0.97,Discount
+CUST_9S0R6U,Europe,1063.82,0.82,Email Campaign
+CUST_9V282H,South America,3326.79,0.97,Discount
+CUST_B0DP1I,South America,5075.89,0.79,Loyalty Program
+CUST_KYN06Y,Europe,8344.9,0.99,Loyalty Program
+CUST_7XAORU,Asia,2360.61,0.96,Loyalty Program
+CUST_MEJQEK,South America,934.7,0.96,Discount
+CUST_CVB8ZZ,Europe,6059.69,0.84,Email Campaign
+CUST_YGIMCY,Europe,428.94,0.74,Loyalty Program
+CUST_D3VQ01,North America,2161.68,0.97,Loyalty Program
+CUST_KDF6HH,North America,8319.2,0.91,Loyalty Program
+CUST_OPSVL6,South America,8454.68,0.88,Loyalty Program
+CUST_OO9GGB,Asia,424.61,0.88,Discount
+CUST_IALMF5,Asia,5466.18,0.77,Discount
+CUST_OS05XF,South America,3010.9,0.86,Discount
+CUST_9080CG,South America,2810.94,0.76,Discount
+CUST_VQLVIV,Europe,5854.63,0.92,Email Campaign
+CUST_U4UIEN,Asia,4512.23,0.92,Email Campaign
+CUST_KJUS3P,Europe,2396.8,0.74,Discount
+CUST_7VL97T,Europe,6526.48,0.96,Email Campaign
+CUST_KGAHJE,Asia,9388.16,0.8,Discount
+CUST_H84WDK,North America,124.52,0.87,Loyalty Program
+CUST_SOZRF3,South America,5911.71,0.73,Discount
+CUST_BIN4TX,Asia,7148.04,0.85,Discount
+CUST_V3AI6U,North America,1830.84,0.85,Email Campaign
+CUST_3LL7B9,North America,9320.38,0.82,Discount
+CUST_386NJL,South America,1289.91,0.97,Discount
+CUST_DA50O6,Asia,9650.94,0.77,Discount
+CUST_2CWMON,South America,8004.77,0.91,Email Campaign
+CUST_OXSX6J,North America,2329.97,0.76,Loyalty Program
+CUST_4Z0Q2F,Europe,3493.5,0.82,Email Campaign
+CUST_SFMLJ5,North America,3595.4,0.75,Loyalty Program
+CUST_04DSG3,Europe,7898.68,0.73,Email Campaign
+CUST_3SY3BQ,Asia,7083.42,0.75,Loyalty Program
+CUST_5AB4UE,North America,538.26,0.83,Loyalty Program
+CUST_SOHVT2,North America,9833.45,0.89,Loyalty Program
+CUST_7DSE0U,Asia,8649.1,0.8,Email Campaign
+CUST_1FCQ5L,Asia,2680.94,0.72,Discount
+CUST_2E8QO7,North America,2622.1,0.75,Email Campaign
+CUST_H5F307,North America,6674.48,0.98,Discount
+CUST_AP1Q1T,South America,3222.25,0.78,Loyalty Program
+CUST_3I29TC,Europe,5126.97,0.71,Discount
+CUST_Q5HFB7,Europe,6175.69,0.95,Loyalty Program
+CUST_A330ZA,North America,7747.15,0.76,Loyalty Program
+CUST_OFIW8Z,Europe,7788.53,0.9,Email Campaign
+CUST_A45U5S,North America,6209.75,0.82,Email Campaign
+CUST_52OWNR,Europe,6210.81,0.8,Discount
+CUST_YYD8D8,Asia,9694.89,0.8,Loyalty Program
+CUST_4E8N57,South America,9523.32,0.98,Email Campaign
+CUST_16370L,Europe,4418.53,0.9,Email Campaign
+CUST_7JLO5T,Asia,2109.43,0.88,Email Campaign
+CUST_ZMV8G4,South America,279.79,0.72,Discount
+CUST_KLE7SB,Asia,2467.42,0.81,Discount
+CUST_EJ5UKW,South America,7652.55,1,Email Campaign
+CUST_EBWABC,North America,3420.51,0.77,Email Campaign
+CUST_CNV39S,North America,5370.75,0.91,Discount
+CUST_4GLLT4,Asia,4635.2,0.76,Loyalty Program
+CUST_YSO701,Asia,2360.69,0.75,Email Campaign
+CUST_35X2JU,South America,7544.38,0.8,Email Campaign
+CUST_SIJSBV,North America,7631.73,0.85,Email Campaign
+CUST_F79NSC,North America,2328.11,0.93,Loyalty Program
+CUST_7R8SCS,Asia,2865.29,0.88,Loyalty Program
+CUST_ADRW4R,Asia,5283.95,0.89,Email Campaign
+CUST_4KM6HP,Europe,3661.03,0.73,Email Campaign
+CUST_NJ5O9Q,Asia,1002.02,0.89,Loyalty Program
+CUST_0ISZJA,Asia,9443.82,0.84,Discount
+CUST_T0B1TM,Asia,8780.73,0.99,Loyalty Program
+CUST_UHPUYZ,North America,9931.14,0.9,Loyalty Program
+CUST_AQ6QKA,Europe,6037.85,0.79,Email Campaign
+CUST_CEK6N2,North America,1891.78,0.95,Discount
+CUST_58CETQ,Europe,9875.82,0.97,Loyalty Program
+CUST_UE3KQS,Europe,1161.01,0.91,Discount
+CUST_OJNUFP,Asia,4324.7,0.88,Email Campaign
+CUST_370L3Z,Europe,4832.4,0.86,Loyalty Program
+CUST_9UIR8H,South America,4585.78,0.79,Email Campaign
+CUST_04FNCY,Europe,4859.6,0.93,Discount
+CUST_PSOY21,North America,2838.28,0.88,Email Campaign
+CUST_2ZU5AQ,Asia,2266.08,0.92,Loyalty Program
+CUST_C7P5YL,Europe,7574.12,0.79,Discount
+CUST_AO7V8X,South America,7399.22,0.98,Discount
+CUST_EHSN3R,Europe,5361.79,0.72,Discount
+CUST_MAVFAQ,Asia,4013.77,0.98,Discount
+CUST_GADL6I,Asia,6954.09,0.8,Discount
+CUST_T8HJAB,Europe,9123.13,0.94,Email Campaign
+CUST_R8SG8R,North America,4336.89,0.9,Discount
+CUST_1SLDIM,Asia,3390.13,0.87,Email Campaign
+CUST_BD01VH,North America,9812.93,0.97,Discount
+CUST_A3AN68,Asia,751.93,0.75,Email Campaign
+CUST_Z6MNGY,Asia,9207.84,0.86,Loyalty Program
+CUST_IDY7LL,South America,2571.43,0.75,Loyalty Program
+CUST_76OO72,North America,2406.59,0.78,Discount
+CUST_GTWON9,South America,4904.27,0.97,Loyalty Program
+CUST_0HRXV8,North America,8020.1,0.85,Loyalty Program
+CUST_VPSUFT,South America,480.57,0.83,Email Campaign
+CUST_R2C9GC,South America,826.2,0.93,Email Campaign
+CUST_XES4HY,Asia,7451.96,0.99,Email Campaign
+CUST_BP4PAV,Asia,2493.12,0.78,Discount
+CUST_F5Q0B2,Europe,3839.79,0.98,Email Campaign
+CUST_YDXAWY,South America,2487.01,0.95,Email Campaign
+CUST_PGAVBV,Asia,6989.85,0.73,Discount
+CUST_JZ5RDM,Europe,224.41,0.79,Discount
+CUST_PVCL6R,South America,1818.78,0.9,Loyalty Program
+CUST_HSXQXD,Asia,3206.51,0.83,Discount
+CUST_BUJBZ6,Asia,7601.14,0.71,Email Campaign
+CUST_9VVOZW,Asia,4351.68,0.99,Email Campaign
+CUST_GZJTJF,Europe,1301.08,0.88,Discount
+CUST_WE5AJQ,Asia,5367.41,0.79,Loyalty Program
+CUST_J5YI4I,South America,1620.66,0.93,Email Campaign
+CUST_SLIDDV,South America,4355.47,0.98,Loyalty Program
+CUST_62DFNK,Asia,1545.96,0.85,Loyalty Program
+CUST_E36X5D,Europe,5866.6,0.99,Email Campaign
+CUST_3QEC3M,South America,9711.91,0.93,Email Campaign
+CUST_T09RL3,Europe,558.69,0.95,Loyalty Program
+CUST_WHQYBH,North America,3510.52,0.92,Discount
+CUST_8TZ313,South America,3073.76,0.74,Email Campaign
+CUST_409JKX,Europe,3620.15,0.87,Email Campaign
+CUST_63X3G5,South America,3782.48,0.79,Email Campaign
+CUST_81LJXG,Asia,5764.42,0.72,Loyalty Program
+CUST_7ZO94W,South America,795.14,0.99,Discount
+CUST_C5UC96,North America,7963.75,0.96,Email Campaign
+CUST_WDDHFS,North America,6425.53,0.8,Loyalty Program
+CUST_SU2AG9,Europe,5998.42,0.71,Discount
+CUST_EHKXDY,Europe,2428.46,0.99,Loyalty Program
+CUST_Q9OL7X,Asia,7390.76,0.95,Discount
+CUST_71YXXB,North America,8393.09,0.94,Discount
+CUST_V5TAFH,Europe,9106.12,0.85,Discount
+CUST_QT4GL7,Europe,2997.78,0.91,Discount
+CUST_7T2S58,Asia,5138.28,0.97,Loyalty Program
+CUST_NQ5322,Europe,5279.37,0.97,Email Campaign
+CUST_1HVUWI,Asia,3570.07,1,Loyalty Program
+CUST_69M601,Asia,512.41,0.97,Loyalty Program
+CUST_SHMVSO,North America,5071.39,0.73,Discount
+CUST_1SX45W,Asia,4603.7,1,Email Campaign
+CUST_ME3FVQ,North America,8010.5,0.98,Email Campaign
+CUST_G75JIY,North America,4686.53,0.86,Discount
+CUST_1QBTZN,South America,3051.57,0.81,Email Campaign
+CUST_LJ9IAI,South America,1520.28,1,Discount
+CUST_BJRZJL,North America,3185.59,0.8,Discount
+CUST_74ONJJ,Europe,2971.37,0.91,Loyalty Program
+CUST_RIREIW,Europe,5859.62,0.83,Loyalty Program
+CUST_LRBBQI,Asia,812.18,0.74,Loyalty Program
+CUST_ARLIHO,North America,5295.9,0.87,Email Campaign
+CUST_VT9QKX,South America,8112.47,0.95,Discount
+CUST_FZFLOG,North America,1425.86,0.82,Loyalty Program
+CUST_E9ABKV,Asia,2608.18,0.76,Email Campaign
+CUST_EDW3O8,Europe,463.05,0.71,Discount
+CUST_QO9TMU,Asia,7172.2,0.89,Email Campaign
+CUST_KVQRZG,North America,9736.28,0.76,Loyalty Program
+CUST_BJML8V,North America,5738.91,0.77,Loyalty Program
+CUST_G7Z5TJ,South America,1422.75,0.89,Email Campaign
+CUST_4KYTZ2,North America,3463.02,0.98,Email Campaign
+CUST_U9ED3T,Europe,2592.67,0.71,Discount
+CUST_N5QD9I,Asia,2399.13,0.82,Loyalty Program
+CUST_UR76M3,South America,7923.89,0.93,Email Campaign
+CUST_WA3F4N,Asia,8427.73,0.86,Discount
+CUST_YS62WF,Asia,3836.21,0.97,Email Campaign
+CUST_0HGSIM,South America,325.87,0.98,Loyalty Program
+CUST_929WCK,South America,7160.7,0.86,Email Campaign
+CUST_BIH0QW,Europe,1154.61,0.84,Loyalty Program
