@@ -15,7 +15,7 @@ The dashboard highlights:
 - GitHub
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshots/sales-analytics-dashboard.png)
 
 ## Key Insights
 - Customer distribution is relatively uniform across product categories and regions, indicating a balanced customer base with no over-reliance on specific segments.
